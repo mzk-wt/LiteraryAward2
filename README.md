@@ -1,3 +1,1 @@
 # LiteraryAward2
-
-test
