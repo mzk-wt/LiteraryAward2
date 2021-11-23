@@ -1,0 +1,26 @@
+{
+    "id": "18",
+    "name": "東野邊薫",
+    "kana": "とうのべかおる",
+    "imgUrl": "",
+    "bornDate": "1902年3月9日",
+    "deadDate": "1962年6月25日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%87%8E%E8%BE%BA%E8%96%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=18'>和紙</a>" },
+                        { "text": "第18回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

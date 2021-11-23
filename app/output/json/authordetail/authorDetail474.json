@@ -1,0 +1,26 @@
+{
+    "id": "474",
+    "name": "アンソニー・ホロヴィッツ",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "1955年4月5日",
+    "deadDate": "",
+    "countryId": "826",
+    "countryName": "グレートブリテン及び北部アイルランド連合王国(英国)",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=469'>カササギ殺人事件</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

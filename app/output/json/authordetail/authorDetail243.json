@@ -1,0 +1,33 @@
+{
+    "id": "243",
+    "name": "井上ひさし",
+    "kana": "いのうえひさし",
+    "imgUrl": "",
+    "bornDate": "1934年11月17日",
+    "deadDate": "2010年4月9日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E3%81%B2%E3%81%95%E3%81%97",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=243'>手鎖心中</a>" },
+                        { "text": "第67回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=494'>｢腹鼓記｣｢不忠臣蔵｣</a>" },
+                        { "text": "第20回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

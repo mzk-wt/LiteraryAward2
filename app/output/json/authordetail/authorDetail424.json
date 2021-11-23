@@ -1,0 +1,26 @@
+{
+    "id": "424",
+    "name": "岡崎隼人",
+    "kana": "おかざきはやと",
+    "imgUrl": "None",
+    "bornDate": "1985年12月22日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E9%9A%BC%E4%BA%BA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=428'>少女は踊る暗い腹の中踊る</a>" },
+                        { "text": "第34回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

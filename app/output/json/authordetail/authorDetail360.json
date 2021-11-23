@@ -1,0 +1,26 @@
+{
+    "id": "360",
+    "name": "真藤順丈",
+    "kana": "しんどうじゅんじょう",
+    "imgUrl": "",
+    "bornDate": "1977年11月3日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%9C%9F%E8%97%A4%E9%A0%86%E4%B8%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=360'>宝島</a>" },
+                        { "text": "第160回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

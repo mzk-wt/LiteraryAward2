@@ -1,0 +1,33 @@
+{
+    "id": "81",
+    "name": "宮本輝",
+    "kana": "みやもとてる",
+    "imgUrl": "",
+    "bornDate": "1947年3月6日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E8%BC%9D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=81'>螢川</a>" },
+                        { "text": "第78回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=496'>優駿</a>" },
+                        { "text": "第21回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

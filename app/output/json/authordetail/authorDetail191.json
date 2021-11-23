@@ -1,0 +1,26 @@
+{
+    "id": "191",
+    "name": "檀一雄",
+    "kana": "だんかずお",
+    "imgUrl": "",
+    "bornDate": "1912年2月3日",
+    "deadDate": "1976年1月2日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%AA%80%E4%B8%80%E9%9B%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=191'>真説石川五右衛門・長恨歌</a>" },
+                        { "text": "第24回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

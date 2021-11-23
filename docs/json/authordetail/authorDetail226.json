@@ -1,0 +1,33 @@
+{
+    "id": "226",
+    "name": "永井路子",
+    "kana": "ながいみちこ",
+    "imgUrl": "",
+    "bornDate": "1925年3月31日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E8%B7%AF%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=226'>炎環</a>" },
+                        { "text": "第52回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=497'>｢雲と風と｣ならびに一連の歴史小説に対して</a>" },
+                        { "text": "第22回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

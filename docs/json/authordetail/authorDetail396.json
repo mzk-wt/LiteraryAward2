@@ -1,0 +1,26 @@
+{
+    "id": "396",
+    "name": "積木鏡介",
+    "kana": "つみききょうすけ",
+    "imgUrl": "None",
+    "bornDate": "1955年9月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%A9%8D%E6%9C%A8%E9%8F%A1%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=400'>歪んだ創世記</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

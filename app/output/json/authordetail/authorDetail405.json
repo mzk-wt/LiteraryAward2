@@ -1,0 +1,26 @@
+{
+    "id": "405",
+    "name": "氷川透",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B0%B7%E5%B7%9D%E9%80%8F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=409'>真っ暗な夜明け</a>" },
+                        { "text": "第15回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "188",
+    "name": "山田克郎",
+    "kana": "やまだかつろう",
+    "imgUrl": "",
+    "bornDate": "1910年11月5日",
+    "deadDate": "1983年4月26日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E5%85%8B%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=188'>海の廃園</a>" },
+                        { "text": "第22回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

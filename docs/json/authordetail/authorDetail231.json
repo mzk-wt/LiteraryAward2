@@ -1,0 +1,26 @@
+{
+    "id": "231",
+    "name": "立原正秋",
+    "kana": "たちはらまさあき",
+    "imgUrl": "",
+    "bornDate": "1926年1月6日",
+    "deadDate": "1980年8月12日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%AB%8B%E5%8E%9F%E6%AD%A3%E7%A7%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=231'>白い罌粟</a>" },
+                        { "text": "第55回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

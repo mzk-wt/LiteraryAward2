@@ -1,0 +1,26 @@
+{
+    "id": "184",
+    "name": "田岡典夫",
+    "kana": "たおかのりお",
+    "imgUrl": "",
+    "bornDate": "1908年9月1日",
+    "deadDate": "1982年4月7日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B2%A1%E5%85%B8%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=184'>強情いちご・その他</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

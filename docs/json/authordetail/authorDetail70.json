@@ -1,0 +1,26 @@
+{
+    "id": "70",
+    "name": "森敦",
+    "kana": "もりあつし",
+    "imgUrl": "",
+    "bornDate": "1912年1月22日",
+    "deadDate": "1989年7月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%95%A6",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=70'>月山</a>" },
+                        { "text": "第70回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

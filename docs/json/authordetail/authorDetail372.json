@@ -1,0 +1,26 @@
+{
+    "id": "372",
+    "name": "宮下奈都",
+    "kana": "みやしたなつ",
+    "imgUrl": "",
+    "bornDate": "1967年",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%AE%AE%E4%B8%8B%E5%A5%88%E9%83%BD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=375'>羊と鋼の森</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

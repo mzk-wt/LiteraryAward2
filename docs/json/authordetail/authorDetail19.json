@@ -1,0 +1,26 @@
+{
+    "id": "19",
+    "name": "小尾十三",
+    "kana": "おびじゅうぞう",
+    "imgUrl": "",
+    "bornDate": "1908年10月26日",
+    "deadDate": "1979年3月8日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B0%BE%E5%8D%81%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=19'>登攀</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

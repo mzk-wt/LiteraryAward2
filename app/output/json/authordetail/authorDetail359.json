@@ -1,0 +1,26 @@
+{
+    "id": "359",
+    "name": "島本理生",
+    "kana": "しまもとりお",
+    "imgUrl": "",
+    "bornDate": "1983年5月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B3%B6%E6%9C%AC%E7%90%86%E7%94%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=359'>ファーストラヴ</a>" },
+                        { "text": "第159回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

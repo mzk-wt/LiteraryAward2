@@ -1,0 +1,26 @@
+{
+    "id": "393",
+    "name": "蘇部健一",
+    "kana": "そぶけんいち",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%98%87%E9%83%A8%E5%81%A5%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=397'>六枚のとんかつ</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

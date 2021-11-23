@@ -1,0 +1,26 @@
+{
+    "id": "196",
+    "name": "立野信之",
+    "kana": "たてののぶゆき",
+    "imgUrl": "",
+    "bornDate": "1903年10月17日",
+    "deadDate": "1971年10月25日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E9%87%8E%E4%BF%A1%E4%B9%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=196'>叛乱</a>" },
+                        { "text": "第28回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

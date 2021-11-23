@@ -1,0 +1,26 @@
+{
+    "id": "451",
+    "name": "真下みこと",
+    "kana": "ましたみこと",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%9C%9F%E4%B8%8B%E3%81%BF%E3%81%93%E3%81%A8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=455'>＃柚莉愛とかくれんぼ</a>" },
+                        { "text": "第61回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

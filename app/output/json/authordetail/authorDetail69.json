@@ -1,0 +1,26 @@
+{
+    "id": "69",
+    "name": "三木卓",
+    "kana": "みきたく",
+    "imgUrl": "",
+    "bornDate": "1935年5月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E5%8D%93",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=69'>鶸</a>" },
+                        { "text": "第69回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

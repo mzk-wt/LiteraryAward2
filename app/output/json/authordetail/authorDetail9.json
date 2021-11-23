@@ -1,0 +1,26 @@
+{
+    "id": "9",
+    "name": "中里恒子",
+    "kana": "なかざとつねこ",
+    "imgUrl": "",
+    "bornDate": "1909年12月23日",
+    "deadDate": "1987年4月5日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8C%E6%81%92%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=9'>乗合馬車</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

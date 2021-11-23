@@ -1,0 +1,182 @@
+{
+    "title": "本屋大賞（翻訳小説部門）",
+    "kana": "ほんやたいしょう（ほんやくしょうせつぶもん）",
+    "url": "https://www.hontai.or.jp/",
+    "countryId": "108",
+    "countryName": "日本",
+    "startYear": "2012",
+    "endYear": "",
+    "overview": "「全国書店員が選んだいちばん! 売りたい本」をキャッチコピーとして掲げており、主催する本屋大賞実行委員会は書店員こそが（商品と顧客という形で）本と読者を「最もよく知る立場」にあると位置づけ、投票資格者を書店員主体にしていることの新しさを強調する。書評や賞の選考委員などの仕事も多い翻訳家の大森望も、従来のように編集者が介することのないこの賞の可能性を指摘し、一次投票の結果が最終投票に向けた対象のノミネート作品と直結しており、実行委員会等によるいわゆる「根回し」や「すりあわせ」がない点を特徴の一つに挙げている。一方で突出した、異彩を放つような作品が受賞しておらず、ラインナップも含め平均化されているという声もある。<br>選考は年1回単位でおこなわれ、選考期間は年度終わりの5か月間である。本屋大賞の実行委員会は書店員たちが集まって2003年に立ち上げられたものであり、文学賞の運営を行うような経験がある人間はいなかった。しかし第1回、第2回の受賞作が大きく部数を伸ばしてベストセラーになり、大賞の投票に参加する書店員も増えていった。現在では、直木賞や芥川賞を受賞した作品よりも、売上部数が伸びる賞として大きな注目を集めている。<br>また本屋大賞に参加している書店には実行委員会の発行するフリーペーパー『LOVE書店!』が配布されており2006年2月から年3回のペースで発行が続けられている。<br><br>本屋大賞には複数の部門があり、翻訳小説部門の対象作品は、過去1年間に日本で刊行された翻訳小説（新訳も含む）。1人3作品まで選び、推薦理由を記載し投票する。その集計結果から大賞を決定する。第9回から行われている企画である。受賞作品の作者には正賞としてクリスタルトロフィーが、副賞として10万円分の図書カードが授与される。<br>",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B1%8B%E5%A4%A7%E8%B3%9E",
+    "frequency": "1回/年",
+    "frequencyMonth": "4*",
+    "awardWinningWorks": {
+        "listtitle": [
+            "回", "受賞年", "受賞者", "受賞作"
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "1" },
+                        { "text": "2012年" },
+                        { "text": "<a href='../pages/author.htm?id=460'>フェルディナント・フォン・シーラッハ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=462'>犯罪</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "1" },
+                        { "text": "2012年" },
+                        { "text": "<a href='../pages/author.htm?id=461'>酒寄進一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=462'>犯罪</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "2" },
+                        { "text": "2013年" },
+                        { "text": "<a href='../pages/author.htm?id=462'>テア・オブレヒト</a>" },
+                        { "text": "<a href='../pages/book.htm?id=463'>タイガース・ワイフ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 3,
+                    "value": [
+                        { "text": "2" },
+                        { "text": "2013年" },
+                        { "text": "<a href='../pages/author.htm?id=463'>藤井光</a>" },
+                        { "text": "<a href='../pages/book.htm?id=463'>タイガース・ワイフ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "2014年" },
+                        { "text": "<a href='../pages/author.htm?id=464'>ローラン・ビネ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=464'>HHhH プラハ、1942年</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 5,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "2014年" },
+                        { "text": "<a href='../pages/author.htm?id=465'>高橋啓</a>" },
+                        { "text": "<a href='../pages/book.htm?id=464'>HHhH プラハ、1942年</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 6,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "2015年" },
+                        { "text": "<a href='../pages/author.htm?id=466'>ピエール・ルメートル</a>" },
+                        { "text": "<a href='../pages/book.htm?id=465'>その女アレックス</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 7,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "2015年" },
+                        { "text": "<a href='../pages/author.htm?id=467'>橘明美</a>" },
+                        { "text": "<a href='../pages/book.htm?id=465'>その女アレックス</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 8,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "2016年" },
+                        { "text": "<a href='../pages/author.htm?id=468'>ガブリエル・ゼヴィン</a>" },
+                        { "text": "<a href='../pages/book.htm?id=466'>書店主フィクリーのものがたり</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 9,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "2016年" },
+                        { "text": "<a href='../pages/author.htm?id=469'>小尾芙佐</a>" },
+                        { "text": "<a href='../pages/book.htm?id=466'>書店主フィクリーのものがたり</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 10,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "2017年" },
+                        { "text": "<a href='../pages/author.htm?id=470'>トーン・テレヘン</a>" },
+                        { "text": "<a href='../pages/book.htm?id=467'>ハリネズミの願い</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 11,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "2017年" },
+                        { "text": "<a href='../pages/author.htm?id=471'>長山さき</a>" },
+                        { "text": "<a href='../pages/book.htm?id=467'>ハリネズミの願い</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 12,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "2018年" },
+                        { "text": "<a href='../pages/author.htm?id=472'>ステファニー・ガーバー</a>" },
+                        { "text": "<a href='../pages/book.htm?id=468'>カラヴァル 深紅色の少女</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 13,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "2018年" },
+                        { "text": "<a href='../pages/author.htm?id=473'>西本かおる</a>" },
+                        { "text": "<a href='../pages/book.htm?id=468'>カラヴァル 深紅色の少女</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 14,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "2019年" },
+                        { "text": "<a href='../pages/author.htm?id=474'>アンソニー・ホロヴィッツ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=469'>カササギ殺人事件</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 15,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "2019年" },
+                        { "text": "<a href='../pages/author.htm?id=475'>山田蘭</a>" },
+                        { "text": "<a href='../pages/book.htm?id=469'>カササギ殺人事件</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 16,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "2020年" },
+                        { "text": "<a href='../pages/author.htm?id=476'>ソン・ウォンピョン</a>" },
+                        { "text": "<a href='../pages/book.htm?id=470'>アーモンド</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 17,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "2020年" },
+                        { "text": "<a href='../pages/author.htm?id=477'>矢島暁子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=470'>アーモンド</a>" }
+                    ]
+                }
+                    ]
+    }
+}

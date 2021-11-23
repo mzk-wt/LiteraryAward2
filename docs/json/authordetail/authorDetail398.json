@@ -1,0 +1,26 @@
+{
+    "id": "398",
+    "name": "浅暮三文",
+    "kana": "あさぐれみつふみ",
+    "imgUrl": "None",
+    "bornDate": "1959年3月21日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B5%85%E6%9A%AE%E4%B8%89%E6%96%87",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=402'>ダブ（エ）ストン街道</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

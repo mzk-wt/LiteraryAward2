@@ -1,0 +1,26 @@
+{
+    "id": "389",
+    "name": "篠原健太",
+    "kana": "しのはらけんた",
+    "imgUrl": "None",
+    "bornDate": "1974年1月9日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%AF%A0%E5%8E%9F%E5%81%A5%E5%A4%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=393'>彼方のアストラ</a>" },
+                        { "text": "第12回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

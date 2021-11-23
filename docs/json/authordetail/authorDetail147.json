@@ -1,0 +1,26 @@
+{
+    "id": "147",
+    "name": "赤染晶子",
+    "kana": "あかぞめあきこ",
+    "imgUrl": "",
+    "bornDate": "1974年10月31日",
+    "deadDate": "2017年9月18日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%9F%93%E6%99%B6%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=147'>乙女の密告</a>" },
+                        { "text": "第143回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

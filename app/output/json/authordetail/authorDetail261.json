@@ -1,0 +1,26 @@
+{
+    "id": "261",
+    "name": "光岡明",
+    "kana": "みつおかあきら",
+    "imgUrl": "",
+    "bornDate": "1932年11月3日",
+    "deadDate": "2004年12月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%85%89%E5%B2%A1%E6%98%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=261'>機雷</a>" },
+                        { "text": "第86回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

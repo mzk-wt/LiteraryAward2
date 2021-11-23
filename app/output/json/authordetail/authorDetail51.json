@@ -1,0 +1,26 @@
+{
+    "id": "51",
+    "name": "高井有一",
+    "kana": "たかいゆういち",
+    "imgUrl": "",
+    "bornDate": "1932年4月27日",
+    "deadDate": "2016年10月26日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E4%BA%95%E6%9C%89%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=51'>北の河</a>" },
+                        { "text": "第54回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

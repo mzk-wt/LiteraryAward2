@@ -1,0 +1,26 @@
+{
+    "id": "245",
+    "name": "長部日出雄",
+    "kana": "おさべひでお",
+    "imgUrl": "",
+    "bornDate": "1934年9月3日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%95%B7%E9%83%A8%E6%97%A5%E5%87%BA%E9%9B%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=245'>津軽世去れ節・津軽じょんから節</a>" },
+                        { "text": "第69回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

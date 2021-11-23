@@ -1,0 +1,26 @@
+{
+    "id": "2",
+    "name": "鶴田知也",
+    "kana": "つるたともや",
+    "imgUrl": "https://lh3.googleusercontent.com/proxy/GWbxRoJwiTbXoKRjtknr9yCn2joovGesQjnU2m_n6QK7vKqTo_Dn1dmlHaJ1y7xeyNULxeKkjxIJtfc2AbsrSWoyhfWKbh97O0geoPexejKjC6Fr2O4TisK0kfNFhzA7eW72W5_ZUGdq",
+    "bornDate": "1902年2月19日",
+    "deadDate": "1988年4月1日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E7%94%B0%E7%9F%A5%E4%B9%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=2'>コシャマイン記</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

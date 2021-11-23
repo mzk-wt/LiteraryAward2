@@ -1,0 +1,26 @@
+{
+    "id": "86",
+    "name": "森禮子",
+    "kana": "もりれいこ",
+    "imgUrl": "",
+    "bornDate": "1928年7月7日",
+    "deadDate": "2014年3月28日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%A6%AE%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=86'>モッキングバードのいる町</a>" },
+                        { "text": "第82回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

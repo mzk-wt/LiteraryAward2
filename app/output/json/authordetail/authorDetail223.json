@@ -1,0 +1,26 @@
+{
+    "id": "223",
+    "name": "佐藤得二",
+    "kana": "さとうとくじ",
+    "imgUrl": "",
+    "bornDate": "1899年1月30日",
+    "deadDate": "1970年2月5日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%BE%97%E4%BA%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=223'>女のいくさ</a>" },
+                        { "text": "第49回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

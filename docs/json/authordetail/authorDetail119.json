@@ -1,0 +1,26 @@
+{
+    "id": "119",
+    "name": "目取真俊",
+    "kana": "めどるましゅん",
+    "imgUrl": "",
+    "bornDate": "1960年10月6日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9B%AE%E5%8F%96%E7%9C%9F%E4%BF%8A",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=119'>水滴</a>" },
+                        { "text": "第117回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

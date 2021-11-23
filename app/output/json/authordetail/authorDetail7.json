@@ -1,0 +1,26 @@
+{
+    "id": "7",
+    "name": "火野葦平",
+    "kana": "ひのあしへい",
+    "imgUrl": "https://lh3.googleusercontent.com/proxy/ejOtArZzAVbCF62vHzNMTnby4MToakLSjynM3bKyFY8D3TLAnwWd7aAz1BkOc3L6DJQ7HOmVEVju_6z0YMyFeQOHZw0yjDViyPPcrRjKNVR70b0CTECKnuWbSAT59-g9r8EM4kuD0Q",
+    "bornDate": "1907年1月25日",
+    "deadDate": "1960年1月24日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%81%AB%E9%87%8E%E8%91%A6%E5%B9%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=7'>糞尿譚</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

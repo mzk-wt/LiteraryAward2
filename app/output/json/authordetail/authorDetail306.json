@@ -1,0 +1,33 @@
+{
+    "id": "306",
+    "name": "浅田次郎",
+    "kana": "あさだじろう",
+    "imgUrl": "",
+    "bornDate": "1951年12月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B5%85%E7%94%B0%E6%AC%A1%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=306'>鉄道員</a>" },
+                        { "text": "第117回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=517'>中原の虹</a>" },
+                        { "text": "第42回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

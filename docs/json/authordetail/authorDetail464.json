@@ -1,0 +1,26 @@
+{
+    "id": "464",
+    "name": "ローラン・ビネ",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "1972年7月19日",
+    "deadDate": "",
+    "countryId": "250",
+    "countryName": "フランス共和国",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%93%E3%83%8D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=464'>HHhH プラハ、1942年</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

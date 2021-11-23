@@ -1,0 +1,26 @@
+{
+    "id": "47",
+    "name": "後藤紀一",
+    "kana": "ごとうきいち",
+    "imgUrl": "",
+    "bornDate": "1915年1月17日",
+    "deadDate": "1990年9月11日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E7%B4%80%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=47'>少年の橋</a>" },
+                        { "text": "第49回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "397",
+    "name": "新堂冬樹",
+    "kana": "しんどうふゆき",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%96%B0%E5%A0%82%E5%86%AC%E6%A8%B9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=401'>血塗られた神話</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "12",
+    "name": "寒川光太郎",
+    "kana": "さむかわこうたろう",
+    "imgUrl": "",
+    "bornDate": "1908年1月1日",
+    "deadDate": "1977年1月25日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AF%92%E5%B7%9D%E5%85%89%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=12'>密獵者</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

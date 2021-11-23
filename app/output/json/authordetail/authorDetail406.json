@@ -1,0 +1,26 @@
+{
+    "id": "406",
+    "name": "黒田研二",
+    "kana": "くろだけんじ",
+    "imgUrl": "None",
+    "bornDate": "1969年1月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E7%A0%94%E4%BA%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=410'>ウェディング・ドレス</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

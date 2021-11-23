@@ -1,0 +1,26 @@
+{
+    "id": "170",
+    "name": "今村夏子",
+    "kana": "いまむらなつこ",
+    "imgUrl": "https://dot.asahi.com/S2000/upload/2019070900008_1.jpg",
+    "bornDate": "1980年2月20日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%9D%91%E5%A4%8F%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=170'>むらさきのスカートの女</a>" },
+                        { "text": "第161回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

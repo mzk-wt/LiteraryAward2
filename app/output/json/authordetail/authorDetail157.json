@@ -1,0 +1,26 @@
+{
+    "id": "157",
+    "name": "小野正嗣",
+    "kana": "おのまさつぐ",
+    "imgUrl": "",
+    "bornDate": "1970年11月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E6%AD%A3%E5%97%A3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=157'>九年前の祈り</a>" },
+                        { "text": "第152回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

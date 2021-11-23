@@ -1,0 +1,26 @@
+{
+    "id": "355",
+    "name": "荻原浩",
+    "kana": "おぎわらひろし",
+    "imgUrl": "",
+    "bornDate": "1956年6月30日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%8D%BB%E5%8E%9F%E6%B5%A9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=355'>海の見える理髪店</a>" },
+                        { "text": "第155回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

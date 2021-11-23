@@ -1,0 +1,33 @@
+{
+    "id": "192",
+    "name": "源氏鶏太",
+    "kana": "げんじけいた",
+    "imgUrl": "",
+    "bornDate": "1912年4月19日",
+    "deadDate": "1985年9月12日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%BA%90%E6%B0%8F%E9%B6%8F%E5%A4%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=192'>英語屋さん・その他</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=478'>｢口紅と鏡｣｢幽霊になった男｣ほか、戦後の文壇に新しい小説の領域を確立した作家活動に対して</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

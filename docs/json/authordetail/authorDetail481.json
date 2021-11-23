@@ -1,0 +1,26 @@
+{
+    "id": "481",
+    "name": "山岡荘八",
+    "kana": "やまおかそうはち",
+    "imgUrl": "None",
+    "bornDate": "1907年1月11日",
+    "deadDate": "1978年9月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B2%A1%E8%8D%98%E5%85%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=475'>徳川家康</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "325",
+    "name": "熊谷達也",
+    "kana": "くまがいたつや",
+    "imgUrl": "",
+    "bornDate": "1958年4月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E9%81%94%E4%B9%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=325'>邂逅の森</a>" },
+                        { "text": "第131回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

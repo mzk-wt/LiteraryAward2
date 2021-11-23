@@ -1,0 +1,26 @@
+{
+    "id": "156",
+    "name": "柴崎友香",
+    "kana": "しばさきともか",
+    "imgUrl": "",
+    "bornDate": "1973年10月20日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9F%B4%E5%B4%8E%E5%8F%8B%E9%A6%99",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=156'>春の庭</a>" },
+                        { "text": "第151回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

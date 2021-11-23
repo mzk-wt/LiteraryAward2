@@ -1,0 +1,26 @@
+{
+    "id": "469",
+    "name": "小尾芙佐",
+    "kana": "おびふさ",
+    "imgUrl": "None",
+    "bornDate": "1932年3月24日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B0%BE%E8%8A%99%E4%BD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=466'>書店主フィクリーのものがたり</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

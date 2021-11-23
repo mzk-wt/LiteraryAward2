@@ -1,0 +1,26 @@
+{
+    "id": "442",
+    "name": "宮西真冬",
+    "kana": "みやにしまふゆ",
+    "imgUrl": "None",
+    "bornDate": "1984年",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E8%A5%BF%E7%9C%9F%E5%86%AC",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=446'>誰かが見ている</a>" },
+                        { "text": "第52回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

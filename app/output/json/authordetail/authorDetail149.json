@@ -1,0 +1,26 @@
+{
+    "id": "149",
+    "name": "朝吹真理子",
+    "kana": "あさぶきまりこ",
+    "imgUrl": "",
+    "bornDate": "1984年12月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E5%90%B9%E7%9C%9F%E7%90%86%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=149'>きことわ</a>" },
+                        { "text": "第144回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

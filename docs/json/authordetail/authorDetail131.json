@@ -1,0 +1,26 @@
+{
+    "id": "131",
+    "name": "吉田修一",
+    "kana": "よしだしゅういち",
+    "imgUrl": "",
+    "bornDate": "1968年9月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E4%BF%AE%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=131'>パーク・ライフ</a>" },
+                        { "text": "第127回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "96",
+    "name": "三浦清宏",
+    "kana": "みうらきよひろ",
+    "imgUrl": "",
+    "bornDate": "1930年9月10日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E6%B8%85%E5%AE%8F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=96'>長男の出家</a>" },
+                        { "text": "第98回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

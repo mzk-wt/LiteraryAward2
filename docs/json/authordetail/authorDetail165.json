@@ -1,0 +1,26 @@
+{
+    "id": "165",
+    "name": "石井遊佳",
+    "kana": "いしいゆうか",
+    "imgUrl": "https://www.dailyshincho.jp/wp-content/uploads/2018/01/1801220602_1.jpg",
+    "bornDate": "1963年11月",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E9%81%8A%E4%BD%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=165'>百年泥</a>" },
+                        { "text": "第158回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

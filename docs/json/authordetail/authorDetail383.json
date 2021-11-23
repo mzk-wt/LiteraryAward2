@@ -1,0 +1,26 @@
+{
+    "id": "383",
+    "name": "吉田秋生",
+    "kana": "よしだあきみ",
+    "imgUrl": "None",
+    "bornDate": "1956年8月12日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E7%A7%8B%E7%94%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=387'>海街diary</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

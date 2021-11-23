@@ -1,0 +1,26 @@
+{
+    "id": "434",
+    "name": "丸山天寿",
+    "kana": "まるやまてんじゅ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B1%B1%E5%A4%A9%E5%AF%BF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=438'>琅邪の鬼</a>" },
+                        { "text": "第44回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

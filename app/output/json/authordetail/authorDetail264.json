@@ -1,0 +1,26 @@
+{
+    "id": "264",
+    "name": "村松友視",
+    "kana": "むらまつともみ",
+    "imgUrl": "",
+    "bornDate": "1940年4月10日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%91%E6%9D%BE%E5%8F%8B%E8%A6%96",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=264'>時代屋の女房</a>" },
+                        { "text": "第87回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "180",
+    "name": "堤千代",
+    "kana": "つつみちよ",
+    "imgUrl": "",
+    "bornDate": "1917年9月20日",
+    "deadDate": "1955年11月10日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A0%A4%E5%8D%83%E4%BB%A3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=180'>小指・その他</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

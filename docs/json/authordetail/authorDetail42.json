@@ -1,0 +1,26 @@
+{
+    "id": "42",
+    "name": "北杜夫",
+    "kana": "きたもりお",
+    "imgUrl": "",
+    "bornDate": "1927年5月1日",
+    "deadDate": "2011年10月24日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%9C%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=42'>夜と霧の隅で</a>" },
+                        { "text": "第43回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

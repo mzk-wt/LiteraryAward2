@@ -1,0 +1,26 @@
+{
+    "id": "53",
+    "name": "大城立裕",
+    "kana": "おおしろたつひろ",
+    "imgUrl": "",
+    "bornDate": "1925年9月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9F%8E%E7%AB%8B%E8%A3%95",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=53'>カクテル・パーティー</a>" },
+                        { "text": "第57回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

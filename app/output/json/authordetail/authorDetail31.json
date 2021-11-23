@@ -1,0 +1,26 @@
+{
+    "id": "31",
+    "name": "安岡章太郎",
+    "kana": "やすおかしょうたろう",
+    "imgUrl": "",
+    "bornDate": "1920年4月18日",
+    "deadDate": "2013年1月26日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%B2%A1%E7%AB%A0%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=31'>悪い仲間・陰気な愉しみ</a>" },
+                        { "text": "第29回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

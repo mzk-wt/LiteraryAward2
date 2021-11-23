@@ -1,0 +1,26 @@
+{
+    "id": "44",
+    "name": "宇能鴻一郎",
+    "kana": "うのこういちろう",
+    "imgUrl": "",
+    "bornDate": "1934年7月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%87%E8%83%BD%E9%B4%BB%E4%B8%80%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=44'>鯨神</a>" },
+                        { "text": "第46回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

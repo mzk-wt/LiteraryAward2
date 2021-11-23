@@ -1,0 +1,26 @@
+{
+    "id": "314",
+    "name": "金城一紀",
+    "kana": "かねしろかずき",
+    "imgUrl": "",
+    "bornDate": "1968年10月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%87%91%E5%9F%8E%E4%B8%80%E7%B4%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=314'>GO</a>" },
+                        { "text": "第123回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

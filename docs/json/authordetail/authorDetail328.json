@@ -1,0 +1,26 @@
+{
+    "id": "328",
+    "name": "朱川湊人",
+    "kana": "しゅかわみなと",
+    "imgUrl": "",
+    "bornDate": "1963年1月7日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9C%B1%E5%B7%9D%E6%B9%8A%E4%BA%BA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=328'>花まんま</a>" },
+                        { "text": "第133回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

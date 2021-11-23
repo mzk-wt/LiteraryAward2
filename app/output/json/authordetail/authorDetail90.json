@@ -1,0 +1,26 @@
+{
+    "id": "90",
+    "name": "加藤幸子",
+    "kana": "かとうゆきこ",
+    "imgUrl": "",
+    "bornDate": "1936年9月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%B9%B8%E5%AD%90_(%E4%BD%9C%E5%AE%B6)",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=90'>夢の壁</a>" },
+                        { "text": "第88回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

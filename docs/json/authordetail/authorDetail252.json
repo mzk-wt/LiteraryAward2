@@ -1,0 +1,26 @@
+{
+    "id": "252",
+    "name": "色川武大",
+    "kana": "いろかわたけひろ",
+    "imgUrl": "",
+    "bornDate": "1929年3月28日",
+    "deadDate": "1989年4月10日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%89%B2%E5%B7%9D%E6%AD%A6%E5%A4%A7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=252'>離婚</a>" },
+                        { "text": "第79回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

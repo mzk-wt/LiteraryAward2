@@ -1,0 +1,26 @@
+{
+    "id": "255",
+    "name": "田中小実昌",
+    "kana": "たなかこみまさ",
+    "imgUrl": "",
+    "bornDate": "1925年4月29日",
+    "deadDate": "2000年2月26日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E5%B0%8F%E5%AE%9F%E6%98%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=255'>浪曲師朝日丸の話・ミミのこと</a>" },
+                        { "text": "第81回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

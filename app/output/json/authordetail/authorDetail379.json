@@ -1,0 +1,26 @@
+{
+    "id": "379",
+    "name": "末次由紀",
+    "kana": "すえつぐゆき",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9C%AB%E6%AC%A1%E7%94%B1%E7%B4%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=383'>ちはやふる</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

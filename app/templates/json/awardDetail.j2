@@ -1,0 +1,32 @@
+{
+    "title": "{{ award['title'] }}",
+    "kana": "{{ award['kana'] }}",
+    "url": "{{ award['url'] }}",
+    "countryId": "{{ award['countryId'] }}",
+    "countryName": "{{ award['countryName'] }}",
+    "startYear": "{{ award['startYear'] }}",
+    "endYear": "{{ award['endYear'] }}",
+    "overview": "{{ award['overview'] }}",
+    "wikipediaUrl": "{{ award['wikipediaUrl'] }}",
+    "frequency": "{{ award['frequency'] }}",
+    "frequencyMonth": "{{ award['frequencyMonth'] }}",
+    "awardWinningWorks": {
+        "listtitle": [
+            "回", "受賞年", "受賞者", "受賞作"
+        ],
+        "listitem": [
+            {% for aww in award['awardWinningWorks'] %}
+                {% if loop.index0 > 0 %},{% endif %}
+                {
+                    "key": {{ loop.index0 }},
+                    "value": [
+                        { "text": "{{ aww["times"] }}" },
+                        { "text": "{{ aww["awardDate"] }}" },
+                        { "text": "<a href='../pages/author.htm?id={{ aww["authorId"] }}'>{{ aww["authorName"] }}</a>" },
+                        { "text": "<a href='../pages/book.htm?id={{ aww["bookId"] }}'>{{ aww["bookTitle"] }}</a>" }
+                    ]
+                }
+            {% endfor %}
+        ]
+    }
+}

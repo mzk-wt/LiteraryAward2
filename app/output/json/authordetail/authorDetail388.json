@@ -1,0 +1,26 @@
+{
+    "id": "388",
+    "name": "板垣巴留",
+    "kana": "いたがきぱる",
+    "imgUrl": "None",
+    "bornDate": "1993年9月9日",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%9E%A3%E5%B7%B4%E7%95%99",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=392'>BEASTARS</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "305",
+    "name": "坂東眞砂子",
+    "kana": "ばんどうまさこ",
+    "imgUrl": "",
+    "bornDate": "1958年3月30日",
+    "deadDate": "2014年1月27日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%9D%82%E6%9D%B1%E7%9C%9E%E7%A0%82%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=305'>山妣</a>" },
+                        { "text": "第116回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "317",
+    "name": "藤田宜永",
+    "kana": "ふじたよしなが",
+    "imgUrl": "",
+    "bornDate": "1950年4月12日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E5%AE%9C%E6%B0%B8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=317'>愛の領分</a>" },
+                        { "text": "第125回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=527'>大雪物語</a>" },
+                        { "text": "第51回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

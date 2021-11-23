@@ -1,0 +1,26 @@
+{
+    "id": "220",
+    "name": "杉森久英",
+    "kana": "すぎもりひさひで",
+    "imgUrl": "",
+    "bornDate": "1912年3月23日",
+    "deadDate": "1997年1月20日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%A3%AE%E4%B9%85%E8%8B%B1",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=220'>天才と狂人の間</a>" },
+                        { "text": "第47回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

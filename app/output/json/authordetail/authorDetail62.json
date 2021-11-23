@@ -1,0 +1,26 @@
+{
+    "id": "62",
+    "name": "古井由吉",
+    "kana": "ふるいよしきち",
+    "imgUrl": "",
+    "bornDate": "1937年11月19日",
+    "deadDate": "2020年2月18日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BA%95%E7%94%B1%E5%90%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=62'>杳子</a>" },
+                        { "text": "第64回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

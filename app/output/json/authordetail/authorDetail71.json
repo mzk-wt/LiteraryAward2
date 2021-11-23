@@ -1,0 +1,26 @@
+{
+    "id": "71",
+    "name": "野呂邦暢",
+    "kana": "のろくにのぶ",
+    "imgUrl": "",
+    "bornDate": "1937年9月20日",
+    "deadDate": "1980年5月7日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%91%82%E9%82%A6%E6%9A%A2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=71'>草のつるぎ</a>" },
+                        { "text": "第70回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

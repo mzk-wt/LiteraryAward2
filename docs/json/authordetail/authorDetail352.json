@@ -1,0 +1,26 @@
+{
+    "id": "352",
+    "name": "西加奈子",
+    "kana": "にしかなこ",
+    "imgUrl": "",
+    "bornDate": "1977年5月7日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8A%A0%E5%A5%88%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=352'>サラバ！</a>" },
+                        { "text": "第152回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

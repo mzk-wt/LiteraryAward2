@@ -1,0 +1,26 @@
+{
+    "id": "50",
+    "name": "津村節子",
+    "kana": "つむらせつこ",
+    "imgUrl": "",
+    "bornDate": "1928年6月5日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E6%9D%91%E7%AF%80%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=50'>玩具</a>" },
+                        { "text": "第53回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

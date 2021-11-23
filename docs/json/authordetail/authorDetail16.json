@@ -1,0 +1,26 @@
+{
+    "id": "16",
+    "name": "倉光俊夫",
+    "kana": "くらみつとしお",
+    "imgUrl": "",
+    "bornDate": "1908年11月12日",
+    "deadDate": "1985年4月16日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%80%89%E5%85%89%E4%BF%8A%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=16'>連絡員</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

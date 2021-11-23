@@ -1,0 +1,26 @@
+{
+    "id": "161",
+    "name": "滝口悠生",
+    "kana": "たきぐちゆうしょう",
+    "imgUrl": "https://kangaeruhito.jp/wp-content/uploads/2018/10/img_99e191ed849b716d25122f39839fd7cb144528.jpg",
+    "bornDate": "1982年10月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%BB%9D%E5%8F%A3%E6%82%A0%E7%94%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=161'>死んでいない者</a>" },
+                        { "text": "第154回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

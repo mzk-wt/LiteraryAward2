@@ -1,0 +1,26 @@
+{
+    "id": "107",
+    "name": "松村栄子",
+    "kana": "まつむらえいこ",
+    "imgUrl": "",
+    "bornDate": "1961年7月3日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9D%91%E6%A0%84%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=107'>至高聖所</a>" },
+                        { "text": "第106回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

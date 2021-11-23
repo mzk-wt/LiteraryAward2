@@ -1,0 +1,135 @@
+<DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+
+    <title>LADB</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+    <link rel="stylesheet" href="../css/common.css">
+    
+    <!-- vue -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+    <!-- axios -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- My Script -->
+    <script src="../js/common.js"></script>
+
+    <!-- My Vue components -->
+    <script src="../js/vue/components/header1.js"></script>
+    <script src="../js/vue/components/footer1.js"></script>
+    <script src="../js/vue/components/breadcrumb.js"></script>
+    <script src="../js/vue/components/list.js"></script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37807464-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-37807464-2');
+    </script>
+</head>
+
+<!------------------------------------------------------------------------------------------->
+
+<body>
+    <div id="app" class="site">
+
+        <!-- ヘッダ -->
+        <header1 :title="awardData.title" :subtitle="awardData.kana" :rootpath="rootpath"></header1>
+
+        <div class="site-content columns has-background-light mb-0">
+            <div class="column is-8 is-offset-2">
+                <!-- パンくずリスト -->
+                <div class="block">
+                    <breadcrumb rootpath="../" :linkkeys="'home,awardList,' + awardData.title"></breadcrumb>
+                </div>
+                <!-- 文学賞情報 -->
+                <div class="block">
+                    <table class="table is-size-7 has-background-light">
+                        <tr>
+                            <th nowrap>国</th><td>{{ awardData.countryName }}</td>
+                        </tr>
+                        <tr>
+                            <th nowrap>期間</th><td>{{ awardData.startYear }} 〜 {{ awardData.endYear }}</td>
+                        </tr>
+                        <tr>
+                            <th nowrap>発表</th><td>{{ frequency }}</td>
+                        </tr>
+                        <tr>
+                            <th nowrap>概要</th><td v-html="overview"></td>
+                        </tr>
+                        <tr>
+                            <th nowrap>リンク</th><td><a :href="awardData.url" target="_blank">公式サイト</a></td>
+                        </tr>
+                    </table>
+                </div>
+                <!-- 受賞一覧 -->
+                <div class="block">
+                    <list :listtype="'awarddetail/awardDetail' + awardId" listkey="awardWinningWorks" rootpath="../"></list>
+                </div>
+            </div>
+        </div>
+
+        <!-- フッタ -->
+        <footer1 :rootpath="rootpath"></footer1>
+    </div>
+</body>
+
+<!------------------------------------------------------------------------------------------->
+
+<script type="text/javascript">
+var app = new Vue({
+    el: '#app',
+    data: {
+        rootpath: '../',
+        awardId: '',
+        awardData: {}
+    },
+    computed: {
+        overview() {
+            return this.awardData.overview + "<br>"
+            + "<a href='" + this.awardData.wikipediaUrl + "'>Wikipedia<i class='pl-1 fas fa-external-link-alt'></i></a>";
+        },
+        frequency() {
+            var f = this.awardData.frequency;
+            var month = this.awardData.frequencyMonth;
+            if (month) {
+                month = month.replace("*", "");
+                f += "（" + month.split(",").map(m => m + "月").join("、") + "）";
+            }
+            return f;
+        }
+    },
+    created() {
+        let params = getRequestParams();
+        if ("id" in params) {
+            this.awardId = params["id"];
+        } else {
+            this.awardId = "";
+        }
+
+        // JSONファイルからデータを取得する
+        axios.get(this.rootpath + "json/awarddetail/awardDetail" + this.awardId + ".json").then(s => {
+            this.awardData = s.data;
+        });
+    },
+    mounted() {
+        // Twitterカードの設定
+        // TODO
+        addTwitterCardMetaTags(
+            "http",
+            "title",
+            "description",
+            "image"
+        );
+    },
+    methods: {
+    }
+})
+</script>
+</html>

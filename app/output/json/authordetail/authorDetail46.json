@@ -1,0 +1,26 @@
+{
+    "id": "46",
+    "name": "河野多惠子",
+    "kana": "こうのたえこ",
+    "imgUrl": "",
+    "bornDate": "1926年4月30日",
+    "deadDate": "2015年1月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E5%A4%9A%E6%83%A0%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=46'>蟹</a>" },
+                        { "text": "第49回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

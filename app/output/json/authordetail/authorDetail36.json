@@ -1,0 +1,26 @@
+{
+    "id": "36",
+    "name": "石原慎太郎",
+    "kana": "いしはらしんたろう",
+    "imgUrl": "",
+    "bornDate": "1932年9月30日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8E%9F%E6%85%8E%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=36'>太陽の季節</a>" },
+                        { "text": "第34回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "409",
+    "name": "舞城王太郎",
+    "kana": "まいじょうおうたろう",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%88%9E%E5%9F%8E%E7%8E%8B%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=413'>煙か土か食い物 Smoke, Soil or Sacrifices</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

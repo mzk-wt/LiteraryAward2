@@ -1,0 +1,33 @@
+{
+    "id": "289",
+    "name": "宮城谷昌光",
+    "kana": "みやぎたにまさみつ",
+    "imgUrl": "",
+    "bornDate": "1945年2月4日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%AE%AE%E5%9F%8E%E8%B0%B7%E6%98%8C%E5%85%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=289'>夏姫春秋</a>" },
+                        { "text": "第105回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=511'>子産</a>" },
+                        { "text": "第35回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "354",
+    "name": "青山文平",
+    "kana": "あおやまぶんぺい",
+    "imgUrl": "",
+    "bornDate": "1948年12月3日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%9D%92%E5%B1%B1%E6%96%87%E5%B9%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=354'>つまをめとらば</a>" },
+                        { "text": "第154回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "461",
+    "name": "酒寄進一",
+    "kana": "さかよりしんいち",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%85%92%E5%AF%84%E9%80%B2%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=462'>犯罪</a>" },
+                        { "text": "第1回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

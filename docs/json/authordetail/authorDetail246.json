@@ -1,0 +1,26 @@
+{
+    "id": "246",
+    "name": "藤本義一",
+    "kana": "ふじもとぎいち",
+    "imgUrl": "",
+    "bornDate": "1933年1月26日",
+    "deadDate": "2012年10月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E7%BE%A9%E4%B8%80_(%E4%BD%9C%E5%AE%B6)",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=246'>鬼の詩</a>" },
+                        { "text": "第71回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

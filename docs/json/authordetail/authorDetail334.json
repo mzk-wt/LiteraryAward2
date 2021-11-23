@@ -1,0 +1,26 @@
+{
+    "id": "334",
+    "name": "井上荒野",
+    "kana": "いのうえあれの",
+    "imgUrl": "",
+    "bornDate": "1961年2月4日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E8%8D%92%E9%87%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=334'>切羽へ</a>" },
+                        { "text": "第139回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

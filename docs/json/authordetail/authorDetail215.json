@@ -1,0 +1,33 @@
+{
+    "id": "215",
+    "name": "池波正太郎",
+    "kana": "いけなみしょうたろう",
+    "imgUrl": "",
+    "bornDate": "1923年1月25日",
+    "deadDate": "1990年5月3日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E6%B3%A2%E6%AD%A3%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=215'>錯乱</a>" },
+                        { "text": "第43回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=484'>｢鬼平犯科帳｣｢剣客商売｣｢仕掛人・藤枝梅安｣を中心とした作家活動に対して</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

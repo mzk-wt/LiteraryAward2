@@ -1,0 +1,26 @@
+{
+    "id": "8",
+    "name": "中山義秀",
+    "kana": "なかやまぎしゅう",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nakayama_Gishu.JPG",
+    "bornDate": "1900年10月5日",
+    "deadDate": "1969年8月19日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E7%BE%A9%E7%A7%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=8'>厚物咲</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

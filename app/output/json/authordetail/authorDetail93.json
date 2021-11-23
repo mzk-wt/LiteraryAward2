@@ -1,0 +1,26 @@
+{
+    "id": "93",
+    "name": "木崎さと子",
+    "kana": "きざきさとこ",
+    "imgUrl": "",
+    "bornDate": "1939年11月6日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%B4%8E%E3%81%95%E3%81%A8%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=93'>青桐</a>" },
+                        { "text": "第92回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

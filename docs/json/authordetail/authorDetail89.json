@@ -1,0 +1,26 @@
+{
+    "id": "89",
+    "name": "唐十郎",
+    "kana": "からじゅうろう",
+    "imgUrl": "",
+    "bornDate": "1940年2月11日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%94%90%E5%8D%81%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=89'>佐川君からの手紙</a>" },
+                        { "text": "第88回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

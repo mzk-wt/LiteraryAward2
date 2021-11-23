@@ -1,0 +1,26 @@
+{
+    "id": "103",
+    "name": "辻原登",
+    "kana": "つじはらのぼる",
+    "imgUrl": "",
+    "bornDate": "1945年12月15日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E5%8E%9F%E7%99%BB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=103'>村の名前</a>" },
+                        { "text": "第103回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

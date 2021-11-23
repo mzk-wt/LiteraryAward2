@@ -1,0 +1,26 @@
+{
+    "id": "146",
+    "name": "磯崎憲一郎",
+    "kana": "いそざきけんいちろう",
+    "imgUrl": "",
+    "bornDate": "1965年2月28日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A3%AF%E5%B4%8E%E6%86%B2%E4%B8%80%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=146'>終の住処</a>" },
+                        { "text": "第141回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

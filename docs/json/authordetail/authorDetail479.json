@@ -1,0 +1,26 @@
+{
+    "id": "479",
+    "name": "ブレイディみかこ",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "1965年6月7日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%81%BF%E3%81%8B%E3%81%93",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=472'>ぼくはイエローでホワイトで、ちょっとブルー</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

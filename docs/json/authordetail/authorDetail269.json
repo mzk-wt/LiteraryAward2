@@ -1,0 +1,26 @@
+{
+    "id": "269",
+    "name": "連城三紀彦",
+    "kana": "れんじょうみきひこ",
+    "imgUrl": "",
+    "bornDate": "1948年1月11日",
+    "deadDate": "2013年10月19日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%80%A3%E5%9F%8E%E4%B8%89%E7%B4%80%E5%BD%A6",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=269'>恋文</a>" },
+                        { "text": "第91回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

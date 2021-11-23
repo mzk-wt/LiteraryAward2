@@ -1,0 +1,26 @@
+{
+    "id": "401",
+    "name": "高里椎奈",
+    "kana": "たかさとしいな",
+    "imgUrl": "None",
+    "bornDate": "1976年12月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8C%E6%A4%8E%E5%A5%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=405'>銀の檻を溶かして</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

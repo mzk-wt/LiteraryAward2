@@ -1,0 +1,26 @@
+{
+    "id": "228",
+    "name": "藤井重夫",
+    "kana": "ふじいしげお",
+    "imgUrl": "",
+    "bornDate": "1916年2月10日",
+    "deadDate": "1951年1月17日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E9%87%8D%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=228'>虹</a>" },
+                        { "text": "第53回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

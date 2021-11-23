@@ -1,0 +1,26 @@
+{
+    "id": "296",
+    "name": "高村薫",
+    "kana": "たかむらかおる",
+    "imgUrl": "",
+    "bornDate": "1953年2月6日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%91%E8%96%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=296'>マークスの山</a>" },
+                        { "text": "第109回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

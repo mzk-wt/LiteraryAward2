@@ -1,0 +1,26 @@
+{
+    "id": "159",
+    "name": "羽田圭介",
+    "kana": "はだけいすけ",
+    "imgUrl": "",
+    "bornDate": "1985年10月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E7%94%B0%E5%9C%AD%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=159'>スクラップ・アンド・ビルド</a>" },
+                        { "text": "第153回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

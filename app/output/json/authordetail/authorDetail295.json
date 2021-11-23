@@ -1,0 +1,33 @@
+{
+    "id": "295",
+    "name": "北原亞以子",
+    "kana": "きたはらあいこ",
+    "imgUrl": "",
+    "bornDate": "1938年1月20日",
+    "deadDate": "2013年3月12日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%8C%97%E5%8E%9F%E4%BA%9E%E4%BB%A5%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=295'>恋忘れ草</a>" },
+                        { "text": "第109回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=515'>夜の明けるまで</a>" },
+                        { "text": "第39回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

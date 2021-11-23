@@ -1,0 +1,26 @@
+{
+    "id": "290",
+    "name": "芦原すなお",
+    "kana": "あしはらすなお",
+    "imgUrl": "",
+    "bornDate": "1949年9月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%8A%A6%E5%8E%9F%E3%81%99%E3%81%AA%E3%81%8A",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=290'>青春デンデケデケデケ</a>" },
+                        { "text": "第105回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

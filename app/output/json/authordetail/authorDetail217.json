@@ -1,0 +1,33 @@
+{
+    "id": "217",
+    "name": "黒岩重吾",
+    "kana": "くろいわじゅうご",
+    "imgUrl": "",
+    "bornDate": "1924年2月25日",
+    "deadDate": "2003年3月7日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B2%A9%E9%87%8D%E5%90%BE",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=217'>背徳のメス</a>" },
+                        { "text": "第44回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=487'>天の川の太陽</a>" },
+                        { "text": "第14回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

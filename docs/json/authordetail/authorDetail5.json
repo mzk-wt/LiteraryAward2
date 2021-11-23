@@ -1,0 +1,26 @@
+{
+    "id": "5",
+    "name": "石川淳",
+    "kana": "いしかわじゅん",
+    "imgUrl": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/e35/c0.34.320.320a/81698896_163315795049931_5569147645892925992_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=quOXp4X5tiQAX_J1Lll&oh=6b21e5c05dcad54e5da876102fd09859&oe=5EC052F0",
+    "bornDate": "1899年3月7日",
+    "deadDate": "1987年12月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E6%B7%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=5'>普賢</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

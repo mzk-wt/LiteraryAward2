@@ -1,0 +1,26 @@
+{
+    "id": "138",
+    "name": "中村文則",
+    "kana": "なかむらふみのり",
+    "imgUrl": "",
+    "bornDate": "1977年9月2日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%96%87%E5%89%87",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=138'>土の中の子供</a>" },
+                        { "text": "第133回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "349",
+    "name": "姫野カオルコ",
+    "kana": "ひめのかおるこ",
+    "imgUrl": "",
+    "bornDate": "1958年8月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%A7%AB%E9%87%8E%E3%82%AB%E3%82%AA%E3%83%AB%E3%82%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=349'>昭和の犬</a>" },
+                        { "text": "第150回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

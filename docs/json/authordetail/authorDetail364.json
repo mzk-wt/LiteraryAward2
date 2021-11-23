@@ -1,0 +1,26 @@
+{
+    "id": "364",
+    "name": "佐藤多佳子",
+    "kana": "さとうたかこ",
+    "imgUrl": "",
+    "bornDate": "1962年11月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%A4%9A%E4%BD%B3%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=366'>一瞬の風になれ</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

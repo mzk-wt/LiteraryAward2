@@ -1,0 +1,26 @@
+{
+    "id": "40",
+    "name": "大江健三郎",
+    "kana": "おおえけんざぶろう",
+    "imgUrl": "",
+    "bornDate": "1935年1月31日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B1%9F%E5%81%A5%E4%B8%89%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=40'>飼育</a>" },
+                        { "text": "第39回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "52",
+    "name": "丸山健二",
+    "kana": "まるやまけんじ",
+    "imgUrl": "",
+    "bornDate": "1943年12月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B1%B1%E5%81%A5%E4%BA%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=52'>夏の流れ</a>" },
+                        { "text": "第56回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

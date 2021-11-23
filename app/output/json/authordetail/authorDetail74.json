@@ -1,0 +1,26 @@
+{
+    "id": "74",
+    "name": "林京子",
+    "kana": "はやしきょうこ",
+    "imgUrl": "",
+    "bornDate": "1930年8月28日",
+    "deadDate": "2017年2月19日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9E%97%E4%BA%AC%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=74'>祭りの場</a>" },
+                        { "text": "第73回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

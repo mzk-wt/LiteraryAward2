@@ -1,0 +1,33 @@
+{
+    "id": "272",
+    "name": "林真理子",
+    "kana": "はやしまりこ",
+    "imgUrl": "",
+    "bornDate": "1954年4月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9E%97%E7%9C%9F%E7%90%86%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=272'>最終便に間に合えば・京都まで</a>" },
+                        { "text": "第94回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=507'>みんなの秘密</a>" },
+                        { "text": "第32回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

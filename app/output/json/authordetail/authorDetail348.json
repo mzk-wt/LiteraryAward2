@@ -1,0 +1,26 @@
+{
+    "id": "348",
+    "name": "桜木紫乃",
+    "kana": "さくらぎしの",
+    "imgUrl": "",
+    "bornDate": "1965年4月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A1%9C%E6%9C%A8%E7%B4%AB%E4%B9%83",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=348'>ホテルローヤル</a>" },
+                        { "text": "第149回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

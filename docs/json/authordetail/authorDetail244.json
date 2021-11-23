@@ -1,0 +1,33 @@
+{
+    "id": "244",
+    "name": "藤沢周平",
+    "kana": "ふじさわしゅうへい",
+    "imgUrl": "",
+    "bornDate": "1927年12月26日",
+    "deadDate": "2010年4月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%97%A4%E6%B2%A2%E5%91%A8%E5%B9%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=244'>暗殺の年輪</a>" },
+                        { "text": "第69回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=495'>白き瓶</a>" },
+                        { "text": "第20回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

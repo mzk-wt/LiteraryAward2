@@ -1,0 +1,26 @@
+{
+    "id": "75",
+    "name": "岡松和夫",
+    "kana": "おかまつかずお",
+    "imgUrl": "",
+    "bornDate": "1031年6月23日",
+    "deadDate": "2012年1月21日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9D%BE%E5%92%8C%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=75'>志賀島</a>" },
+                        { "text": "第74回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

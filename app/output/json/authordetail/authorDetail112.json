@@ -1,0 +1,26 @@
+{
+    "id": "112",
+    "name": "笙野頼子",
+    "kana": "しょうのよりこ",
+    "imgUrl": "",
+    "bornDate": "1956年3月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%AC%99%E9%87%8E%E9%A0%BC%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=112'>タイムスリップ・コンビナート</a>" },
+                        { "text": "第111回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

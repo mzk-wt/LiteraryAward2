@@ -1,0 +1,26 @@
+{
+    "id": "166",
+    "name": "若竹千佐子",
+    "kana": "わかたけちさこ",
+    "imgUrl": "https://cdn.mainichi.jp/vol1/2018/01/17/20180117ddm001010037000p/9.jpg?1",
+    "bornDate": "1954年",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E7%AB%B9%E5%8D%83%E4%BD%90%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=166'>おらおらでひとりいぐも</a>" },
+                        { "text": "第158回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

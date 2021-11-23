@@ -1,0 +1,26 @@
+{
+    "id": "85",
+    "name": "重兼芳子",
+    "kana": "しげかねよしこ",
+    "imgUrl": "",
+    "bornDate": "1927年3月7日",
+    "deadDate": "1993年8月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%87%8D%E5%85%BC%E8%8A%B3%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=85'>やまあいの煙</a>" },
+                        { "text": "第81回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

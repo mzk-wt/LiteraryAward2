@@ -1,0 +1,26 @@
+{
+    "id": "79",
+    "name": "三田誠広",
+    "kana": "みたまさひろ",
+    "imgUrl": "",
+    "bornDate": "1948年6月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E8%AA%A0%E5%BA%83",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=79'>僕って何</a>" },
+                        { "text": "第77回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

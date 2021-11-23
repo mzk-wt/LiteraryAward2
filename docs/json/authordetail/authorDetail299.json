@@ -1,0 +1,26 @@
+{
+    "id": "299",
+    "name": "中村彰彦",
+    "kana": "なかむらあきひこ",
+    "imgUrl": "",
+    "bornDate": "1949年6月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%BD%B0%E5%BD%A6",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=299'>二つの山河</a>" },
+                        { "text": "第111回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

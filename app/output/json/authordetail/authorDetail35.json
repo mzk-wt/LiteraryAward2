@@ -1,0 +1,26 @@
+{
+    "id": "35",
+    "name": "遠藤周作",
+    "kana": "えんどうしゅうさく",
+    "imgUrl": "",
+    "bornDate": "1923年3月27日",
+    "deadDate": "1996年9月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E5%91%A8%E4%BD%9C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=35'>白い人</a>" },
+                        { "text": "第33回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

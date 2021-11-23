@@ -1,0 +1,26 @@
+{
+    "id": "142",
+    "name": "諏訪哲史",
+    "kana": "すわてつし",
+    "imgUrl": "",
+    "bornDate": "1969年10月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E5%93%B2%E5%8F%B2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=142'>アサッテの人</a>" },
+                        { "text": "第137回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "82",
+    "name": "高橋三千綱",
+    "kana": "たかはしみちつな",
+    "imgUrl": "",
+    "bornDate": "1948年1月5日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E4%B8%89%E5%8D%83%E7%B6%B1",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=82'>九月の空</a>" },
+                        { "text": "第79回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "241",
+    "name": "豊田穣",
+    "kana": "とよだじょう",
+    "imgUrl": "",
+    "bornDate": "1920年3月14日",
+    "deadDate": "1994年1月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%B1%8A%E7%94%B0%E7%A9%A3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=241'>長良川</a>" },
+                        { "text": "第64回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

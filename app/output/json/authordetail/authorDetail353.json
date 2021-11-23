@@ -1,0 +1,26 @@
+{
+    "id": "353",
+    "name": "東山彰良",
+    "kana": "ひがしやまあきら",
+    "imgUrl": "",
+    "bornDate": "1968年9月11日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%BD%B0%E8%89%AF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=353'>流</a>" },
+                        { "text": "第153回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "462",
+    "name": "テア・オブレヒト",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "1985年9月30日",
+    "deadDate": "",
+    "countryId": "220",
+    "countryName": "アメリカ合衆国",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A2%E3%83%BB%E3%82%AA%E3%83%96%E3%83%AC%E3%83%92%E3%83%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=463'>タイガース・ワイフ</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

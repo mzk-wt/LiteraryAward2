@@ -1,0 +1,26 @@
+{
+    "id": "1",
+    "name": "石川達三",
+    "kana": "いしかわたつぞう",
+    "imgUrl": "https://showa-g.org/img/00481_m.jpg",
+    "bornDate": "1905年7月2日",
+    "deadDate": "1985年1月31日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E9%81%94%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=1'>蒼氓</a>" },
+                        { "text": "第1回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

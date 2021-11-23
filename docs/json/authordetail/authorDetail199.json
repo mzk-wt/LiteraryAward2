@@ -1,0 +1,26 @@
+{
+    "id": "199",
+    "name": "梅崎春生",
+    "kana": "うめざきはるお",
+    "imgUrl": "",
+    "bornDate": "1915年2月15日",
+    "deadDate": "1965年7月19日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A2%85%E5%B4%8E%E6%98%A5%E7%94%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=199'>ボロ家の春秋</a>" },
+                        { "text": "第32回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "197",
+    "name": "有馬頼義",
+    "kana": "ありまよりちか",
+    "imgUrl": "",
+    "bornDate": "1918年2月14日",
+    "deadDate": "1980年4月15日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%89%E9%A6%AC%E9%A0%BC%E7%BE%A9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=197'>終身未決囚</a>" },
+                        { "text": "第31回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

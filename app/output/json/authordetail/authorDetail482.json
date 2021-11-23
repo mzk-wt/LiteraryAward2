@@ -1,0 +1,26 @@
+{
+    "id": "482",
+    "name": "吉村昭",
+    "kana": "よしむらあきら",
+    "imgUrl": "None",
+    "bornDate": "1927年5月1日",
+    "deadDate": "2006年7月31日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%90%89%E6%9D%91%E6%98%AD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=486'>ふぉん・しいほるとの娘</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

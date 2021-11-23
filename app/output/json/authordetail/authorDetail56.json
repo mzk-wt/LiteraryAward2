@@ -1,0 +1,26 @@
+{
+    "id": "56",
+    "name": "丸谷才一",
+    "kana": "まるやさいいち",
+    "imgUrl": "",
+    "bornDate": "1925年8月27日",
+    "deadDate": "2012年10月13日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E8%B0%B7%E6%89%8D%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=56'>年の残り</a>" },
+                        { "text": "第59回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

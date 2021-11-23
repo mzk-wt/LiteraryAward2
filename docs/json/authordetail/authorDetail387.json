@@ -1,0 +1,26 @@
+{
+    "id": "387",
+    "name": "柳本光晴",
+    "kana": "やなもとみつはる",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E6%9C%AC%E5%85%89%E6%99%B4",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=391'>響〜小説家になる方法〜</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

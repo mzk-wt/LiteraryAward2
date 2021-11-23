@@ -1,0 +1,26 @@
+{
+    "id": "133",
+    "name": "吉村萬壱",
+    "kana": "よしむらまんいち",
+    "imgUrl": "",
+    "bornDate": "1961年2月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%9D%91%E8%90%AC%E5%A3%B1",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=133'>ハリガネムシ</a>" },
+                        { "text": "第129回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

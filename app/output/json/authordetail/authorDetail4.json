@@ -1,0 +1,26 @@
+{
+    "id": "4",
+    "name": "冨澤有爲男",
+    "kana": "とみざわういお",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tomisawa_Uio.JPG",
+    "bornDate": "1902年3月29日",
+    "deadDate": "1970年1月15日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%86%A8%E6%BE%A4%E6%9C%89%E7%88%B2%E7%94%B7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=4'>地中海</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

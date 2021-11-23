@@ -1,0 +1,26 @@
+{
+    "id": "154",
+    "name": "藤野可織",
+    "kana": "ふじのかおり",
+    "imgUrl": "",
+    "bornDate": "1980年2月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%97%A4%E9%87%8E%E5%8F%AF%E7%B9%94",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=154'>爪と目</a>" },
+                        { "text": "第149回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

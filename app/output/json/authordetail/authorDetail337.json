@@ -1,0 +1,26 @@
+{
+    "id": "337",
+    "name": "北村薫",
+    "kana": "きたむらかおる",
+    "imgUrl": "",
+    "bornDate": "1949年12月28日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E8%96%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=337'>鷺と雪</a>" },
+                        { "text": "第141回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

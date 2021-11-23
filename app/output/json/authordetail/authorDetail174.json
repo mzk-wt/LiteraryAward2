@@ -1,0 +1,26 @@
+{
+    "id": "174",
+    "name": "海音寺潮五郎",
+    "kana": "かいおんじちょうごろう",
+    "imgUrl": "",
+    "bornDate": "1901年11月5日",
+    "deadDate": "1977年12月1日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E9%9F%B3%E5%AF%BA%E6%BD%AE%E4%BA%94%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=174'>天正女合戦・武道傳來記</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

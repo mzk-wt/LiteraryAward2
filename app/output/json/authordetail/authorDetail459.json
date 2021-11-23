@@ -1,0 +1,26 @@
+{
+    "id": "459",
+    "name": "土屋賢二",
+    "kana": "つちやけんじ",
+    "imgUrl": "None",
+    "bornDate": "1944年11月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%8B%E8%B3%A2%E4%BA%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=461'>無理難題が多すぎる</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

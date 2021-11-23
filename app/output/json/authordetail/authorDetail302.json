@@ -1,0 +1,26 @@
+{
+    "id": "302",
+    "name": "藤原伊織",
+    "kana": "ふじわらいおり",
+    "imgUrl": "",
+    "bornDate": "1948年2月17日",
+    "deadDate": "2007年5月17日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E4%BC%8A%E7%B9%94",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=302'>テロリストのパラソル</a>" },
+                        { "text": "第114回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

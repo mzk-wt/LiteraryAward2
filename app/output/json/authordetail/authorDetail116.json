@@ -1,0 +1,26 @@
+{
+    "id": "116",
+    "name": "川上弘美",
+    "kana": "かわかみひろみ",
+    "imgUrl": "",
+    "bornDate": "1958年4月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%B8%8A%E5%BC%98%E7%BE%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=116'>蛇を踏む</a>" },
+                        { "text": "第115回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

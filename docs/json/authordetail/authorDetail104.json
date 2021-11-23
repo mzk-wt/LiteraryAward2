@@ -1,0 +1,33 @@
+{
+    "id": "104",
+    "name": "小川洋子",
+    "kana": "おがわようこ",
+    "imgUrl": "",
+    "bornDate": "1962年3月30日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E6%B4%8B%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=104'>妊娠カレンダー</a>" },
+                        { "text": "第104回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=363'>博士の愛した数式</a>" },
+                        { "text": "第1回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

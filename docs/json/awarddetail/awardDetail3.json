@@ -1,0 +1,173 @@
+{
+    "title": "本屋大賞",
+    "kana": "ほんやたいしょう",
+    "url": "https://www.hontai.or.jp/",
+    "countryId": "108",
+    "countryName": "日本",
+    "startYear": "2004",
+    "endYear": "",
+    "overview": "「全国書店員が選んだいちばん! 売りたい本」をキャッチコピーとして掲げており、主催する本屋大賞実行委員会は書店員こそが（商品と顧客という形で）本と読者を「最もよく知る立場」にあると位置づけ、投票資格者を書店員主体にしていることの新しさを強調する。書評や賞の選考委員などの仕事も多い翻訳家の大森望も、従来のように編集者が介することのないこの賞の可能性を指摘し、一次投票の結果が最終投票に向けた対象のノミネート作品と直結しており、実行委員会等によるいわゆる「根回し」や「すりあわせ」がない点を特徴の一つに挙げている。一方で突出した、異彩を放つような作品が受賞しておらず、ラインナップも含め平均化されているという声もある。<br>選考は年1回単位でおこなわれ、選考期間は年度終わりの5か月間である。本屋大賞の実行委員会は書店員たちが集まって2003年に立ち上げられたものであり、文学賞の運営を行うような経験がある人間はいなかった。しかし第1回、第2回の受賞作が大きく部数を伸ばしてベストセラーになり、大賞の投票に参加する書店員も増えていった。現在では、直木賞や芥川賞を受賞した作品よりも、売上部数が伸びる賞として大きな注目を集めている。<br>また本屋大賞に参加している書店には実行委員会の発行するフリーペーパー『LOVE書店!』が配布されており2006年2月から年3回のペースで発行が続けられている。<br><br>本屋大賞には複数の部門があり、本屋大賞部門の対象作品は過去1年間に刊行された日本の小説。1次投票で1人3作品を選び投票を行なった後、選出された上位10作品のうちから2次投票をおこない決定する。1次投票には制約はないが、2次投票はノミネートされた10作品を全て読んだ上で推薦理由を記載し投票しなければならない。2次投票は、3作品に順位をつけて投票し、順位に応じた点数をつけて集計される。<br>受賞作品の作者には正賞としてクリスタルトロフィーが、副賞として10万円分の図書カードが授与される。<br><br>",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B1%8B%E5%A4%A7%E8%B3%9E",
+    "frequency": "1回/年",
+    "frequencyMonth": "4",
+    "awardWinningWorks": {
+        "listtitle": [
+            "回", "受賞年", "受賞者", "受賞作"
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "1" },
+                        { "text": "2004年" },
+                        { "text": "<a href='../pages/author.htm?id=104'>小川洋子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=363'>博士の愛した数式</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "2" },
+                        { "text": "2005年" },
+                        { "text": "<a href='../pages/author.htm?id=356'>恩田陸</a>" },
+                        { "text": "<a href='../pages/book.htm?id=364'>夜のピクニック</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "2006年" },
+                        { "text": "<a href='../pages/author.htm?id=363'>リリー・フランキー</a>" },
+                        { "text": "<a href='../pages/book.htm?id=365'>東京タワー オカンとボクと、 時々、オトン</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 3,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "2007年" },
+                        { "text": "<a href='../pages/author.htm?id=364'>佐藤多佳子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=366'>一瞬の風になれ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "2008年" },
+                        { "text": "<a href='../pages/author.htm?id=365'>伊坂幸太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=367'>ゴールデンスランバー</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 5,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "2009年" },
+                        { "text": "<a href='../pages/author.htm?id=366'>湊かなえ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=368'>告白</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 6,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "2010年" },
+                        { "text": "<a href='../pages/author.htm?id=367'>冲方丁</a>" },
+                        { "text": "<a href='../pages/book.htm?id=369'>天地明察</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 7,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "2011年" },
+                        { "text": "<a href='../pages/author.htm?id=368'>東川篤哉</a>" },
+                        { "text": "<a href='../pages/book.htm?id=370'>謎解きはディナーのあとで</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 8,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "2012年" },
+                        { "text": "<a href='../pages/author.htm?id=331'>三浦しをん</a>" },
+                        { "text": "<a href='../pages/book.htm?id=371'>舟を編む</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 9,
+                    "value": [
+                        { "text": "10" },
+                        { "text": "2013年" },
+                        { "text": "<a href='../pages/author.htm?id=369'>百田尚樹</a>" },
+                        { "text": "<a href='../pages/book.htm?id=372'>海賊とよばれた男</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 10,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "2014年" },
+                        { "text": "<a href='../pages/author.htm?id=370'>和田竜</a>" },
+                        { "text": "<a href='../pages/book.htm?id=373'>村上海賊の娘</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 11,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "2015年" },
+                        { "text": "<a href='../pages/author.htm?id=371'>上橋菜穂子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=374'>鹿の王</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 12,
+                    "value": [
+                        { "text": "13" },
+                        { "text": "2016年" },
+                        { "text": "<a href='../pages/author.htm?id=372'>宮下奈都</a>" },
+                        { "text": "<a href='../pages/book.htm?id=375'>羊と鋼の森</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 13,
+                    "value": [
+                        { "text": "14" },
+                        { "text": "2017年" },
+                        { "text": "<a href='../pages/author.htm?id=356'>恩田陸</a>" },
+                        { "text": "<a href='../pages/book.htm?id=356'>蜜蜂と遠雷</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 14,
+                    "value": [
+                        { "text": "15" },
+                        { "text": "2018年" },
+                        { "text": "<a href='../pages/author.htm?id=345'>辻村深月</a>" },
+                        { "text": "<a href='../pages/book.htm?id=376'>かがみの孤城</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 15,
+                    "value": [
+                        { "text": "16" },
+                        { "text": "2019年" },
+                        { "text": "<a href='../pages/author.htm?id=373'>瀬尾まいこ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=377'>そして、バトンは渡された</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 16,
+                    "value": [
+                        { "text": "17" },
+                        { "text": "2020年" },
+                        { "text": "<a href='../pages/author.htm?id=374'>凪良ゆう</a>" },
+                        { "text": "<a href='../pages/book.htm?id=378'>流浪の月</a>" }
+                    ]
+                }
+                    ]
+    }
+}

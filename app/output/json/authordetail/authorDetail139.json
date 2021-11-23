@@ -1,0 +1,26 @@
+{
+    "id": "139",
+    "name": "絲山秋子",
+    "kana": "いとやまあきこ",
+    "imgUrl": "",
+    "bornDate": "1966年11月22日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B5%B2%E5%B1%B1%E7%A7%8B%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=139'>沖で待つ</a>" },
+                        { "text": "第134回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

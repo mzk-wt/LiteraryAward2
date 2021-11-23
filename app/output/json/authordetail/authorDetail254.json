@@ -1,0 +1,26 @@
+{
+    "id": "254",
+    "name": "有明夏夫",
+    "kana": "ありあけなつお",
+    "imgUrl": "",
+    "bornDate": "1936年5月11日",
+    "deadDate": "2002年12月17日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9C%89%E6%98%8E%E5%A4%8F%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=254'>大浪花諸人往来</a>" },
+                        { "text": "第80回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

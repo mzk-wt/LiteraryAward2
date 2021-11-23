@@ -1,0 +1,26 @@
+{
+    "id": "169",
+    "name": "町屋良平",
+    "kana": "まちやりょうへい",
+    "imgUrl": "https://www.sankei.com/images/news/190116/lif1901160041-p1.jpg",
+    "bornDate": "1983年",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%BA%E5%B1%8B%E8%89%AF%E5%B9%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=169'>1R1分34秒</a>" },
+                        { "text": "第160回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

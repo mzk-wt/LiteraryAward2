@@ -1,0 +1,26 @@
+{
+    "id": "88",
+    "name": "吉行理恵",
+    "kana": "よしゆきりえ",
+    "imgUrl": "",
+    "bornDate": "1939年7月8日",
+    "deadDate": "2006年5月4日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%89%E8%A1%8C%E7%90%86%E6%81%B5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=88'>小さな貴婦人</a>" },
+                        { "text": "第85回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

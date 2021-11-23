@@ -1,0 +1,33 @@
+{
+    "id": "239",
+    "name": "結城昌治",
+    "kana": "ゆうきしょうじ",
+    "imgUrl": "",
+    "bornDate": "1927年2月5日",
+    "deadDate": "1996年1月24日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%B5%90%E5%9F%8E%E6%98%8C%E6%B2%BB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=239'>軍旗はためく下に</a>" },
+                        { "text": "第63回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=493'>終着駅</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "59",
+    "name": "清岡卓行",
+    "kana": "きよおかたかゆき",
+    "imgUrl": "",
+    "bornDate": "1922年6月29日",
+    "deadDate": "2006年6月3日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B8%85%E5%B2%A1%E5%8D%93%E8%A1%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=59'>アカシヤの大連</a>" },
+                        { "text": "第62回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

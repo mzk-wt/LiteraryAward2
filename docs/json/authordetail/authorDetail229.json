@@ -1,0 +1,26 @@
+{
+    "id": "229",
+    "name": "千葉治平",
+    "kana": "ちばじへい",
+    "imgUrl": "",
+    "bornDate": "1921年10月31日",
+    "deadDate": "1991年6月23日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E6%B2%BB%E5%B9%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=229'>虜愁記</a>" },
+                        { "text": "第54回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "179",
+    "name": "河内仙介",
+    "kana": "かわちせんすけ",
+    "imgUrl": "",
+    "bornDate": "1898年10月21日",
+    "deadDate": "1954年2月21日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E5%86%85%E4%BB%99%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=179'>軍事郵便</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

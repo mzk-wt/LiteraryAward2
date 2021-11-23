@@ -1,0 +1,26 @@
+{
+    "id": "158",
+    "name": "又吉直樹",
+    "kana": "またよしなおき",
+    "imgUrl": "",
+    "bornDate": "1980年6月2日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8F%88%E5%90%89%E7%9B%B4%E6%A8%B9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=158'>火花</a>" },
+                        { "text": "第153回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

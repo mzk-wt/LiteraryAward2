@@ -1,0 +1,33 @@
+{
+    "id": "273",
+    "name": "皆川博子",
+    "kana": "みながわひろこ",
+    "imgUrl": "",
+    "bornDate": "1929年12月8日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%9A%86%E5%B7%9D%E5%8D%9A%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=273'>恋紅</a>" },
+                        { "text": "第95回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=508'>死の泉</a>" },
+                        { "text": "第32回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

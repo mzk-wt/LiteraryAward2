@@ -1,0 +1,128 @@
+<DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+
+    <title>LADB</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+    <link rel="stylesheet" href="../css/common.css">
+    
+    <!-- vue -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+    <!-- axios -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- My Script -->
+    <script src="../js/common.js"></script>
+
+    <!-- My Vue components -->
+    <script src="../js/vue/components/header1.js"></script>
+    <script src="../js/vue/components/footer1.js"></script>
+    <script src="../js/vue/components/breadcrumb.js"></script>
+    <script src="../js/vue/components/list.js"></script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37807464-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-37807464-2');
+    </script>
+</head>
+
+<!------------------------------------------------------------------------------------------->
+
+<body>
+    <div id="app" class="site">
+
+        <!-- ヘッダ -->
+        <header1 :title="authorData.name" :subtitle="authorData.kana" :rootpath="rootpath"></header1>
+
+        <div class="site-content columns has-background-light mb-0">
+            <div class="column is-8 is-offset-2">
+                <!-- パンくずリスト -->
+                <div class="block">
+                    <breadcrumb rootpath="../" :linkkeys="'home,authorList,' + authorData.name"></breadcrumb>
+                </div>
+                <!-- 著者情報 -->
+                <div class="block columns">
+                    <div class="column is-narrow">
+                        <img :src="authorData.imgUrl" width="200">
+                    </div>
+                    <div class="column">
+                        <table class="table is-size-7 has-background-light">
+                            <tr>
+                                <th nowrap>生没年</th><td v-html="born2DeadDate"></td>
+                            </tr>
+                            <tr>
+                                <th nowrap>国籍</th><td>{{ authorData.countryName }}</td>
+                            </tr>
+                            <tr>
+                                <th nowrap>概要</th><td v-html="overview"></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <!-- 受賞作 -->
+                <div class="block">
+                    <list :listtype="'authordetail/authorDetail' + authorId" listkey="awardWinningWorks" rootpath="../"></list>
+                </div>
+            </div>
+        </div>
+
+        <!-- フッタ -->
+        <footer1 :rootpath="rootpath"></footer1>
+    </div>
+</body>
+
+<!------------------------------------------------------------------------------------------->
+
+<script type="text/javascript">
+var app = new Vue({
+    el: '#app',
+    data: {
+        rootpath: '../',
+        authorId: '',
+        authorData: {}
+    },
+    computed: {
+        born2DeadDate() {
+            return this.authorData.bornDate + " 〜 " + this.authorData.deadDate;
+        },
+        overview() {
+            return this.authorData.overview + "<br>"
+            + "<a href='" + this.authorData.wikipediaUrl + "'>Wikipedia<i class='pl-1 fas fa-external-link-alt'></i></a>";
+        },
+    },
+    created() {
+        let params = getRequestParams();
+        if ("id" in params) {
+            this.authorId = params["id"];
+        } else {
+            this.authorId = "";
+        }
+
+        // JSONファイルからデータを取得する
+        axios.get(this.rootpath + "json/authordetail/authorDetail" + this.authorId + ".json").then(s => {
+            this.authorData = s.data;
+        });
+    },
+    mounted() {
+        // Twitterカードの設定
+        // TODO
+        addTwitterCardMetaTags(
+            "http",
+            "title",
+            "description",
+            "image"
+        );
+    },
+    methods: {
+    }
+})
+</script>
+</html>

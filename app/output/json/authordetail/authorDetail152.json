@@ -1,0 +1,26 @@
+{
+    "id": "152",
+    "name": "鹿島田真希",
+    "kana": "かしまだまき",
+    "imgUrl": "",
+    "bornDate": "1976年10月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E7%94%B0%E7%9C%9F%E5%B8%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=152'>冥土めぐり</a>" },
+                        { "text": "第147回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "400",
+    "name": "中島望",
+    "kana": "なかじまのぞむ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E6%9C%9B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=404'>Kの流儀 フルコンタクト・ゲーム</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "213",
+    "name": "戸板康二",
+    "kana": "といたやすじ",
+    "imgUrl": "",
+    "bornDate": "1915年12月14日",
+    "deadDate": "1993年1月23日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%88%B8%E6%9D%BF%E5%BA%B7%E4%BA%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=213'>團十郎切腹事件</a>" },
+                        { "text": "第42回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "282",
+    "name": "杉本章子",
+    "kana": "すぎもとあきこ",
+    "imgUrl": "",
+    "bornDate": "1953年5月28日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E7%AB%A0%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=282'>東京新大橋雨中図</a>" },
+                        { "text": "第100回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

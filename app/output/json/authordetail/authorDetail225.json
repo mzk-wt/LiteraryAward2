@@ -1,0 +1,26 @@
+{
+    "id": "225",
+    "name": "安藤鶴夫",
+    "kana": "あんどうつるお",
+    "imgUrl": "",
+    "bornDate": "1908年11月16日",
+    "deadDate": "1969年9月9日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%AE%89%E8%97%A4%E9%B6%B4%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=225'>巷談本牧亭</a>" },
+                        { "text": "第50回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

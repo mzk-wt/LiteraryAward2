@@ -1,0 +1,26 @@
+{
+    "id": "26",
+    "name": "石川利光",
+    "kana": "いしかわとしみつ",
+    "imgUrl": "",
+    "bornDate": "1914年2月3日",
+    "deadDate": "2001年7月14日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E5%88%A9%E5%85%89_(%E4%BD%9C%E5%AE%B6)",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=26'>春の草</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

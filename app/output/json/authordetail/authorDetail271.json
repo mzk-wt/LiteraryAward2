@@ -1,0 +1,26 @@
+{
+    "id": "271",
+    "name": "森田誠吾",
+    "kana": "もりたせいご",
+    "imgUrl": "",
+    "bornDate": "1925年10月25日",
+    "deadDate": "2008年10月16日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E8%AA%A0%E5%90%BE",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=271'>魚河岸ものがたり</a>" },
+                        { "text": "第94回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

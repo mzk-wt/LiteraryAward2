@@ -1,0 +1,33 @@
+{
+    "id": "275",
+    "name": "逢坂剛",
+    "kana": "おうさかごう",
+    "imgUrl": "",
+    "bornDate": "1943年11月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E5%89%9B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=275'>カディスの赤い星</a>" },
+                        { "text": "第96回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=525'>平蔵狩り</a>" },
+                        { "text": "第49回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

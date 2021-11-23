@@ -1,0 +1,26 @@
+{
+    "id": "483",
+    "name": "船山馨",
+    "kana": "ふなやまかおる",
+    "imgUrl": "None",
+    "bornDate": "1914年3月31日",
+    "deadDate": "1981年8月5日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%88%B9%E5%B1%B1%E9%A6%A8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=489'>茜いろの坂</a>" },
+                        { "text": "第15回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

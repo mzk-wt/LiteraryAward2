@@ -1,0 +1,26 @@
+{
+    "id": "324",
+    "name": "江國香織",
+    "kana": "えくにかおり",
+    "imgUrl": "",
+    "bornDate": "1964年3月21日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B1%9F%E5%9C%8B%E9%A6%99%E7%B9%94",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=324'>号泣する準備はできていた</a>" },
+                        { "text": "第130回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

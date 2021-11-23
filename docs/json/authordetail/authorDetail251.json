@@ -1,0 +1,33 @@
+{
+    "id": "251",
+    "name": "津本陽",
+    "kana": "つもとよう",
+    "imgUrl": "",
+    "bornDate": "1929年3月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B4%A5%E6%9C%AC%E9%99%BD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=251'>深重の海</a>" },
+                        { "text": "第79回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=504'>夢のまた夢</a>" },
+                        { "text": "第29回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "224",
+    "name": "和田芳恵",
+    "kana": "わだよしえ",
+    "imgUrl": "",
+    "bornDate": "1906年4月6日",
+    "deadDate": "1977年10月5日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%92%8C%E7%94%B0%E8%8A%B3%E6%81%B5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=224'>塵の中</a>" },
+                        { "text": "第50回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

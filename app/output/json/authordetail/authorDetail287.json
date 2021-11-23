@@ -1,0 +1,26 @@
+{
+    "id": "287",
+    "name": "泡坂妻夫",
+    "kana": "あわさかつまお",
+    "imgUrl": "",
+    "bornDate": "1933年5月9日",
+    "deadDate": "2009年2月3日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B3%A1%E5%9D%82%E5%A6%BB%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=287'>蔭桔梗</a>" },
+                        { "text": "第103回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

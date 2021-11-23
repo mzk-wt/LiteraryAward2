@@ -1,0 +1,26 @@
+{
+    "id": "294",
+    "name": "出久根達郎",
+    "kana": "でくねたつろう",
+    "imgUrl": "",
+    "bornDate": "1944年3月31日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%87%BA%E4%B9%85%E6%A0%B9%E9%81%94%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=294'>佃島ふたり書房</a>" },
+                        { "text": "第108回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "367",
+    "name": "冲方丁",
+    "kana": "うぶかたとう",
+    "imgUrl": "",
+    "bornDate": "1977年2月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%86%B2%E6%96%B9%E4%B8%81",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=369'>天地明察</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

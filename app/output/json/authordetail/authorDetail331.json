@@ -1,0 +1,33 @@
+{
+    "id": "331",
+    "name": "三浦しをん",
+    "kana": "みうらしおん",
+    "imgUrl": "",
+    "bornDate": "1976年9月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E3%81%97%E3%82%92%E3%82%93",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=331'>まほろ駅前多田便利軒</a>" },
+                        { "text": "第135回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=371'>舟を編む</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

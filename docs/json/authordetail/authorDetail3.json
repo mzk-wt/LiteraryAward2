@@ -1,0 +1,26 @@
+{
+    "id": "3",
+    "name": "小田嶽夫",
+    "kana": "おだたけお",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Takeo_Oda_Scan10037.JPG/200px-Takeo_Oda_Scan10037.JPG",
+    "bornDate": "1900年7月5日",
+    "deadDate": "1979年6月2日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%B6%BD%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=3'>城外</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

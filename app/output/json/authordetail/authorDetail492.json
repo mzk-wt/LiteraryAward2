@@ -1,0 +1,26 @@
+{
+    "id": "492",
+    "name": "石沢麻依",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=530'>貝に続く場所にて</a>" },
+                        { "text": "第165回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

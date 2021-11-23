@@ -1,0 +1,33 @@
+{
+    "id": "236",
+    "name": "陳舜臣",
+    "kana": "ちんしゅんしん",
+    "imgUrl": "",
+    "bornDate": "1924年2月18日",
+    "deadDate": "2015年1月21日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%99%B3%E8%88%9C%E8%87%A3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=236'>青玉獅子香炉</a>" },
+                        { "text": "第60回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=501'>諸葛孔明</a>" },
+                        { "text": "第26回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

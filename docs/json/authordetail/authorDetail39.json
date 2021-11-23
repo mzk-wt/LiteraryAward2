@@ -1,0 +1,26 @@
+{
+    "id": "39",
+    "name": "開高健",
+    "kana": "かいこうたけし",
+    "imgUrl": "",
+    "bornDate": "1930年12月30日",
+    "deadDate": "1989年12月9日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%96%8B%E9%AB%98%E5%81%A5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=39'>裸の王様</a>" },
+                        { "text": "第38回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

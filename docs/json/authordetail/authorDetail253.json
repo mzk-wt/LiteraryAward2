@@ -1,0 +1,33 @@
+{
+    "id": "253",
+    "name": "宮尾登美子",
+    "kana": "みやおとみこ",
+    "imgUrl": "",
+    "bornDate": "1926年4月13日",
+    "deadDate": "2014年12月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B0%BE%E7%99%BB%E7%BE%8E%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=253'>一絃の琴</a>" },
+                        { "text": "第80回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=491'>序の舞</a>" },
+                        { "text": "第17回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

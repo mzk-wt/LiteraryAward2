@@ -1,0 +1,26 @@
+{
+    "id": "266",
+    "name": "神吉拓郎",
+    "kana": "かんきたくろう",
+    "imgUrl": "",
+    "bornDate": "1928年9月11日",
+    "deadDate": "1994年6月28日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E5%90%89%E6%8B%93%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=266'>私生活</a>" },
+                        { "text": "第90回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

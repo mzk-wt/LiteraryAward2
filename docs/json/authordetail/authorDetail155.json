@@ -1,0 +1,26 @@
+{
+    "id": "155",
+    "name": "小山田浩子",
+    "kana": "おやまだひろこ",
+    "imgUrl": "",
+    "bornDate": "1983年11月2日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E7%94%B0%E6%B5%A9%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=155'>穴</a>" },
+                        { "text": "第150回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

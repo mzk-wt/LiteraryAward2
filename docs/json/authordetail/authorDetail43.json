@@ -1,0 +1,26 @@
+{
+    "id": "43",
+    "name": "三浦哲郎",
+    "kana": "みうらてつお",
+    "imgUrl": "",
+    "bornDate": "1931年3月16日",
+    "deadDate": "2010年8月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E5%93%B2%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=43'>忍ぶ川</a>" },
+                        { "text": "第44回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

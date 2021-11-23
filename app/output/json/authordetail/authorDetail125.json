@@ -1,0 +1,26 @@
+{
+    "id": "125",
+    "name": "松浦寿輝",
+    "kana": "まつうらひさき",
+    "imgUrl": "",
+    "bornDate": "1954年3月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E5%AF%BF%E8%BC%9D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=125'>花腐し</a>" },
+                        { "text": "第123回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

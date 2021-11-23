@@ -1,0 +1,26 @@
+{
+    "id": "339",
+    "name": "白石一文",
+    "kana": "しらいしかずふみ",
+    "imgUrl": "",
+    "bornDate": "1958年8月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E4%B8%80%E6%96%87",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=339'>ほかならぬ人へ</a>" },
+                        { "text": "第142回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

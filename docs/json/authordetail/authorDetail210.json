@@ -1,0 +1,33 @@
+{
+    "id": "210",
+    "name": "城山三郎",
+    "kana": "しろやまさぶろう",
+    "imgUrl": "",
+    "bornDate": "1927年8月18日",
+    "deadDate": "2007年3月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E5%B1%B1%E4%B8%89%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=210'>総会屋錦城</a>" },
+                        { "text": "第40回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=482'>落日燃ゆ</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

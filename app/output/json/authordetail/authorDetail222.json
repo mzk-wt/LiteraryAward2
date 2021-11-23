@@ -1,0 +1,26 @@
+{
+    "id": "222",
+    "name": "山口瞳",
+    "kana": "やまぐちひとみ",
+    "imgUrl": "",
+    "bornDate": "1926年11月3日",
+    "deadDate": "1995年8月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9E%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=222'>江分利満氏の優雅な生活</a>" },
+                        { "text": "第48回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "144",
+    "name": "楊逸",
+    "kana": "ヤン・イー",
+    "imgUrl": "",
+    "bornDate": "1964年6月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A5%8A%E9%80%B8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=144'>時が滲む朝</a>" },
+                        { "text": "第139回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

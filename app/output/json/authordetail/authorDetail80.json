@@ -1,0 +1,26 @@
+{
+    "id": "80",
+    "name": "高城修三",
+    "kana": "たきしゅうぞう",
+    "imgUrl": "",
+    "bornDate": "1947年10月4日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9F%8E%E4%BF%AE%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=80'>榧の木祭り</a>" },
+                        { "text": "第78回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

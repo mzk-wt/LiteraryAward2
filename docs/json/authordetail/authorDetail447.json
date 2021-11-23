@@ -1,0 +1,26 @@
+{
+    "id": "447",
+    "name": "黒澤いづみ",
+    "kana": "くろさわいづみ",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=451'>人間に向いてない</a>" },
+                        { "text": "第57回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

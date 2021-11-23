@@ -1,0 +1,26 @@
+{
+    "id": "115",
+    "name": "又吉栄喜",
+    "kana": "またよしえいき",
+    "imgUrl": "",
+    "bornDate": "1947年7月15日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8F%88%E5%90%89%E6%A0%84%E5%96%9C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=115'>豚の報い</a>" },
+                        { "text": "第114回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

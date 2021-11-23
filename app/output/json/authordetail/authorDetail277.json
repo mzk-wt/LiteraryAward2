@@ -1,0 +1,26 @@
+{
+    "id": "277",
+    "name": "山田詠美",
+    "kana": "やまだえいみ",
+    "imgUrl": "",
+    "bornDate": "1959年2月8日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E8%A9%A0%E7%BE%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=277'>ソウル・ミュージック・ラバーズ・オンリー</a>" },
+                        { "text": "第97回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

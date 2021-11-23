@@ -1,0 +1,19 @@
+{
+    "listtitle": [
+        "タイトル", "読み仮名", "著者", "主な受賞歴"
+    ],
+    "listitem": [
+        {% for book in books %}
+            {% if loop.index0 > 0 %},{% endif %}
+            {
+                "key": {{ loop.index0 }},
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id={{ book["id"] }}'>{{ book["title"] }}</a>" },
+                    { "text": "{{ book["kana"] }}" },
+                    { "text": "{{ book["author"] }}" },
+                    { "text": "{{ book["winningAward"] }}" }
+                ]
+            }
+        {% endfor %}
+    ]
+}

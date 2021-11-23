@@ -1,0 +1,26 @@
+{
+    "id": "17",
+    "name": "石塚喜久三",
+    "kana": "いしづかきくぞう",
+    "imgUrl": "",
+    "bornDate": "1904年9月5日",
+    "deadDate": "1987年10月1日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%A1%9A%E5%96%9C%E4%B9%85%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=17'>纏足の頃</a>" },
+                        { "text": "第17回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "321",
+    "name": "村山由佳",
+    "kana": "むらやまゆか",
+    "imgUrl": "",
+    "bornDate": "1964年7月10日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%91%E5%B1%B1%E7%94%B1%E4%BD%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=321'>星々の舟</a>" },
+                        { "text": "第129回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

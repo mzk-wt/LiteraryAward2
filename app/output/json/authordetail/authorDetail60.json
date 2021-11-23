@@ -1,0 +1,26 @@
+{
+    "id": "60",
+    "name": "古山高麗雄",
+    "kana": "ふるやまこまお",
+    "imgUrl": "",
+    "bornDate": "1920年8月6日",
+    "deadDate": "2002年3月11日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B1%B1%E9%AB%98%E9%BA%97%E9%9B%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=60'>プレオー8の夜明け</a>" },
+                        { "text": "第63回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "171",
+    "name": "古川真人",
+    "kana": "ふるかわまこと",
+    "imgUrl": "https://amd.c.yimg.jp/amd/20200115-00012871-bunshun-000-1-view.jpg",
+    "bornDate": "1988年7月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "福岡県福岡市出身[1]、神奈川県横浜市在住の小説家。",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E7%9C%9F%E4%BA%BA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=171'>背高泡立草</a>" },
+                        { "text": "第162回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

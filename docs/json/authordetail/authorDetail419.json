@@ -1,0 +1,26 @@
+{
+    "id": "419",
+    "name": "小路幸也",
+    "kana": "しょうじゆきや",
+    "imgUrl": "None",
+    "bornDate": "1961年4月17日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B7%AF%E5%B9%B8%E4%B9%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=423'>空を見上げる古い歌を口ずさむ</a>" },
+                        { "text": "第29回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

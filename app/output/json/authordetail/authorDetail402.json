@@ -1,0 +1,26 @@
+{
+    "id": "402",
+    "name": "霧舎巧",
+    "kana": "きりしゃたくみ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%9C%A7%E8%88%8E%E5%B7%A7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=406'>ドッペルゲンガー宮 《あかずの扉》研究会流氷館へ</a>" },
+                        { "text": "第12回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

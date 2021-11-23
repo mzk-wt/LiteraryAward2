@@ -1,0 +1,26 @@
+{
+    "id": "435",
+    "name": "高田大介",
+    "kana": "たかただいすけ",
+    "imgUrl": "None",
+    "bornDate": "1955年3月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%AB%98%E7%94%B0%E5%A4%A7%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=439'>図書館の魔女</a>" },
+                        { "text": "第45回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

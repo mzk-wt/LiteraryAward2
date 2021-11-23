@@ -1,0 +1,26 @@
+{
+    "id": "430",
+    "name": "望月守宮",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9C%9B%E6%9C%88%E5%AE%88%E5%AE%AE",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=434'>無貌伝 双児の子ら</a>" },
+                        { "text": "第40回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

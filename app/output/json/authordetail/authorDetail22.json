@@ -1,0 +1,26 @@
+{
+    "id": "22",
+    "name": "由起しげ子",
+    "kana": "ゆきしげこ",
+    "imgUrl": "",
+    "bornDate": "1900年12月2日",
+    "deadDate": "1969年12月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%B1%E8%B5%B7%E3%81%97%E3%81%92%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=22'>本の話</a>" },
+                        { "text": "第21回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

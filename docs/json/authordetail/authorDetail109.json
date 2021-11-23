@@ -1,0 +1,26 @@
+{
+    "id": "109",
+    "name": "多和田葉子",
+    "kana": "たわだようこ",
+    "imgUrl": "",
+    "bornDate": "1960年3月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%92%8C%E7%94%B0%E8%91%89%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=109'>犬婿入り</a>" },
+                        { "text": "第108回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

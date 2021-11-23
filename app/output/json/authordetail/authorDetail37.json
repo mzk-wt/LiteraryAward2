@@ -1,0 +1,26 @@
+{
+    "id": "37",
+    "name": "近藤啓太郎",
+    "kana": "こんどうけいたろう",
+    "imgUrl": "",
+    "bornDate": "1920年3月25日",
+    "deadDate": "2002年2月1日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E5%95%93%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=37'>海人舟</a>" },
+                        { "text": "第35回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

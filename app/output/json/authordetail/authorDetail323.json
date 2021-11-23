@@ -1,0 +1,26 @@
+{
+    "id": "323",
+    "name": "京極夏彦",
+    "kana": "きょうごくなつひこ",
+    "imgUrl": "",
+    "bornDate": "1963年3月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BA%AC%E6%A5%B5%E5%A4%8F%E5%BD%A6",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=323'>後巷説百物語</a>" },
+                        { "text": "第130回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

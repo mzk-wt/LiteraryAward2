@@ -1,0 +1,26 @@
+{
+    "id": "136",
+    "name": "モブ・ノリオ",
+    "kana": "モブ・ノリオ",
+    "imgUrl": "",
+    "bornDate": "1970年11月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%96%E3%83%BB%E3%83%8E%E3%83%AA%E3%82%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=136'>介護入門</a>" },
+                        { "text": "第131回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

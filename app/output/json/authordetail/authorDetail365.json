@@ -1,0 +1,26 @@
+{
+    "id": "365",
+    "name": "伊坂幸太郎",
+    "kana": "いさかこうたろう",
+    "imgUrl": "",
+    "bornDate": "1971年5月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BC%8A%E5%9D%82%E5%B9%B8%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=367'>ゴールデンスランバー</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

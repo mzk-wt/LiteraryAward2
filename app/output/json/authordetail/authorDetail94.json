@@ -1,0 +1,26 @@
+{
+    "id": "94",
+    "name": "米谷ふみ子",
+    "kana": "こめたにふみこ",
+    "imgUrl": "",
+    "bornDate": "1930年11月15日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E8%B0%B7%E3%81%B5%E3%81%BF%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=94'>過越しの祭</a>" },
+                        { "text": "第94回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

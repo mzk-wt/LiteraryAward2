@@ -1,0 +1,26 @@
+{
+    "id": "426",
+    "name": "深水黎一郎",
+    "kana": "ふかみれいいちろう",
+    "imgUrl": "None",
+    "bornDate": "1963年2月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B7%B1%E6%B0%B4%E9%BB%8E%E4%B8%80%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=430'>ウルチモ・トルッコ 犯人はあなただ!</a>" },
+                        { "text": "第36回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

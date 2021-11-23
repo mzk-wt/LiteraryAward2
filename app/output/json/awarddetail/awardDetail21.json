@@ -1,0 +1,20 @@
+{
+    "title": "電撃小説大賞（金賞）",
+    "kana": "でんげきしょうせつたいしょう（きんしょう）",
+    "url": "http://dengekitaisho.jp/",
+    "countryId": "108",
+    "countryName": "日本",
+    "startYear": "1994",
+    "endYear": "",
+    "overview": "None",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%92%83%E5%B0%8F%E8%AA%AC%E5%A4%A7%E8%B3%9E",
+    "frequency": "1回/年",
+    "frequencyMonth": "11*",
+    "awardWinningWorks": {
+        "listtitle": [
+            "回", "受賞年", "受賞者", "受賞作"
+        ],
+        "listitem": [
+                    ]
+    }
+}

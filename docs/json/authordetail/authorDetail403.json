@@ -1,0 +1,26 @@
+{
+    "id": "403",
+    "name": "殊能将之",
+    "kana": "しゅのうまさゆき",
+    "imgUrl": "None",
+    "bornDate": "1964年1月19日",
+    "deadDate": "2013年2月11日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%AE%8A%E8%83%BD%E5%B0%86%E4%B9%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=407'>ハサミ男</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

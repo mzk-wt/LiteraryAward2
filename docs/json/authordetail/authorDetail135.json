@@ -1,0 +1,26 @@
+{
+    "id": "135",
+    "name": "金原ひとみ",
+    "kana": "かねはらひとみ",
+    "imgUrl": "",
+    "bornDate": "1983年8月8日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%8E%9F%E3%81%B2%E3%81%A8%E3%81%BF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=135'>蛇にピアス</a>" },
+                        { "text": "第130回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "203",
+    "name": "今官一",
+    "kana": "こんかんいち",
+    "imgUrl": "",
+    "bornDate": "1909年12月8日",
+    "deadDate": "1983年3月1日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%98%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=203'>壁の花</a>" },
+                        { "text": "第35回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

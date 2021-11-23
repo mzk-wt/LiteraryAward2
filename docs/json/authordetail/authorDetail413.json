@@ -1,0 +1,26 @@
+{
+    "id": "413",
+    "name": "西尾維新",
+    "kana": "にしおいしん",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E7%B6%AD%E6%96%B0",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=417'>クビキリサイクル 青色サヴァンと戯言遣い</a>" },
+                        { "text": "第23回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "394",
+    "name": "乾くるみ",
+    "kana": "いぬいくるみ",
+    "imgUrl": "None",
+    "bornDate": "1963年10月30日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B9%BE%E3%81%8F%E3%82%8B%E3%81%BF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=398'>Jの神話</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

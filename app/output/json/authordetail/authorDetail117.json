@@ -1,0 +1,26 @@
+{
+    "id": "117",
+    "name": "柳美里",
+    "kana": "ゆうみり",
+    "imgUrl": "",
+    "bornDate": "1968年6月22日",
+    "deadDate": "",
+    "countryId": "116",
+    "countryName": "大韓民国",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%BE%8E%E9%87%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=117'>家族シネマ</a>" },
+                        { "text": "第116回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

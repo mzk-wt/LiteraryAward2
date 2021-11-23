@@ -1,0 +1,26 @@
+{
+    "id": "167",
+    "name": "高橋弘希",
+    "kana": "たかはしひろき",
+    "imgUrl": "https://cdn.mainichi.jp/vol1/2018/07/19/20180719k0000m040057000p/9.jpg?1",
+    "bornDate": "1979年12月8日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E5%BC%98%E5%B8%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=167'>送り火</a>" },
+                        { "text": "第159回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "176",
+    "name": "井伏鱒二",
+    "kana": "いぶせますじ",
+    "imgUrl": "",
+    "bornDate": "1898年2月15日",
+    "deadDate": "1993年7月10日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%BC%8F%E9%B1%92%E4%BA%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=176'>ジョン萬次郎漂流記・その他</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

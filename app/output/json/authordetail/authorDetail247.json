@@ -1,0 +1,26 @@
+{
+    "id": "247",
+    "name": "井出孫六",
+    "kana": "いでまごろく",
+    "imgUrl": "",
+    "bornDate": "1931年9月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BA%95%E5%87%BA%E5%AD%AB%E5%85%AD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=247'>アトラス伝説</a>" },
+                        { "text": "第72回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

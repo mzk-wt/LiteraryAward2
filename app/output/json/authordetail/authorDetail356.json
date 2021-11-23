@@ -1,0 +1,40 @@
+{
+    "id": "356",
+    "name": "恩田陸",
+    "kana": "おんだりく",
+    "imgUrl": "",
+    "bornDate": "1964年10月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%81%A9%E7%94%B0%E9%99%B8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=356'>蜜蜂と遠雷</a>" },
+                        { "text": "第156回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=364'>夜のピクニック</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=356'>蜜蜂と遠雷</a>" },
+                        { "text": "第14回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "78",
+    "name": "池田満寿夫",
+    "kana": "いけだますお",
+    "imgUrl": "",
+    "bornDate": "1934年2月23日",
+    "deadDate": "1997年3月8日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0%E6%BA%80%E5%AF%BF%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=78'>エーゲ海に捧ぐ</a>" },
+                        { "text": "第77回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

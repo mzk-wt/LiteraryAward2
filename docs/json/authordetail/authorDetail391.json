@@ -1,0 +1,26 @@
+{
+    "id": "391",
+    "name": "森博嗣",
+    "kana": "もりひろし",
+    "imgUrl": "None",
+    "bornDate": "1957年12月7日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A3%AE%E5%8D%9A%E5%97%A3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=395'>すべてがFになる</a>" },
+                        { "text": "第1回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

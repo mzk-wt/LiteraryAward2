@@ -1,0 +1,578 @@
+{
+    "title": "メフィスト賞",
+    "kana": "めふぃすとしょう",
+    "url": "http://kodansha-novels.jp/mephisto/index.html",
+    "countryId": "108",
+    "countryName": "日本",
+    "startYear": "1996",
+    "endYear": "",
+    "overview": "未発表の小説を対象とした新人賞である。特徴としては、対象となるジャンルが『エンタテインメント作品（ミステリー、ファンタジー、SF、伝奇など）』という大まかな区分であること、明確な応募期間が設けられていないこと、『メフィスト』の編集者が下読みを介さず直接作品を読んだ上で選考を行うなど、既存の公募文学賞とは異なり持ち込みを制度化したような賞といえる。受賞に値する作品がなかった場合は、次回持ち越しとなるため欠番は発生しない。『メフィスト』には選考結果だけでなく、座談会形式で編集者が注目した作品が紹介され、受賞に至らないが興味深い作品の場合は応募者とコンタクトを取るとし、それが講談社からのデビューに繋がることもある。また、かつては話題に上らなかったり規定を外れた作品にも1行程度の寸評が必ず掲載されていた。<br>創設当初から賞金は存在しないが、受賞がそのまま出版につながるため印税が賞金代わりとなる（鮎川哲也賞と同じ）。受賞作は基本的に講談社ノベルスで出版されるが、ハードカバーやソフトカバーで出版されたこともある。近年では講談社タイガからの刊行もある。受賞者には講談社の『江戸川乱歩賞』と同じくシャーロック・ホームズ像が進呈されるが、授賞式は行われず担当の編集者から手渡しされる。<br>編集作業の進捗状況により受賞順に出版されるとは限らない。<br>",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%E8%B3%9E",
+    "frequency": "不定期",
+    "frequencyMonth": "",
+    "awardWinningWorks": {
+        "listtitle": [
+            "回", "受賞年", "受賞者", "受賞作"
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "1" },
+                        { "text": "1996年" },
+                        { "text": "<a href='../pages/author.htm?id=391'>森博嗣</a>" },
+                        { "text": "<a href='../pages/book.htm?id=395'>すべてがFになる</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "2" },
+                        { "text": "1996年" },
+                        { "text": "<a href='../pages/author.htm?id=392'>清涼院流水</a>" },
+                        { "text": "<a href='../pages/book.htm?id=396'>コズミック 世紀末探偵神話</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "1997年" },
+                        { "text": "<a href='../pages/author.htm?id=393'>蘇部健一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=397'>六枚のとんかつ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 3,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "1998年" },
+                        { "text": "<a href='../pages/author.htm?id=394'>乾くるみ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=398'>Jの神話</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "1998年" },
+                        { "text": "<a href='../pages/author.htm?id=395'>浦賀和宏</a>" },
+                        { "text": "<a href='../pages/book.htm?id=399'>記憶の果て</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 5,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "1998年" },
+                        { "text": "<a href='../pages/author.htm?id=396'>積木鏡介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=400'>歪んだ創世記</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 6,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "1998年" },
+                        { "text": "<a href='../pages/author.htm?id=397'>新堂冬樹</a>" },
+                        { "text": "<a href='../pages/book.htm?id=401'>血塗られた神話</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 7,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "1998年" },
+                        { "text": "<a href='../pages/author.htm?id=398'>浅暮三文</a>" },
+                        { "text": "<a href='../pages/book.htm?id=402'>ダブ（エ）ストン街道</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 8,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "1998年" },
+                        { "text": "<a href='../pages/author.htm?id=399'>高田崇史</a>" },
+                        { "text": "<a href='../pages/book.htm?id=403'>QED 百人一首の呪</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 9,
+                    "value": [
+                        { "text": "10" },
+                        { "text": "1999年" },
+                        { "text": "<a href='../pages/author.htm?id=400'>中島望</a>" },
+                        { "text": "<a href='../pages/book.htm?id=404'>Kの流儀 フルコンタクト・ゲーム</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 10,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "1999年" },
+                        { "text": "<a href='../pages/author.htm?id=401'>高里椎奈</a>" },
+                        { "text": "<a href='../pages/book.htm?id=405'>銀の檻を溶かして</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 11,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "1999年" },
+                        { "text": "<a href='../pages/author.htm?id=402'>霧舎巧</a>" },
+                        { "text": "<a href='../pages/book.htm?id=406'>ドッペルゲンガー宮 《あかずの扉》研究会流氷館へ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 12,
+                    "value": [
+                        { "text": "13" },
+                        { "text": "1999年" },
+                        { "text": "<a href='../pages/author.htm?id=403'>殊能将之</a>" },
+                        { "text": "<a href='../pages/book.htm?id=407'>ハサミ男</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 13,
+                    "value": [
+                        { "text": "14" },
+                        { "text": "2000年" },
+                        { "text": "<a href='../pages/author.htm?id=404'>古処誠二</a>" },
+                        { "text": "<a href='../pages/book.htm?id=408'>UNKNOWN</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 14,
+                    "value": [
+                        { "text": "15" },
+                        { "text": "2000年" },
+                        { "text": "<a href='../pages/author.htm?id=405'>氷川透</a>" },
+                        { "text": "<a href='../pages/book.htm?id=409'>真っ暗な夜明け</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 15,
+                    "value": [
+                        { "text": "16" },
+                        { "text": "2000年" },
+                        { "text": "<a href='../pages/author.htm?id=406'>黒田研二</a>" },
+                        { "text": "<a href='../pages/book.htm?id=410'>ウェディング・ドレス</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 16,
+                    "value": [
+                        { "text": "17" },
+                        { "text": "2000年" },
+                        { "text": "<a href='../pages/author.htm?id=407'>古泉迦十</a>" },
+                        { "text": "<a href='../pages/book.htm?id=411'>火蛾</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 17,
+                    "value": [
+                        { "text": "18" },
+                        { "text": "2000年" },
+                        { "text": "<a href='../pages/author.htm?id=408'>石崎幸二</a>" },
+                        { "text": "<a href='../pages/book.htm?id=412'>日曜日の沈黙</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 18,
+                    "value": [
+                        { "text": "19" },
+                        { "text": "2001年" },
+                        { "text": "<a href='../pages/author.htm?id=409'>舞城王太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=413'>煙か土か食い物 Smoke, Soil or Sacrifices</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 19,
+                    "value": [
+                        { "text": "20" },
+                        { "text": "2001年" },
+                        { "text": "<a href='../pages/author.htm?id=410'>秋月涼介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=414'>月長石の魔犬</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 20,
+                    "value": [
+                        { "text": "21" },
+                        { "text": "2001年" },
+                        { "text": "<a href='../pages/author.htm?id=411'>佐藤友哉</a>" },
+                        { "text": "<a href='../pages/book.htm?id=415'>フリッカー式 鏡公彦にうってつけの殺人</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 21,
+                    "value": [
+                        { "text": "22" },
+                        { "text": "2001年" },
+                        { "text": "<a href='../pages/author.htm?id=412'>津村巧</a>" },
+                        { "text": "<a href='../pages/book.htm?id=416'>DOOMSDAY―審判の夜―</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 22,
+                    "value": [
+                        { "text": "23" },
+                        { "text": "2002年" },
+                        { "text": "<a href='../pages/author.htm?id=413'>西尾維新</a>" },
+                        { "text": "<a href='../pages/book.htm?id=417'>クビキリサイクル 青色サヴァンと戯言遣い</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 23,
+                    "value": [
+                        { "text": "24" },
+                        { "text": "2002年" },
+                        { "text": "<a href='../pages/author.htm?id=414'>北山猛邦</a>" },
+                        { "text": "<a href='../pages/book.htm?id=418'>『クロック城』殺人事件</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 24,
+                    "value": [
+                        { "text": "25" },
+                        { "text": "2002年" },
+                        { "text": "<a href='../pages/author.htm?id=415'>日明恩</a>" },
+                        { "text": "<a href='../pages/book.htm?id=419'>それでも、警官は微笑う</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 25,
+                    "value": [
+                        { "text": "26" },
+                        { "text": "2002年" },
+                        { "text": "<a href='../pages/author.htm?id=416'>石黒耀</a>" },
+                        { "text": "<a href='../pages/book.htm?id=420'>死都日本</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 26,
+                    "value": [
+                        { "text": "27" },
+                        { "text": "2003年" },
+                        { "text": "<a href='../pages/author.htm?id=417'>生垣真太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=421'>フレームアウト</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 27,
+                    "value": [
+                        { "text": "28" },
+                        { "text": "2003年" },
+                        { "text": "<a href='../pages/author.htm?id=418'>関田涙</a>" },
+                        { "text": "<a href='../pages/book.htm?id=422'>蜜の森の凍える女神</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 28,
+                    "value": [
+                        { "text": "29" },
+                        { "text": "2003年" },
+                        { "text": "<a href='../pages/author.htm?id=419'>小路幸也</a>" },
+                        { "text": "<a href='../pages/book.htm?id=423'>空を見上げる古い歌を口ずさむ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 29,
+                    "value": [
+                        { "text": "30" },
+                        { "text": "2004年" },
+                        { "text": "<a href='../pages/author.htm?id=420'>矢野龍王</a>" },
+                        { "text": "<a href='../pages/book.htm?id=424'>極限推理コロシアム</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 30,
+                    "value": [
+                        { "text": "31" },
+                        { "text": "2004年" },
+                        { "text": "<a href='../pages/author.htm?id=345'>辻村深月</a>" },
+                        { "text": "<a href='../pages/book.htm?id=425'>冷たい校舎の時は止まる</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 31,
+                    "value": [
+                        { "text": "32" },
+                        { "text": "2005年" },
+                        { "text": "<a href='../pages/author.htm?id=422'>真梨幸子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=426'>孤虫症</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 32,
+                    "value": [
+                        { "text": "33" },
+                        { "text": "2005年" },
+                        { "text": "<a href='../pages/author.htm?id=423'>森山赳志</a>" },
+                        { "text": "<a href='../pages/book.htm?id=427'>黙過の代償</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 33,
+                    "value": [
+                        { "text": "34" },
+                        { "text": "2006年" },
+                        { "text": "<a href='../pages/author.htm?id=424'>岡崎隼人</a>" },
+                        { "text": "<a href='../pages/book.htm?id=428'>少女は踊る暗い腹の中踊る</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 34,
+                    "value": [
+                        { "text": "35" },
+                        { "text": "2007年" },
+                        { "text": "<a href='../pages/author.htm?id=425'>古野まほろ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=429'>天帝のはしたなき果実</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 35,
+                    "value": [
+                        { "text": "36" },
+                        { "text": "2007年" },
+                        { "text": "<a href='../pages/author.htm?id=426'>深水黎一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=430'>ウルチモ・トルッコ 犯人はあなただ!</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 36,
+                    "value": [
+                        { "text": "37" },
+                        { "text": "2008年" },
+                        { "text": "<a href='../pages/author.htm?id=427'>汀こるもの</a>" },
+                        { "text": "<a href='../pages/book.htm?id=431'>パラダイス・クローズド THANATOS</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 37,
+                    "value": [
+                        { "text": "38" },
+                        { "text": "2008年" },
+                        { "text": "<a href='../pages/author.htm?id=428'>輪渡颯介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=432'>掘割で笑う女 浪人左門あやかし指南</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 38,
+                    "value": [
+                        { "text": "39" },
+                        { "text": "2008年" },
+                        { "text": "<a href='../pages/author.htm?id=429'>二郎遊真</a>" },
+                        { "text": "<a href='../pages/book.htm?id=433'>マネーロード</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 39,
+                    "value": [
+                        { "text": "40" },
+                        { "text": "2009年" },
+                        { "text": "<a href='../pages/author.htm?id=430'>望月守宮</a>" },
+                        { "text": "<a href='../pages/book.htm?id=434'>無貌伝 双児の子ら</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 40,
+                    "value": [
+                        { "text": "41" },
+                        { "text": "2009年" },
+                        { "text": "<a href='../pages/author.htm?id=431'>赤星香一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=435'>虫とりのうた</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 41,
+                    "value": [
+                        { "text": "42" },
+                        { "text": "2009年" },
+                        { "text": "<a href='../pages/author.htm?id=432'>白河三兎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=436'>プールの底に眠る</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 42,
+                    "value": [
+                        { "text": "43" },
+                        { "text": "2010年" },
+                        { "text": "<a href='../pages/author.htm?id=433'>天祢涼</a>" },
+                        { "text": "<a href='../pages/book.htm?id=437'>キョウカンカク</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 43,
+                    "value": [
+                        { "text": "44" },
+                        { "text": "2010年" },
+                        { "text": "<a href='../pages/author.htm?id=434'>丸山天寿</a>" },
+                        { "text": "<a href='../pages/book.htm?id=438'>琅邪の鬼</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 44,
+                    "value": [
+                        { "text": "45" },
+                        { "text": "2010年" },
+                        { "text": "<a href='../pages/author.htm?id=435'>高田大介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=439'>図書館の魔女</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 45,
+                    "value": [
+                        { "text": "46" },
+                        { "text": "2012年" },
+                        { "text": "<a href='../pages/author.htm?id=436'>北夏輝</a>" },
+                        { "text": "<a href='../pages/book.htm?id=440'>恋都の狐さん</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 46,
+                    "value": [
+                        { "text": "47" },
+                        { "text": "2013年" },
+                        { "text": "<a href='../pages/author.htm?id=437'>周木律</a>" },
+                        { "text": "<a href='../pages/book.htm?id=441'>眼球堂の殺人 〜The Book〜</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 47,
+                    "value": [
+                        { "text": "48" },
+                        { "text": "2013年" },
+                        { "text": "<a href='../pages/author.htm?id=438'>近本洋一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=442'>愛の徴 ―天国の方角―</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 48,
+                    "value": [
+                        { "text": "49" },
+                        { "text": "2014年" },
+                        { "text": "<a href='../pages/author.htm?id=439'>風森章羽</a>" },
+                        { "text": "<a href='../pages/book.htm?id=443'>渦巻く回廊の鎮魂曲 霊媒探偵アーネスト</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 49,
+                    "value": [
+                        { "text": "50" },
+                        { "text": "2014年" },
+                        { "text": "<a href='../pages/author.htm?id=440'>早坂吝</a>" },
+                        { "text": "<a href='../pages/book.htm?id=444'>○○○○○○○○殺人事件</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 50,
+                    "value": [
+                        { "text": "51" },
+                        { "text": "2015年" },
+                        { "text": "<a href='../pages/author.htm?id=441'>井上真偽</a>" },
+                        { "text": "<a href='../pages/book.htm?id=445'>恋と禁忌の述語論理</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 51,
+                    "value": [
+                        { "text": "52" },
+                        { "text": "2017年" },
+                        { "text": "<a href='../pages/author.htm?id=442'>宮西真冬</a>" },
+                        { "text": "<a href='../pages/book.htm?id=446'>誰かが見ている</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 52,
+                    "value": [
+                        { "text": "53" },
+                        { "text": "2017年" },
+                        { "text": "<a href='../pages/author.htm?id=443'>柾木政宗</a>" },
+                        { "text": "<a href='../pages/book.htm?id=447'>NO推理、NO探偵？</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 53,
+                    "value": [
+                        { "text": "54" },
+                        { "text": "2017年" },
+                        { "text": "<a href='../pages/author.htm?id=444'>望月拓海</a>" },
+                        { "text": "<a href='../pages/book.htm?id=448'>毎年、記憶を失う彼女の救いかた</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 54,
+                    "value": [
+                        { "text": "55" },
+                        { "text": "2018年" },
+                        { "text": "<a href='../pages/author.htm?id=445'>木元哉多</a>" },
+                        { "text": "<a href='../pages/book.htm?id=449'>閻魔堂沙羅の推理奇譚</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 55,
+                    "value": [
+                        { "text": "56" },
+                        { "text": "2018年" },
+                        { "text": "<a href='../pages/author.htm?id=446'>秋保水菓</a>" },
+                        { "text": "<a href='../pages/book.htm?id=450'>コンビニなしでは生きられない</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 56,
+                    "value": [
+                        { "text": "57" },
+                        { "text": "2018年" },
+                        { "text": "<a href='../pages/author.htm?id=447'>黒澤いづみ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=451'>人間に向いてない</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 57,
+                    "value": [
+                        { "text": "58" },
+                        { "text": "2018年" },
+                        { "text": "<a href='../pages/author.htm?id=448'>名倉編</a>" },
+                        { "text": "<a href='../pages/book.htm?id=452'>異セカイ系</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 58,
+                    "value": [
+                        { "text": "59" },
+                        { "text": "2019年" },
+                        { "text": "<a href='../pages/author.htm?id=449'>砥上裕將</a>" },
+                        { "text": "<a href='../pages/book.htm?id=453'>線は、僕を描く</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 59,
+                    "value": [
+                        { "text": "60" },
+                        { "text": "2019年" },
+                        { "text": "<a href='../pages/author.htm?id=450'>夕木春央</a>" },
+                        { "text": "<a href='../pages/book.htm?id=454'>絞首商會</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 60,
+                    "value": [
+                        { "text": "61" },
+                        { "text": "2020年" },
+                        { "text": "<a href='../pages/author.htm?id=451'>真下みこと</a>" },
+                        { "text": "<a href='../pages/book.htm?id=455'>＃柚莉愛とかくれんぼ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 61,
+                    "value": [
+                        { "text": "62" },
+                        { "text": "2020年" },
+                        { "text": "<a href='../pages/author.htm?id=452'>五十嵐律人</a>" },
+                        { "text": "<a href='../pages/book.htm?id=456'>法廷遊戯</a>" }
+                    ]
+                }
+                    ]
+    }
+}

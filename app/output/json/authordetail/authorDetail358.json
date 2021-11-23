@@ -1,0 +1,26 @@
+{
+    "id": "358",
+    "name": "門井慶喜",
+    "kana": "かどいよしのぶ",
+    "imgUrl": "",
+    "bornDate": "1971年11月2日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%96%80%E4%BA%95%E6%85%B6%E5%96%9C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=358'>銀河鉄道の父</a>" },
+                        { "text": "第158回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

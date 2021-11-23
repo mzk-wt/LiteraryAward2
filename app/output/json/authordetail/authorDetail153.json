@@ -1,0 +1,26 @@
+{
+    "id": "153",
+    "name": "黒田夏子",
+    "kana": "くろだなつこ",
+    "imgUrl": "",
+    "bornDate": "1937年3月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E5%A4%8F%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=153'>ａｂさんご</a>" },
+                        { "text": "第148回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

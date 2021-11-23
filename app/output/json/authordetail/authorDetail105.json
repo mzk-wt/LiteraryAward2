@@ -1,0 +1,26 @@
+{
+    "id": "105",
+    "name": "荻野アンナ",
+    "kana": "おぎのあんな",
+    "imgUrl": "",
+    "bornDate": "1956年11月7日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E3%82%A2%E3%83%B3%E3%83%8A",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=105'>背負い水</a>" },
+                        { "text": "第105回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

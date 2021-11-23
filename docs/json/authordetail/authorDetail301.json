@@ -1,0 +1,26 @@
+{
+    "id": "301",
+    "name": "赤瀬川隼",
+    "kana": "あかせがわしゅん",
+    "imgUrl": "",
+    "bornDate": "1931年11月5日",
+    "deadDate": "1983年1月26日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%B5%A4%E7%80%AC%E5%B7%9D%E9%9A%BC",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=301'>白球残映</a>" },
+                        { "text": "第113回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

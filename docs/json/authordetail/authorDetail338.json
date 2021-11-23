@@ -1,0 +1,26 @@
+{
+    "id": "338",
+    "name": "佐々木譲",
+    "kana": "ささきじょう",
+    "imgUrl": "",
+    "bornDate": "1950年3月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E8%AD%B2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=338'>廃墟に乞う</a>" },
+                        { "text": "第142回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

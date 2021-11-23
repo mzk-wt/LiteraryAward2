@@ -1,0 +1,26 @@
+{
+    "id": "335",
+    "name": "山本兼一",
+    "kana": "やまもとけんいち",
+    "imgUrl": "",
+    "bornDate": "1956年7月23日",
+    "deadDate": "2012年2月13日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E5%85%BC%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=335'>利休にたずねよ</a>" },
+                        { "text": "第140回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

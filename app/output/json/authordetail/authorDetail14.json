@@ -1,0 +1,26 @@
+{
+    "id": "14",
+    "name": "多田裕計",
+    "kana": "ただゆうけい",
+    "imgUrl": "",
+    "bornDate": "1912年8月18日",
+    "deadDate": "1980年7月8日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E7%94%B0%E8%A3%95%E8%A8%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=14'>長江デルタ</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

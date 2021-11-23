@@ -1,0 +1,26 @@
+{
+    "id": "463",
+    "name": "藤井光",
+    "kana": "ふじいひかる",
+    "imgUrl": "None",
+    "bornDate": "1980年3月31日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E5%85%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=463'>タイガース・ワイフ</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "318",
+    "name": "唯川恵",
+    "kana": "ゆいかわけい",
+    "imgUrl": "",
+    "bornDate": "1955年2月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%94%AF%E5%B7%9D%E6%81%B5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=318'>肩ごしの恋人</a>" },
+                        { "text": "第126回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

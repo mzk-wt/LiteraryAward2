@@ -1,0 +1,26 @@
+{
+    "id": "128",
+    "name": "青来有一",
+    "kana": "せいらいゆういち",
+    "imgUrl": "",
+    "bornDate": "1958年12月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9D%A5%E6%9C%89%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=128'>聖水</a>" },
+                        { "text": "第124回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

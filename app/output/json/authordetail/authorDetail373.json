@@ -1,0 +1,26 @@
+{
+    "id": "373",
+    "name": "瀬尾まいこ",
+    "kana": "せおまいこ",
+    "imgUrl": "",
+    "bornDate": "1974年1月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%80%AC%E5%B0%BE%E3%81%BE%E3%81%84%E3%81%93",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=377'>そして、バトンは渡された</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

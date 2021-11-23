@@ -1,0 +1,26 @@
+{
+    "id": "248",
+    "name": "半村良",
+    "kana": "はんむらりょう",
+    "imgUrl": "",
+    "bornDate": "1933年10月27日",
+    "deadDate": "2002年3月4日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%8D%8A%E6%9D%91%E8%89%AF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=248'>雨やどり</a>" },
+                        { "text": "第72回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

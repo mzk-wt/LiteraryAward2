@@ -1,0 +1,26 @@
+{
+    "id": "163",
+    "name": "山下澄人",
+    "kana": "やましたすみと",
+    "imgUrl": "https://www.tfm.co.jp/podcasts/upload/item/02658d9eb7c3800ebf0ed36083e4b3c5_22587.jpg",
+    "bornDate": "1966年1月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E6%BE%84%E4%BA%BA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=163'>しんせかい</a>" },
+                        { "text": "第156回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

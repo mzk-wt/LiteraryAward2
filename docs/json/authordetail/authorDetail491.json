@@ -1,0 +1,26 @@
+{
+    "id": "491",
+    "name": "帚木蓬生",
+    "kana": "ははきぎほうせい",
+    "imgUrl": "None",
+    "bornDate": "1947年1月22日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B8%9A%E6%9C%A8%E8%93%AC%E7%94%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=528'>守教</a>" },
+                        { "text": "第52回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

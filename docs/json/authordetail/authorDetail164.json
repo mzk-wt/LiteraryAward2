@@ -1,0 +1,26 @@
+{
+    "id": "164",
+    "name": "沼田真佑",
+    "kana": "ぬまたしんすけ",
+    "imgUrl": "https://cdn.mainichi.jp/vol1/2017/07/20/20170720ddm008010012000p/9.jpg?1",
+    "bornDate": "1978年10月30日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E7%94%B0%E7%9C%9F%E4%BD%91",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=164'>影裏</a>" },
+                        { "text": "第157回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

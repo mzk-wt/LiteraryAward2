@@ -1,0 +1,26 @@
+{
+    "id": "65",
+    "name": "宮原昭夫",
+    "kana": "みやはらあきお",
+    "imgUrl": "",
+    "bornDate": "1932年8月5日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%8E%9F%E6%98%AD%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=65'>誰かが触った</a>" },
+                        { "text": "第67回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

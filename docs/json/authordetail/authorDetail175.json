@@ -1,0 +1,26 @@
+{
+    "id": "175",
+    "name": "木々高太郎",
+    "kana": "きぎたかたろう",
+    "imgUrl": "",
+    "bornDate": "1897年5月6日",
+    "deadDate": "1969年10月31日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E3%80%85%E9%AB%98%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=175'>人生の阿呆</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

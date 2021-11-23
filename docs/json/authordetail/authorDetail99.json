@@ -1,0 +1,26 @@
+{
+    "id": "99",
+    "name": "李良枝",
+    "kana": "イ・ヤンジ",
+    "imgUrl": "",
+    "bornDate": "1955年3月15日",
+    "deadDate": "1992年5月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%8E%E8%89%AF%E6%9E%9D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=99'>由煕</a>" },
+                        { "text": "第100回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

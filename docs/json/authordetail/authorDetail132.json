@@ -1,0 +1,26 @@
+{
+    "id": "132",
+    "name": "大道珠貴",
+    "kana": "だいどうたまき",
+    "imgUrl": "",
+    "bornDate": "1966年4月10日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%81%93%E7%8F%A0%E8%B2%B4",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=132'>しょっぱいドライブ</a>" },
+                        { "text": "第128回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

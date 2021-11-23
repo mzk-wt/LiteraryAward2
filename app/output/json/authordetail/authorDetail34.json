@@ -1,0 +1,26 @@
+{
+    "id": "34",
+    "name": "小島信夫",
+    "kana": "こじまのぶお",
+    "imgUrl": "",
+    "bornDate": "1915年2月28日",
+    "deadDate": "2006年10月26日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B3%B6%E4%BF%A1%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=34'>アメリカン・スクール</a>" },
+                        { "text": "第32回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

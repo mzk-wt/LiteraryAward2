@@ -1,0 +1,130 @@
+<DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+
+    <title>LADB</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+    <link rel="stylesheet" href="../css/common.css">
+    
+    <!-- vue -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+    <!-- axios -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- My Script -->
+    <script src="../js/common.js"></script>
+
+    <!-- My Vue components -->
+    <script src="../js/vue/components/header1.js"></script>
+    <script src="../js/vue/components/footer1.js"></script>
+    <script src="../js/vue/components/breadcrumb.js"></script>
+    <script src="../js/vue/components/list.js"></script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37807464-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-37807464-2');
+    </script>
+</head>
+
+<!------------------------------------------------------------------------------------------->
+
+<body>
+    <div id="app" class="site">
+
+        <!-- ヘッダ -->
+        <header1 :title="bookData.title" :subtitle="bookData.kana" :rootpath="rootpath"></header1>
+
+        <div class="site-content columns has-background-light mb-0">
+            <div class="column is-8 is-offset-2">
+                <!-- パンくずリスト -->
+                <div class="block">
+                    <breadcrumb rootpath="../" :linkkeys="'home,bookList,' + bookData.title"></breadcrumb>
+                </div>
+                <!-- 書籍情報 -->
+                <div class="block columns">
+                    <div class="column is-narrow">
+                        <img :src="bookData.imgUrl" width="250">
+                    </div>
+                    <div class="column">
+                        <table class="table is-size-7 has-background-light">
+                            <tr>
+                                <th nowrap>著者</th><td v-html="bookData.author"></td>
+                            </tr>
+                            <tr>
+                                <th nowrap>ISBN</th><td>{{ bookData.isbn }}</td>
+                            </tr>
+                            <tr>
+                                <th nowrap>概要</th><td v-html="bookData.overview"></td>
+                            </tr>
+                            <tr>
+                                <th nowrap>受賞歴</th><td v-html="bookData.winningAward"></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <!-- アフィリエイトリンク -->
+                <div class="block">
+                    <a class="button mr-2 is-warning" :href="bookData.amazonUrl" target="_blank" v-if="bookData.amazonUrl">
+                        Amazon<i class='pl-1 fas fa-external-link-alt'></i>
+                    </a>
+                    <a class="button mr-2 is-info" :href="bookData.kindleUrl" target="_blank" v-if="bookData.kindleUrl">
+                        Kindle<i class='pl-1 fas fa-external-link-alt'></i>
+                    </a>
+                    <a class="button mr-2 is-danger" :href="bookData.rakutenUrl" target="_blank" v-if="bookData.rakutenUrl">
+                        楽天ブックス<i class='pl-1 fas fa-external-link-alt'></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- フッタ -->
+        <footer1 :rootpath="rootpath"></footer1>
+    </div>
+</body>
+
+<!------------------------------------------------------------------------------------------->
+
+<script type="text/javascript">
+var app = new Vue({
+    el: '#app',
+    data: {
+        rootpath: '../',
+        bookId: '',
+        bookData: {}
+    },
+    created() {
+        let params = getRequestParams();
+        if ("id" in params) {
+            this.bookId = params["id"];
+        } else {
+            this.bookId = "";
+        }
+
+        // JSONファイルからデータを取得する
+        axios.get(this.rootpath + "json/bookdetail/bookDetail" + this.bookId + ".json").then(s => {
+            this.bookData = s.data;
+        });
+    },
+    mounted() {
+        // Twitterカードの設定
+        // TODO
+        addTwitterCardMetaTags(
+            "http",
+            "title",
+            "description",
+            "image"
+        );
+    },
+    methods: {
+    }
+})
+</script>
+</html>

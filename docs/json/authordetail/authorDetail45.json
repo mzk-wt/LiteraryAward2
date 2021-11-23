@@ -1,0 +1,26 @@
+{
+    "id": "45",
+    "name": "川村晃",
+    "kana": "かわむらあきら",
+    "imgUrl": "",
+    "bornDate": "1927年12月3日",
+    "deadDate": "1996年1月4日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%9D%91%E6%99%83",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=45'>美談の出発</a>" },
+                        { "text": "第47回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

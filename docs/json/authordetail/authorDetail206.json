@@ -1,0 +1,26 @@
+{
+    "id": "206",
+    "name": "江崎誠致",
+    "kana": "えさきまさのり",
+    "imgUrl": "",
+    "bornDate": "1922年1月21日",
+    "deadDate": "2001年5月24日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B4%8E%E8%AA%A0%E8%87%B4",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=206'>ルソンの谷間</a>" },
+                        { "text": "第37回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

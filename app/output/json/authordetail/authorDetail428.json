@@ -1,0 +1,26 @@
+{
+    "id": "428",
+    "name": "輪渡颯介",
+    "kana": "わたりそうすけ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%BC%AA%E6%B8%A1%E9%A2%AF%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=432'>掘割で笑う女 浪人左門あやかし指南</a>" },
+                        { "text": "第38回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

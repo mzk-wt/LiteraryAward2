@@ -1,0 +1,26 @@
+{
+    "id": "333",
+    "name": "桜庭一樹",
+    "kana": "さくらばかずき",
+    "imgUrl": "",
+    "bornDate": "1971年7月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A1%9C%E5%BA%AD%E4%B8%80%E6%A8%B9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=333'>私の男</a>" },
+                        { "text": "第138回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

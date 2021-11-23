@@ -1,0 +1,26 @@
+{
+    "id": "41",
+    "name": "斯波四郎",
+    "kana": "しばしろう",
+    "imgUrl": "",
+    "bornDate": "1910年4月7日",
+    "deadDate": "1989年4月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%96%AF%E6%B3%A2%E5%9B%9B%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=41'>山塔</a>" },
+                        { "text": "第41回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

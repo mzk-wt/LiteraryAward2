@@ -1,0 +1,26 @@
+{
+    "id": "57",
+    "name": "田久保英夫",
+    "kana": "たくぼひでお",
+    "imgUrl": "",
+    "bornDate": "1928年1月25日",
+    "deadDate": "2001年4月14日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B9%85%E4%BF%9D%E8%8B%B1%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=57'>深い河</a>" },
+                        { "text": "第61回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

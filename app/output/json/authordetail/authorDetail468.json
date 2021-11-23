@@ -1,0 +1,26 @@
+{
+    "id": "468",
+    "name": "ガブリエル・ゼヴィン",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "220",
+    "countryName": "アメリカ合衆国",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=466'>書店主フィクリーのものがたり</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

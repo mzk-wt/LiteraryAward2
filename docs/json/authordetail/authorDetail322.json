@@ -1,0 +1,26 @@
+{
+    "id": "322",
+    "name": "石田衣良",
+    "kana": "いしだいら",
+    "imgUrl": "",
+    "bornDate": "1960年3月28日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E8%A1%A3%E8%89%AF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=322'>4TEEN フォーティーン</a>" },
+                        { "text": "第129回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

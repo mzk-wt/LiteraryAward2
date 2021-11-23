@@ -1,0 +1,26 @@
+{
+    "id": "207",
+    "name": "榛葉英治",
+    "kana": "しんばえいじ",
+    "imgUrl": "",
+    "bornDate": "1912年10月21日",
+    "deadDate": "1999年2月20日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A6%9B%E8%91%89%E8%8B%B1%E6%B2%BB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=207'>赤い雪</a>" },
+                        { "text": "第39回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

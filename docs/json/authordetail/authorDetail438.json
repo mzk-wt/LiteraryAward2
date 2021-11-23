@@ -1,0 +1,26 @@
+{
+    "id": "438",
+    "name": "近本洋一",
+    "kana": "ちかもとよういち",
+    "imgUrl": "None",
+    "bornDate": "1975年",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%BF%91%E6%9C%AC%E6%B4%8B%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=442'>愛の徴 ―天国の方角―</a>" },
+                        { "text": "第48回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

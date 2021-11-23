@@ -1,0 +1,40 @@
+{
+    "id": "345",
+    "name": "辻村深月",
+    "kana": "つじむらみづき",
+    "imgUrl": "",
+    "bornDate": "1980年2月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%BE%BB%E6%9D%91%E6%B7%B1%E6%9C%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=345'>鍵のない夢を見る</a>" },
+                        { "text": "第147回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=376'>かがみの孤城</a>" },
+                        { "text": "第15回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=425'>冷たい校舎の時は止まる</a>" },
+                        { "text": "第31回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

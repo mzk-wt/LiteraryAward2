@@ -1,0 +1,26 @@
+{
+    "id": "362",
+    "name": "川越宗一",
+    "kana": "かわごえそういち",
+    "imgUrl": "",
+    "bornDate": "1978年",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%AE%97%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=362'>熱源</a>" },
+                        { "text": "第162回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

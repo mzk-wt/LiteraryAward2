@@ -1,0 +1,26 @@
+{
+    "id": "208",
+    "name": "山崎豊子",
+    "kana": "やまさきとよこ",
+    "imgUrl": "",
+    "bornDate": "1924年1月2日",
+    "deadDate": "2013年9月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E8%B1%8A%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=208'>花のれん</a>" },
+                        { "text": "第39回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

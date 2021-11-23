@@ -1,0 +1,26 @@
+{
+    "id": "456",
+    "name": "木村博江",
+    "kana": "きむらひろえ",
+    "imgUrl": "None",
+    "bornDate": "1941年3月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E5%8D%9A%E6%B1%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=458'>錯覚の科学</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

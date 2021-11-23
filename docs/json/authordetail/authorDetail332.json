@@ -1,0 +1,26 @@
+{
+    "id": "332",
+    "name": "松井今朝子",
+    "kana": "まついけさこ",
+    "imgUrl": "",
+    "bornDate": "1953年9月28日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%BE%E4%BA%95%E4%BB%8A%E6%9C%9D%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=332'>吉原手引草</a>" },
+                        { "text": "第137回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

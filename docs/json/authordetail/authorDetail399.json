@@ -1,0 +1,26 @@
+{
+    "id": "399",
+    "name": "高田崇史",
+    "kana": "たかだたかふみ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%AB%98%E7%94%B0%E5%B4%87%E5%8F%B2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=403'>QED 百人一首の呪</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "466",
+    "name": "ピエール・ルメートル",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "1951年4月19日",
+    "deadDate": "",
+    "countryId": "250",
+    "countryName": "フランス共和国",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AB%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=465'>その女アレックス</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

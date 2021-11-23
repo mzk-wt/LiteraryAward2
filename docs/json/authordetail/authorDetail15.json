@@ -1,0 +1,26 @@
+{
+    "id": "15",
+    "name": "芝木好子",
+    "kana": "しばきよしこ",
+    "imgUrl": "",
+    "bornDate": "1914年5月7日",
+    "deadDate": "1991年8月25日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%9D%E6%9C%A8%E5%A5%BD%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=15'>青果の市</a>" },
+                        { "text": "第14回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

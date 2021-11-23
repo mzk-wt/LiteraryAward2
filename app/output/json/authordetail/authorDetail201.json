@@ -1,0 +1,26 @@
+{
+    "id": "201",
+    "name": "邱永漢",
+    "kana": "きゅうえいかん",
+    "imgUrl": "",
+    "bornDate": "1924年3月28日",
+    "deadDate": "2012年5月16日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%82%B1%E6%B0%B8%E6%BC%A2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=201'>香港</a>" },
+                        { "text": "第34回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

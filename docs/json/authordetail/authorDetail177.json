@@ -1,0 +1,26 @@
+{
+    "id": "177",
+    "name": "橘外男",
+    "kana": "たちばなそとお",
+    "imgUrl": "",
+    "bornDate": "1894年10月10日",
+    "deadDate": "1959年7月9日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A9%98%E5%A4%96%E7%94%B7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=177'>ナリン殿下への回想</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

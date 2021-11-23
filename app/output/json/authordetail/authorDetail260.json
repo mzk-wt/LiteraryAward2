@@ -1,0 +1,26 @@
+{
+    "id": "260",
+    "name": "青島幸男",
+    "kana": "あおしまゆきお",
+    "imgUrl": "",
+    "bornDate": "1932年7月17日",
+    "deadDate": "2006年12月20日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%9D%92%E5%B3%B6%E5%B9%B8%E7%94%B7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=260'>人間万事塞翁が丙午</a>" },
+                        { "text": "第85回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

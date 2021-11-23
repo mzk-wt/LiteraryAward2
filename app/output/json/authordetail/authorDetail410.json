@@ -1,0 +1,26 @@
+{
+    "id": "410",
+    "name": "秋月涼介",
+    "kana": "あきづきりょうすけ",
+    "imgUrl": "None",
+    "bornDate": "1971年5月11日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%A7%8B%E6%9C%88%E6%B6%BC%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=414'>月長石の魔犬</a>" },
+                        { "text": "第20回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "214",
+    "name": "司馬遼太郎",
+    "kana": "しばりょうたろう",
+    "imgUrl": "",
+    "bornDate": "1923年8月7日",
+    "deadDate": "1996年2月12日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%BC%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=214'>梟の城</a>" },
+                        { "text": "第42回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=479'>｢世に棲む日日｣を中心とした作家活動に対して</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

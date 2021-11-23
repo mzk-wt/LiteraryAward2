@@ -1,0 +1,26 @@
+{
+    "id": "87",
+    "name": "尾辻克彦",
+    "kana": "おつじかつひこ",
+    "imgUrl": "",
+    "bornDate": "1937年3月27日",
+    "deadDate": "2014年10月26日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%80%AC%E5%B7%9D%E5%8E%9F%E5%B9%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=87'>父が消えた</a>" },
+                        { "text": "第84回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

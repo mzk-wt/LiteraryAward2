@@ -1,0 +1,26 @@
+{
+    "id": "68",
+    "name": "山本道子",
+    "kana": "やまもとみちこ",
+    "imgUrl": "",
+    "bornDate": "1936年12月4日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%81%93%E5%AD%90_(%E4%BD%9C%E5%AE%B6)",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=68'>ベティさんの庭</a>" },
+                        { "text": "第68回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

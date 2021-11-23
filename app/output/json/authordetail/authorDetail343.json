@@ -1,0 +1,26 @@
+{
+    "id": "343",
+    "name": "池井戸潤",
+    "kana": "いけいどじゅん",
+    "imgUrl": "",
+    "bornDate": "1963年6月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B1%A0%E4%BA%95%E6%88%B8%E6%BD%A4",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=343'>下町ロケット</a>" },
+                        { "text": "第145回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

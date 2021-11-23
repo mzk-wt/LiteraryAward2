@@ -1,0 +1,26 @@
+{
+    "id": "173",
+    "name": "鷲尾雨工",
+    "kana": "わしおうこう",
+    "imgUrl": "",
+    "bornDate": "1892年4月27日",
+    "deadDate": "1951年2月9日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%B7%B2%E5%B0%BE%E9%9B%A8%E5%B7%A5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=173'>吉野朝太平記</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "249",
+    "name": "佐木隆三",
+    "kana": "さきりゅうぞう",
+    "imgUrl": "",
+    "bornDate": "1937年4月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E6%9C%A8%E9%9A%86%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=249'>復讐するは我にあり</a>" },
+                        { "text": "第74回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

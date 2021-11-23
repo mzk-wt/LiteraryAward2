@@ -1,0 +1,26 @@
+{
+    "id": "392",
+    "name": "清涼院流水",
+    "kana": "せいりょういんりゅうすい",
+    "imgUrl": "None",
+    "bornDate": "1974年8月9日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B8%85%E6%B6%BC%E9%99%A2%E6%B5%81%E6%B0%B4",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=396'>コズミック 世紀末探偵神話</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "315",
+    "name": "山本文緒",
+    "kana": "やまもとふみお",
+    "imgUrl": "",
+    "bornDate": "1962年11月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E6%96%87%E7%B7%92",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=315'>プラナリア</a>" },
+                        { "text": "第124回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

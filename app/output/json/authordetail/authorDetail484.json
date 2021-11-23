@@ -1,0 +1,26 @@
+{
+    "id": "484",
+    "name": "早乙女貢",
+    "kana": "さおとめみつぐ",
+    "imgUrl": "None",
+    "bornDate": "1926年1月1日",
+    "deadDate": "2008年12月23日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%97%A9%E4%B9%99%E5%A5%B3%E8%B2%A2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=498'>會津士魂</a>" },
+                        { "text": "第23回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

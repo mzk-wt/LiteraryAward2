@@ -1,0 +1,26 @@
+{
+    "id": "480",
+    "name": "佐々涼子",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=473'>エンド・オブ・ライフ</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

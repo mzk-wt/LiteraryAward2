@@ -1,0 +1,26 @@
+{
+    "id": "374",
+    "name": "凪良ゆう",
+    "kana": "なぎらゆう",
+    "imgUrl": "",
+    "bornDate": "1973年1月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%87%AA%E8%89%AF%E3%82%86%E3%81%86",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=378'>流浪の月</a>" },
+                        { "text": "第17回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

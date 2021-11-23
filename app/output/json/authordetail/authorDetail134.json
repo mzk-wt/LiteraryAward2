@@ -1,0 +1,26 @@
+{
+    "id": "134",
+    "name": "綿矢りさ",
+    "kana": "わたやりさ",
+    "imgUrl": "",
+    "bornDate": "1984年2月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B6%BF%E7%9F%A2%E3%82%8A%E3%81%95",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=134'>蹴りたい背中</a>" },
+                        { "text": "第130回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

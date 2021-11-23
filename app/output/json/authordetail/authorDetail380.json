@@ -1,0 +1,26 @@
+{
+    "id": "380",
+    "name": "ヤマザキマリ",
+    "kana": "やまざきまり",
+    "imgUrl": "None",
+    "bornDate": "1967年4月20日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%83%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=384'>テルマエ・ロマエ</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "346",
+    "name": "安部龍太郎",
+    "kana": "あべりゅうたろう",
+    "imgUrl": "",
+    "bornDate": "1955年6月20日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%AE%89%E9%83%A8%E9%BE%8D%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=346'>等伯</a>" },
+                        { "text": "第148回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "114",
+    "name": "保坂和志",
+    "kana": "ほざかかずし",
+    "imgUrl": "",
+    "bornDate": "1956年10月15日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%9D%82%E5%92%8C%E5%BF%97",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=114'>この人の閾</a>" },
+                        { "text": "第113回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

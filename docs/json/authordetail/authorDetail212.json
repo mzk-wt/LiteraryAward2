@@ -1,0 +1,33 @@
+{
+    "id": "212",
+    "name": "平岩弓枝",
+    "kana": "ひらいわゆみえ",
+    "imgUrl": "",
+    "bornDate": "1932年3月15日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B2%A9%E5%BC%93%E6%9E%9D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=212'>鏨師</a>" },
+                        { "text": "第41回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=500'>花影の花</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

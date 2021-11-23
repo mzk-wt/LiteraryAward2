@@ -1,0 +1,26 @@
+{
+    "id": "140",
+    "name": "伊藤たかみ",
+    "kana": "いとうたかみ",
+    "imgUrl": "",
+    "bornDate": "1971年4月5日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E3%81%9F%E3%81%8B%E3%81%BF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=140'>八月の路上に捨てる</a>" },
+                        { "text": "第135回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

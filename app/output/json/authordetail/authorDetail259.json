@@ -1,0 +1,26 @@
+{
+    "id": "259",
+    "name": "中村正軌",
+    "kana": "なかむらまさのり",
+    "imgUrl": "",
+    "bornDate": "1928年2月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%AD%A3%E8%BB%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=259'>元首の謀叛</a>" },
+                        { "text": "第84回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

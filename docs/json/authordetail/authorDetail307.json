@@ -1,0 +1,33 @@
+{
+    "id": "307",
+    "name": "篠田節子",
+    "kana": "しのだせつこ",
+    "imgUrl": "",
+    "bornDate": "1955年10月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E7%AF%80%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=307'>女たちのジハード</a>" },
+                        { "text": "第117回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=529'>鏡の背面</a>" },
+                        { "text": "第53回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "205",
+    "name": "穂積驚",
+    "kana": "ほづみみはる",
+    "imgUrl": "",
+    "bornDate": "1912年10月13日",
+    "deadDate": "1980年1月19日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A9%82%E7%A9%8D%E9%A9%9A",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=205'>勝烏</a>" },
+                        { "text": "第36回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

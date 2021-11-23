@@ -1,0 +1,26 @@
+{
+    "id": "390",
+    "name": "山口つばさ",
+    "kana": "やまぐちつばさ",
+    "imgUrl": "None",
+    "bornDate": "6月26日",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E3%81%A4%E3%81%B0%E3%81%95",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=394'>ブルーピリオド</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "172",
+    "name": "川口松太郎",
+    "kana": "かわぐちまつたろう",
+    "imgUrl": "",
+    "bornDate": "1899年10月1日",
+    "deadDate": "1985年6月9日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E6%9D%BE%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=172'>鶴八鶴次郎・風流深川唄 その他</a>" },
+                        { "text": "第1回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=476'>しぐれ茶屋おりく</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

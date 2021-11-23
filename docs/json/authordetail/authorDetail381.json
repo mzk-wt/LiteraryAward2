@@ -1,0 +1,26 @@
+{
+    "id": "381",
+    "name": "羽海野チカ",
+    "kana": "うみのちか",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%BE%BD%E6%B5%B7%E9%87%8E%E3%83%81%E3%82%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=385'>３月のライオン</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

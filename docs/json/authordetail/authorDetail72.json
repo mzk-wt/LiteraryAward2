@@ -1,0 +1,26 @@
+{
+    "id": "72",
+    "name": "阪田寛夫",
+    "kana": "さかたひろお",
+    "imgUrl": "",
+    "bornDate": "1925年10月18日",
+    "deadDate": "2005年3月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%94%B0%E5%AF%9B%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=72'>土の器</a>" },
+                        { "text": "第72回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

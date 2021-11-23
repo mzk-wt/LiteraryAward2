@@ -1,0 +1,26 @@
+{
+    "id": "185",
+    "name": "森荘已池",
+    "kana": "もりそういち",
+    "imgUrl": "",
+    "bornDate": "1907年5月3日",
+    "deadDate": "1999年3月13日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E8%8D%98%E5%B7%B2%E6%B1%A0",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=185'>山畠・蛾と笹舟</a>" },
+                        { "text": "第18回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

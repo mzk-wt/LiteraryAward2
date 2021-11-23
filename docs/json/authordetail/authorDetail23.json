@@ -1,0 +1,26 @@
+{
+    "id": "23",
+    "name": "小谷剛",
+    "kana": "こたにつよし",
+    "imgUrl": "",
+    "bornDate": "1924年9月11日",
+    "deadDate": "1991年8月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B0%B7%E5%89%9B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=23'>確証</a>" },
+                        { "text": "第21回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

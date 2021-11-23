@@ -1,0 +1,26 @@
+{
+    "id": "106",
+    "name": "辺見庸",
+    "kana": "へんみよう",
+    "imgUrl": "",
+    "bornDate": "1944年9月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%BE%BA%E8%A6%8B%E5%BA%B8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=106'>自動起床装置</a>" },
+                        { "text": "第105回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

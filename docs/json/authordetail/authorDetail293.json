@@ -1,0 +1,33 @@
+{
+    "id": "293",
+    "name": "伊集院静",
+    "kana": "いじゅういんしずか",
+    "imgUrl": "",
+    "bornDate": "1950年2月9日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%86%E9%99%A2%E9%9D%99",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=293'>受け月</a>" },
+                        { "text": "第107回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=512'>ごろごろ</a>" },
+                        { "text": "第36回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "221",
+    "name": "杉本苑子",
+    "kana": "すぎもとそのこ",
+    "imgUrl": "",
+    "bornDate": "1925年6月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E8%8B%91%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=221'>孤愁の岸</a>" },
+                        { "text": "第48回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=485'>滝沢馬琴</a>" },
+                        { "text": "第12回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

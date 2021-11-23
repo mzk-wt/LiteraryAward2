@@ -1,0 +1,26 @@
+{
+    "id": "347",
+    "name": "朝井リョウ",
+    "kana": "あさいリョウ",
+    "imgUrl": "",
+    "bornDate": "1989年5月31日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9C%9D%E4%BA%95%E3%83%AA%E3%83%A7%E3%82%A6",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=347'>何者</a>" },
+                        { "text": "第148回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

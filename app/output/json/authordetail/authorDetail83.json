@@ -1,0 +1,26 @@
+{
+    "id": "83",
+    "name": "高橋揆一郎",
+    "kana": "たかはしきいちろう",
+    "imgUrl": "",
+    "bornDate": "1928年4月10日",
+    "deadDate": "2007年1月31日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E6%8F%86%E4%B8%80%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=83'>伸予</a>" },
+                        { "text": "第79回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

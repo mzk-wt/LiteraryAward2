@@ -1,0 +1,26 @@
+{
+    "id": "143",
+    "name": "川上未映子",
+    "kana": "かわかみみえこ",
+    "imgUrl": "",
+    "bornDate": "1976年8月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%B8%8A%E6%9C%AA%E6%98%A0%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=143'>乳と卵</a>" },
+                        { "text": "第138回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

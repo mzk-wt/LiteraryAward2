@@ -1,0 +1,26 @@
+{
+    "id": "369",
+    "name": "百田尚樹",
+    "kana": "ひゃくたなおき",
+    "imgUrl": "",
+    "bornDate": "1956年2月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%99%BE%E7%94%B0%E5%B0%9A%E6%A8%B9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=372'>海賊とよばれた男</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

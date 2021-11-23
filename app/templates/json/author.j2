@@ -1,0 +1,19 @@
+{
+    "listtitle": [
+        "名前", "読み仮名", "国", "主な受賞歴"
+    ],
+    "listitem": [
+        {% for author in authors %}
+            {% if loop.index0 > 0 %},{% endif %}
+            {
+                "key": {{ loop.index0 }},
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id={{ author["id"] }}'>{{ author["name"] }}</a>" },
+                    { "text": "{{ author["kana"] }}" },
+                    { "text": "{{ author["countryName"] }}" },
+                    { "text": "{{ author["winningAward"] }}" }
+                ]
+            }
+        {% endfor %}
+    ]
+}

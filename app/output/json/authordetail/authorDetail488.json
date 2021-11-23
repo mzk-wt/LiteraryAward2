@@ -1,0 +1,26 @@
+{
+    "id": "488",
+    "name": "森村誠一",
+    "kana": "もりむらせいいち",
+    "imgUrl": "None",
+    "bornDate": "1933年1月2日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E8%AA%A0%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=520'>悪道</a>" },
+                        { "text": "第45回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

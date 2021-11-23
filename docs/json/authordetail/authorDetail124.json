@@ -1,0 +1,26 @@
+{
+    "id": "124",
+    "name": "玄月",
+    "kana": "げんげつ",
+    "imgUrl": "",
+    "bornDate": "1965年2月10日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%8E%84%E6%9C%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=124'>蔭の棲みか</a>" },
+                        { "text": "第122回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

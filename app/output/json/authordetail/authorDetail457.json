@@ -1,0 +1,26 @@
+{
+    "id": "457",
+    "name": "折原一",
+    "kana": "おりはらいち",
+    "imgUrl": "None",
+    "bornDate": "1951年11月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%8A%98%E5%8E%9F%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=459'>異人たちの館</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

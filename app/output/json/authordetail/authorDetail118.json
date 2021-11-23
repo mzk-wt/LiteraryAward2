@@ -1,0 +1,26 @@
+{
+    "id": "118",
+    "name": "辻仁成",
+    "kana": "つじひとなり",
+    "imgUrl": "",
+    "bornDate": "1959年10月4日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E4%BB%81%E6%88%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=118'>海峡の光</a>" },
+                        { "text": "第116回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "113",
+    "name": "室井光広",
+    "kana": "むろいみつひろ",
+    "imgUrl": "",
+    "bornDate": "1955年1月7日",
+    "deadDate": "2019年9月27日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E4%BA%95%E5%85%89%E5%BA%83",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=113'>おどるでく</a>" },
+                        { "text": "第111回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

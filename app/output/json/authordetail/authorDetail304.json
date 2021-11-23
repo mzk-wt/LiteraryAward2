@@ -1,0 +1,26 @@
+{
+    "id": "304",
+    "name": "乃南アサ",
+    "kana": "のなみアサ",
+    "imgUrl": "",
+    "bornDate": "1960年8月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B9%83%E5%8D%97%E3%82%A2%E3%82%B5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=304'>凍える牙</a>" },
+                        { "text": "第115回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "102",
+    "name": "大岡玲",
+    "kana": "おおおかあきら",
+    "imgUrl": "",
+    "bornDate": "1958年10月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B2%A1%E7%8E%B2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=102'>表層生活</a>" },
+                        { "text": "第102回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

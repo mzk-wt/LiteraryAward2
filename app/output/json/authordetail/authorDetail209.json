@@ -1,0 +1,26 @@
+{
+    "id": "209",
+    "name": "多岐川恭",
+    "kana": "たきがわきょう",
+    "imgUrl": "",
+    "bornDate": "1920年1月7日",
+    "deadDate": "1994年12月31日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%B2%90%E5%B7%9D%E6%81%AD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=209'>落ちる</a>" },
+                        { "text": "第40回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "455",
+    "name": "ダニエル・シモンズ",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "999",
+    "countryName": "UNKNOWN",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=458'>錯覚の科学</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

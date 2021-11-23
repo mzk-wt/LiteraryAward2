@@ -1,0 +1,26 @@
+{
+    "id": "148",
+    "name": "西村賢太",
+    "kana": "にしむらけんた",
+    "imgUrl": "",
+    "bornDate": "1967年7月12日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9D%91%E8%B3%A2%E5%A4%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=148'>苦役列車</a>" },
+                        { "text": "第144回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

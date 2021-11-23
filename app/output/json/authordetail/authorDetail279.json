@@ -1,0 +1,26 @@
+{
+    "id": "279",
+    "name": "西木正明",
+    "kana": "にしきまさあき",
+    "imgUrl": "",
+    "bornDate": "1940年5月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9C%A8%E6%AD%A3%E6%98%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=279'>凍れる瞳・端島の女</a>" },
+                        { "text": "第99回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

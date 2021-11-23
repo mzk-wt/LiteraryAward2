@@ -1,0 +1,26 @@
+{
+    "id": "377",
+    "name": "馳星周",
+    "kana": "はせせいしゅう",
+    "imgUrl": "None",
+    "bornDate": "1965年2月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%A6%B3%E6%98%9F%E5%91%A8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=381'>少年と犬</a>" },
+                        { "text": "第163回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

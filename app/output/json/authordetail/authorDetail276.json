@@ -1,0 +1,33 @@
+{
+    "id": "276",
+    "name": "白石一郎",
+    "kana": "しらいしいちろう",
+    "imgUrl": "",
+    "bornDate": "1931年11月9日",
+    "deadDate": "2004年9月20日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E4%B8%80%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=276'>海狼伝</a>" },
+                        { "text": "第97回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=509'>怒涛のごとく</a>" },
+                        { "text": "第33回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

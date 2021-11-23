@@ -1,0 +1,26 @@
+{
+    "id": "216",
+    "name": "寺内大吉",
+    "kana": "てらうちだいきち",
+    "imgUrl": "",
+    "bornDate": "1921年10月6日",
+    "deadDate": "2008年9月6日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AF%BA%E5%86%85%E5%A4%A7%E5%90%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=216'>はぐれ念仏</a>" },
+                        { "text": "第44回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

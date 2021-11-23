@@ -1,0 +1,26 @@
+{
+    "id": "330",
+    "name": "森絵都",
+    "kana": "もりえと",
+    "imgUrl": "",
+    "bornDate": "1968年4月8日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A3%AE%E7%B5%B5%E9%83%BD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=330'>風に舞いあがるビニールシート</a>" },
+                        { "text": "第135回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

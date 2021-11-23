@@ -1,0 +1,20 @@
+{
+    "listtitle": [
+        "タイトル", "国", "期間", ""
+    ],
+    "listitem": [
+        {% for award in awards %}
+            {% if loop.index0 > 0 %},{% endif %}
+            {
+                "key": {{ loop.index0 }},
+                "value": [
+                    { "text": "{{ award["title"] }}" },
+                    { "text": "{{ award["countryName"] }}" },
+                    { "text": "{{ award["startYear"] }} 〜 {{ award["endYear"] }}" },
+                    { "text": "<a href='../pages/award.htm?id={{ award["id"] }}' class='button is-link is-small is-outlined'>詳細</a>",
+                      "class": "is-narrow has-text-centered" }
+                ]
+            }
+        {% endfor %}
+    ]
+}

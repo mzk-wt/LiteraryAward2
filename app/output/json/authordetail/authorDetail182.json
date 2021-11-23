@@ -1,0 +1,26 @@
+{
+    "id": "182",
+    "name": "木村荘十",
+    "kana": "きむらそうじゅう",
+    "imgUrl": "",
+    "bornDate": "1897年1月12日",
+    "deadDate": "1967年5月6日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E8%8D%98%E5%8D%81",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=182'>雲南守備兵</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "250",
+    "name": "三好京三",
+    "kana": "みよしきょうぞう",
+    "imgUrl": "",
+    "bornDate": "1931年3月27日",
+    "deadDate": "2007年5月11日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%89%E5%A5%BD%E4%BA%AC%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=250'>子育てごっこ</a>" },
+                        { "text": "第76回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

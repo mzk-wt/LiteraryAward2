@@ -1,0 +1,26 @@
+{
+    "id": "11",
+    "name": "半田義之",
+    "kana": "はんだよしゆき",
+    "imgUrl": "",
+    "bornDate": "1911年7月2日",
+    "deadDate": "1970年8月2日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8D%8A%E7%94%B0%E7%BE%A9%E4%B9%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=11'>鶏騒動</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

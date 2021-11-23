@@ -1,0 +1,26 @@
+{
+    "id": "258",
+    "name": "志茂田景樹",
+    "kana": "しもだかげき",
+    "imgUrl": "",
+    "bornDate": "1940年3月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%BF%97%E8%8C%82%E7%94%B0%E6%99%AF%E6%A8%B9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=258'>黄色い牙</a>" },
+                        { "text": "第83回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "284",
+    "name": "笹倉明",
+    "kana": "ささくらあきら",
+    "imgUrl": "",
+    "bornDate": "1948年11月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%AC%B9%E5%80%89%E6%98%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=284'>遠い国からの殺人者</a>" },
+                        { "text": "第101回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

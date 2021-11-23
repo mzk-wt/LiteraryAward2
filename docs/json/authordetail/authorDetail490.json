@@ -1,0 +1,26 @@
+{
+    "id": "490",
+    "name": "赤川次郎",
+    "kana": "あかがわじろう",
+    "imgUrl": "None",
+    "bornDate": "1948年2月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%B5%A4%E5%B7%9D%E6%AC%A1%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=526'>東京零年</a>" },
+                        { "text": "第50回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

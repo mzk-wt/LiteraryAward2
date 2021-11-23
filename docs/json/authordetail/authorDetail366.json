@@ -1,0 +1,26 @@
+{
+    "id": "366",
+    "name": "湊かなえ",
+    "kana": "みなとかなえ",
+    "imgUrl": "",
+    "bornDate": "1973年",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B9%8A%E3%81%8B%E3%81%AA%E3%81%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=368'>告白</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

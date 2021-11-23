@@ -1,0 +1,33 @@
+{
+    "id": "200",
+    "name": "新田次郎",
+    "kana": "にったじろう",
+    "imgUrl": "",
+    "bornDate": "1912年6月6日",
+    "deadDate": "1980年2月15日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%94%B0%E6%AC%A1%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=200'>強力伝</a>" },
+                        { "text": "第34回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=481'>｢武田信玄｣ならびに一連の山岳小説に対して</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

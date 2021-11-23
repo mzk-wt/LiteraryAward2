@@ -1,0 +1,33 @@
+{
+    "id": "194",
+    "name": "柴田錬三郎",
+    "kana": "しばたれんざぶろう",
+    "imgUrl": "",
+    "bornDate": "1917年3月26日",
+    "deadDate": "1978年6月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9F%B4%E7%94%B0%E9%8C%AC%E4%B8%89%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=194'>イエスの裔</a>" },
+                        { "text": "第26回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=477'>｢三国志 英雄ここにあり｣を中心とした旺盛な作家活動に対して</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

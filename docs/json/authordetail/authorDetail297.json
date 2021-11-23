@@ -1,0 +1,26 @@
+{
+    "id": "297",
+    "name": "佐藤雅美",
+    "kana": "さとうまさよし",
+    "imgUrl": "",
+    "bornDate": "1941年1月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%9B%85%E7%BE%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=297'>恵比寿屋喜兵衛手控え</a>" },
+                        { "text": "第110回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "198",
+    "name": "戸川幸夫",
+    "kana": "とがわゆきお",
+    "imgUrl": "",
+    "bornDate": "1912年4月15日",
+    "deadDate": "2004年5月1日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%B7%9D%E5%B9%B8%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=198'>高安犬物語</a>" },
+                        { "text": "第32回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "101",
+    "name": "瀧澤美恵子",
+    "kana": "たきざわみえこ",
+    "imgUrl": "",
+    "bornDate": "1939年3月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%80%A7%E6%BE%A4%E7%BE%8E%E6%81%B5%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=101'>ネコババのいる町で</a>" },
+                        { "text": "第102回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

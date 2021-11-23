@@ -1,0 +1,26 @@
+{
+    "id": "195",
+    "name": "藤原審爾",
+    "kana": "ふじわらしんじ",
+    "imgUrl": "",
+    "bornDate": "1921年3月7日",
+    "deadDate": "1984年12月20日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%AF%A9%E7%88%BE",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=195'>罪な女・その他</a>" },
+                        { "text": "第27回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

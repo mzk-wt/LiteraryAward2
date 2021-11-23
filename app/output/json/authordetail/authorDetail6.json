@@ -1,0 +1,26 @@
+{
+    "id": "6",
+    "name": "尾崎一雄",
+    "kana": "おざきかずお",
+    "imgUrl": "https://livedoor.blogimg.jp/gauss0/imgs/b/1/b1925395.jpg",
+    "bornDate": "1899年12月25日",
+    "deadDate": "1983年3月31日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B4%8E%E4%B8%80%E9%9B%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=6'>暢氣眼鏡</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

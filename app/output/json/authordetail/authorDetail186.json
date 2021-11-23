@@ -1,0 +1,26 @@
+{
+    "id": "186",
+    "name": "岡田誠三",
+    "kana": "おかだせいぞう",
+    "imgUrl": "",
+    "bornDate": "1913年3月8日",
+    "deadDate": "1994年6月21日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E8%AA%A0%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=186'>ニューギニヤ山岳戦</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

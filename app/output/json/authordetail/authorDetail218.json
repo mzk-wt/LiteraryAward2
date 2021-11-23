@@ -1,0 +1,33 @@
+{
+    "id": "218",
+    "name": "水上勉",
+    "kana": "みずかみつとむ",
+    "imgUrl": "",
+    "bornDate": "1919年3月8日",
+    "deadDate": "2004年9月8日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E4%B8%8A%E5%8B%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=218'>雁の寺</a>" },
+                        { "text": "第45回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=480'>｢北国の女の物語｣｢兵卒の鬃｣を中心とした旺盛な作家活動に対して</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

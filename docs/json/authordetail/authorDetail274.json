@@ -1,0 +1,26 @@
+{
+    "id": "274",
+    "name": "常盤新平",
+    "kana": "ときわしんぺい",
+    "imgUrl": "",
+    "bornDate": "1931年3月1日",
+    "deadDate": "2013年1月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B8%B8%E7%9B%A4%E6%96%B0%E5%B9%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=274'>遠いアメリカ</a>" },
+                        { "text": "第96回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

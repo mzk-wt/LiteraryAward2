@@ -1,0 +1,26 @@
+{
+    "id": "265",
+    "name": "胡桃沢耕史",
+    "kana": "くるみざわこうし",
+    "imgUrl": "",
+    "bornDate": "1925年4月26日",
+    "deadDate": "1994年3月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%83%A1%E6%A1%83%E6%B2%A2%E8%80%95%E5%8F%B2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=265'>黒パン俘虜記</a>" },
+                        { "text": "第89回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "21",
+    "name": "清水基吉",
+    "kana": "しみずもとよし",
+    "imgUrl": "",
+    "bornDate": "1918年8月31日",
+    "deadDate": "2008年3月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%9F%BA%E5%90%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=21'>雁立</a>" },
+                        { "text": "第20回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

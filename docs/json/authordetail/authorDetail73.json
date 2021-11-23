@@ -1,0 +1,26 @@
+{
+    "id": "73",
+    "name": "日野啓三",
+    "kana": "ひのけいぞう",
+    "imgUrl": "",
+    "bornDate": "1929年6月14日",
+    "deadDate": "2002年10月14日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E5%95%93%E4%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=73'>あの夕陽</a>" },
+                        { "text": "第72回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

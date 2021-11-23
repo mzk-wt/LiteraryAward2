@@ -1,0 +1,26 @@
+{
+    "id": "127",
+    "name": "堀江敏幸",
+    "kana": "ほりえとしゆき",
+    "imgUrl": "",
+    "bornDate": "1964年1月3日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A0%80%E6%B1%9F%E6%95%8F%E5%B9%B8",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=127'>熊の敷石</a>" },
+                        { "text": "第124回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "278",
+    "name": "阿部牧郎",
+    "kana": "あべまきお",
+    "imgUrl": "",
+    "bornDate": "1933年9月4日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%98%BF%E9%83%A8%E7%89%A7%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=278'>それぞれの終楽章</a>" },
+                        { "text": "第98回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

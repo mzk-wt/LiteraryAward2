@@ -1,0 +1,26 @@
+{
+    "id": "178",
+    "name": "大池唯雄",
+    "kana": "おおいけただお",
+    "imgUrl": "",
+    "bornDate": "1908年10月30日",
+    "deadDate": "1970年5月27日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B1%A0%E5%94%AF%E9%9B%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=178'>兜首・秋田口の兄弟</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

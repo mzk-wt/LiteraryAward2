@@ -1,0 +1,26 @@
+{
+    "id": "95",
+    "name": "村田喜代子",
+    "kana": "むらたきよこ",
+    "imgUrl": "",
+    "bornDate": "1945年4月12日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%91%E7%94%B0%E5%96%9C%E4%BB%A3%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=95'>鍋の中</a>" },
+                        { "text": "第97回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

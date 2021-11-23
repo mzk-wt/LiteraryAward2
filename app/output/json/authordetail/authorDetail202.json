@@ -1,0 +1,33 @@
+{
+    "id": "202",
+    "name": "南條範夫",
+    "kana": "なんじょうのりお",
+    "imgUrl": "",
+    "bornDate": "1908年11月14日",
+    "deadDate": "2004年10月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A2%9D%E7%AF%84%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=202'>燈台鬼</a>" },
+                        { "text": "第35回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=490'>細香日記</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

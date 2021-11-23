@@ -1,0 +1,26 @@
+{
+    "id": "150",
+    "name": "田中慎弥",
+    "kana": "たなかしんや",
+    "imgUrl": "",
+    "bornDate": "1972年11月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%85%8E%E5%BC%A5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=150'>共喰い</a>" },
+                        { "text": "第146回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

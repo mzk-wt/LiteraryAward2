@@ -1,0 +1,26 @@
+{
+    "id": "84",
+    "name": "青野聰",
+    "kana": "あおのそう",
+    "imgUrl": "",
+    "bornDate": "1943年7月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%9D%92%E9%87%8E%E8%81%B0",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=84'>愚者の夜</a>" },
+                        { "text": "第81回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

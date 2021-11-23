@@ -1,0 +1,26 @@
+{
+    "id": "193",
+    "name": "久生十蘭",
+    "kana": "ひさおじゅうらん",
+    "imgUrl": "",
+    "bornDate": "1902年4月6日",
+    "deadDate": "1957年10月6日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%94%9F%E5%8D%81%E8%98%AD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=193'>鈴木主水</a>" },
+                        { "text": "第26回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

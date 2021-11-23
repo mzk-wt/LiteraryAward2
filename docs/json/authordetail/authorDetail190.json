@@ -1,0 +1,26 @@
+{
+    "id": "190",
+    "name": "今日出海",
+    "kana": "こんひでみ",
+    "imgUrl": "",
+    "bornDate": "1903年11月6日",
+    "deadDate": "1984年7月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%97%A5%E5%87%BA%E6%B5%B7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=190'>天皇の帽子</a>" },
+                        { "text": "第23回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

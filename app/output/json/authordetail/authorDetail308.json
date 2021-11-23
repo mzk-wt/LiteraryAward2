@@ -1,0 +1,26 @@
+{
+    "id": "308",
+    "name": "車谷長吉",
+    "kana": "くるまたにちょうきつ",
+    "imgUrl": "",
+    "bornDate": "1945年7月1日",
+    "deadDate": "2015年5月17日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%BB%8A%E8%B0%B7%E9%95%B7%E5%90%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=308'>赤目四十八瀧心中未遂</a>" },
+                        { "text": "第119回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "414",
+    "name": "北山猛邦",
+    "kana": "きたやまたけくに",
+    "imgUrl": "None",
+    "bornDate": "1979年8月9日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%8C%97%E5%B1%B1%E7%8C%9B%E9%82%A6",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=418'>『クロック城』殺人事件</a>" },
+                        { "text": "第24回 <a href='../pages/award.htm?id=8'>メフィスト賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

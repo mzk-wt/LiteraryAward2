@@ -1,0 +1,26 @@
+{
+    "id": "27",
+    "name": "安部公房",
+    "kana": "あべこうぼう",
+    "imgUrl": "",
+    "bornDate": "1924年3月7日",
+    "deadDate": "1993年1月22日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%89%E9%83%A8%E5%85%AC%E6%88%BF",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=27'>壁</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

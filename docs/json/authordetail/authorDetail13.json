@@ -1,0 +1,26 @@
+{
+    "id": "13",
+    "name": "櫻田常久",
+    "kana": "さくらだつねひさ",
+    "imgUrl": "",
+    "bornDate": "1897年1月20日",
+    "deadDate": "1980年3月25日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E7%94%B0%E5%B8%B8%E4%B9%85",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=13'>平賀源内</a>" },
+                        { "text": "第12回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

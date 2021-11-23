@@ -1,0 +1,26 @@
+{
+    "id": "24",
+    "name": "井上靖",
+    "kana": "いのうえやすし",
+    "imgUrl": "",
+    "bornDate": "1907年5月6日",
+    "deadDate": "1991年1月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%9D%96",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=24'>闘牛</a>" },
+                        { "text": "第22回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

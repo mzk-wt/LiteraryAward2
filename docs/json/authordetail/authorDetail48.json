@@ -1,0 +1,33 @@
+{
+    "id": "48",
+    "name": "田辺聖子",
+    "kana": "たなべせいこ",
+    "imgUrl": "",
+    "bornDate": "1928年3月27日",
+    "deadDate": "2019年6月6日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E8%81%96%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=48'>感傷旅行</a>" },
+                        { "text": "第50回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=502'>ひねくれ一茶</a>" },
+                        { "text": "第27回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

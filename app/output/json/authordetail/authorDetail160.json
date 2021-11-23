@@ -1,0 +1,26 @@
+{
+    "id": "160",
+    "name": "本谷有希子",
+    "kana": "もとやゆきこ",
+    "imgUrl": "",
+    "bornDate": "1979年7月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%B0%B7%E6%9C%89%E5%B8%8C%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=160'>異類婚姻譚</a>" },
+                        { "text": "第154回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,1892 @@
+{
+    "title": "芥川龍之介賞",
+    "kana": "あくたがわりゅうのすけしょう",
+    "url": "https://www.bunshun.co.jp/shinkoukai/",
+    "countryId": "108",
+    "countryName": "日本",
+    "startYear": "1935",
+    "endYear": "",
+    "overview": "大正時代を代表する小説家の一人・芥川龍之介の業績を記念して、友人であった菊池寛が1935年に直木三十五賞（直木賞）とともに創設し以降年2回発表される。第二次世界大戦中の1945年から一時中断したが1949年に復活した。新人作家による発表済みの短編・中編作品が対象となり、選考委員の合議によって受賞作が決定される。受賞者には、正賞として懐中時計、副賞として100万円が授与され、受賞作は『文藝春秋』に掲載される。<br>選考会は、料亭『新喜楽』の1階で行われる。受賞者の記者会見と、その翌月の授賞式は、長く東京會舘で行われていたが、同館の建て替えに伴い、現在は帝国ホテルで行われている。<br>",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B%E8%B3%9E",
+    "frequency": "2回/年",
+    "frequencyMonth": "1,7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "回", "受賞年", "受賞者", "受賞作"
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "1" },
+                        { "text": "1935年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=1'>石川達三</a>" },
+                        { "text": "<a href='../pages/book.htm?id=1'>蒼氓</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "2" },
+                        { "text": "1935年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "1936年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=2'>鶴田知也</a>" },
+                        { "text": "<a href='../pages/book.htm?id=2'>コシャマイン記</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 3,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "1936年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=3'>小田嶽夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=3'>城外</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "1936年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=4'>冨澤有爲男</a>" },
+                        { "text": "<a href='../pages/book.htm?id=4'>地中海</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 5,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "1936年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=5'>石川淳</a>" },
+                        { "text": "<a href='../pages/book.htm?id=5'>普賢</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 6,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "1937年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=6'>尾崎一雄</a>" },
+                        { "text": "<a href='../pages/book.htm?id=6'>暢氣眼鏡</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 7,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "1937年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=7'>火野葦平</a>" },
+                        { "text": "<a href='../pages/book.htm?id=7'>糞尿譚</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 8,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "1938年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=8'>中山義秀</a>" },
+                        { "text": "<a href='../pages/book.htm?id=8'>厚物咲</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 9,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "1938年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=9'>中里恒子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=9'>乗合馬車</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 10,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "1939年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=10'>長谷健</a>" },
+                        { "text": "<a href='../pages/book.htm?id=10'>あさくさの子供</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 11,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "1939年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=11'>半田義之</a>" },
+                        { "text": "<a href='../pages/book.htm?id=11'>鶏騒動</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 12,
+                    "value": [
+                        { "text": "10" },
+                        { "text": "1939年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=12'>寒川光太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=12'>密獵者</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 13,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "1940年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 14,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "1940年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=13'>櫻田常久</a>" },
+                        { "text": "<a href='../pages/book.htm?id=13'>平賀源内</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 15,
+                    "value": [
+                        { "text": "13" },
+                        { "text": "1941年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=14'>多田裕計</a>" },
+                        { "text": "<a href='../pages/book.htm?id=14'>長江デルタ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 16,
+                    "value": [
+                        { "text": "14" },
+                        { "text": "1941年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=15'>芝木好子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=15'>青果の市</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 17,
+                    "value": [
+                        { "text": "15" },
+                        { "text": "1942年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 18,
+                    "value": [
+                        { "text": "16" },
+                        { "text": "1942年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=16'>倉光俊夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=16'>連絡員</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 19,
+                    "value": [
+                        { "text": "17" },
+                        { "text": "1943年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=17'>石塚喜久三</a>" },
+                        { "text": "<a href='../pages/book.htm?id=17'>纏足の頃</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 20,
+                    "value": [
+                        { "text": "18" },
+                        { "text": "1943年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=18'>東野邊薫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=18'>和紙</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 21,
+                    "value": [
+                        { "text": "19" },
+                        { "text": "1944年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=19'>小尾十三</a>" },
+                        { "text": "<a href='../pages/book.htm?id=19'>登攀</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 22,
+                    "value": [
+                        { "text": "19" },
+                        { "text": "1944年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=20'>八木義徳</a>" },
+                        { "text": "<a href='../pages/book.htm?id=20'>劉廣福</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 23,
+                    "value": [
+                        { "text": "20" },
+                        { "text": "1944年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=21'>清水基吉</a>" },
+                        { "text": "<a href='../pages/book.htm?id=21'>雁立</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 24,
+                    "value": [
+                        { "text": "21" },
+                        { "text": "1949年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=22'>由起しげ子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=22'>本の話</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 25,
+                    "value": [
+                        { "text": "21" },
+                        { "text": "1949年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=23'>小谷剛</a>" },
+                        { "text": "<a href='../pages/book.htm?id=23'>確証</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 26,
+                    "value": [
+                        { "text": "22" },
+                        { "text": "1949年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=24'>井上靖</a>" },
+                        { "text": "<a href='../pages/book.htm?id=24'>闘牛</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 27,
+                    "value": [
+                        { "text": "23" },
+                        { "text": "1950年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=25'>辻亮一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=25'>異邦人</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 28,
+                    "value": [
+                        { "text": "24" },
+                        { "text": "1950年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 29,
+                    "value": [
+                        { "text": "25" },
+                        { "text": "1951年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=26'>石川利光</a>" },
+                        { "text": "<a href='../pages/book.htm?id=26'>春の草</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 30,
+                    "value": [
+                        { "text": "25" },
+                        { "text": "1951年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=27'>安部公房</a>" },
+                        { "text": "<a href='../pages/book.htm?id=27'>壁</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 31,
+                    "value": [
+                        { "text": "26" },
+                        { "text": "1951年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=28'>堀田善衛</a>" },
+                        { "text": "<a href='../pages/book.htm?id=28'>広場の孤独・漢奸</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 32,
+                    "value": [
+                        { "text": "27" },
+                        { "text": "1952年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 33,
+                    "value": [
+                        { "text": "28" },
+                        { "text": "1952年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=29'>松本清張</a>" },
+                        { "text": "<a href='../pages/book.htm?id=29'>或る「小倉日記」伝</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 34,
+                    "value": [
+                        { "text": "28" },
+                        { "text": "1952年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=30'>五味康祐</a>" },
+                        { "text": "<a href='../pages/book.htm?id=30'>喪神</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 35,
+                    "value": [
+                        { "text": "29" },
+                        { "text": "1953年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=31'>安岡章太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=31'>悪い仲間・陰気な愉しみ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 36,
+                    "value": [
+                        { "text": "30" },
+                        { "text": "1953年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 37,
+                    "value": [
+                        { "text": "31" },
+                        { "text": "1954年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=32'>吉行淳之介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=32'>驟雨</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 38,
+                    "value": [
+                        { "text": "32" },
+                        { "text": "1954年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=33'>庄野潤三</a>" },
+                        { "text": "<a href='../pages/book.htm?id=33'>プールサイド小景</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 39,
+                    "value": [
+                        { "text": "32" },
+                        { "text": "1954年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=34'>小島信夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=34'>アメリカン・スクール</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 40,
+                    "value": [
+                        { "text": "33" },
+                        { "text": "1955年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=35'>遠藤周作</a>" },
+                        { "text": "<a href='../pages/book.htm?id=35'>白い人</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 41,
+                    "value": [
+                        { "text": "34" },
+                        { "text": "1955年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=36'>石原慎太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=36'>太陽の季節</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 42,
+                    "value": [
+                        { "text": "35" },
+                        { "text": "1956年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=37'>近藤啓太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=37'>海人舟</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 43,
+                    "value": [
+                        { "text": "36" },
+                        { "text": "1956年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 44,
+                    "value": [
+                        { "text": "37" },
+                        { "text": "1957年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=38'>菊村到</a>" },
+                        { "text": "<a href='../pages/book.htm?id=38'>硫黄島</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 45,
+                    "value": [
+                        { "text": "38" },
+                        { "text": "1957年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=39'>開高健</a>" },
+                        { "text": "<a href='../pages/book.htm?id=39'>裸の王様</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 46,
+                    "value": [
+                        { "text": "39" },
+                        { "text": "1958年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=40'>大江健三郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=40'>飼育</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 47,
+                    "value": [
+                        { "text": "40" },
+                        { "text": "1958年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 48,
+                    "value": [
+                        { "text": "41" },
+                        { "text": "1959年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=41'>斯波四郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=41'>山塔</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 49,
+                    "value": [
+                        { "text": "42" },
+                        { "text": "1959年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 50,
+                    "value": [
+                        { "text": "43" },
+                        { "text": "1960年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=42'>北杜夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=42'>夜と霧の隅で</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 51,
+                    "value": [
+                        { "text": "44" },
+                        { "text": "1960年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=43'>三浦哲郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=43'>忍ぶ川</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 52,
+                    "value": [
+                        { "text": "45" },
+                        { "text": "1961年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 53,
+                    "value": [
+                        { "text": "46" },
+                        { "text": "1961年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=44'>宇能鴻一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=44'>鯨神</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 54,
+                    "value": [
+                        { "text": "47" },
+                        { "text": "1962年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=45'>川村晃</a>" },
+                        { "text": "<a href='../pages/book.htm?id=45'>美談の出発</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 55,
+                    "value": [
+                        { "text": "48" },
+                        { "text": "1962年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 56,
+                    "value": [
+                        { "text": "49" },
+                        { "text": "1963年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=46'>河野多惠子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=46'>蟹</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 57,
+                    "value": [
+                        { "text": "49" },
+                        { "text": "1963年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=47'>後藤紀一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=47'>少年の橋</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 58,
+                    "value": [
+                        { "text": "50" },
+                        { "text": "1963年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=48'>田辺聖子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=48'>感傷旅行</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 59,
+                    "value": [
+                        { "text": "51" },
+                        { "text": "1964年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=49'>柴田翔</a>" },
+                        { "text": "<a href='../pages/book.htm?id=49'>されどわれらが日々</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 60,
+                    "value": [
+                        { "text": "52" },
+                        { "text": "1964年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 61,
+                    "value": [
+                        { "text": "53" },
+                        { "text": "1965年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=50'>津村節子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=50'>玩具</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 62,
+                    "value": [
+                        { "text": "54" },
+                        { "text": "1965年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=51'>高井有一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=51'>北の河</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 63,
+                    "value": [
+                        { "text": "55" },
+                        { "text": "1966年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 64,
+                    "value": [
+                        { "text": "56" },
+                        { "text": "1966年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=52'>丸山健二</a>" },
+                        { "text": "<a href='../pages/book.htm?id=52'>夏の流れ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 65,
+                    "value": [
+                        { "text": "57" },
+                        { "text": "1967年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=53'>大城立裕</a>" },
+                        { "text": "<a href='../pages/book.htm?id=53'>カクテル・パーティー</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 66,
+                    "value": [
+                        { "text": "58" },
+                        { "text": "1967年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=54'>柏原兵三</a>" },
+                        { "text": "<a href='../pages/book.htm?id=54'>徳山道助の帰郷</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 67,
+                    "value": [
+                        { "text": "59" },
+                        { "text": "1968年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=55'>大庭みな子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=55'>三匹の蟹</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 68,
+                    "value": [
+                        { "text": "59" },
+                        { "text": "1968年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=56'>丸谷才一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=56'>年の残り</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 69,
+                    "value": [
+                        { "text": "60" },
+                        { "text": "1968年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 70,
+                    "value": [
+                        { "text": "61" },
+                        { "text": "1969年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=57'>田久保英夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=57'>深い河</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 71,
+                    "value": [
+                        { "text": "61" },
+                        { "text": "1969年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=58'>庄司薫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=58'>赤頭巾ちゃん気をつけて</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 72,
+                    "value": [
+                        { "text": "62" },
+                        { "text": "1969年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=59'>清岡卓行</a>" },
+                        { "text": "<a href='../pages/book.htm?id=59'>アカシヤの大連</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 73,
+                    "value": [
+                        { "text": "63" },
+                        { "text": "1970年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=60'>古山高麗雄</a>" },
+                        { "text": "<a href='../pages/book.htm?id=60'>プレオー8の夜明け</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 74,
+                    "value": [
+                        { "text": "63" },
+                        { "text": "1970年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=61'>吉田知子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=61'>無明長夜</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 75,
+                    "value": [
+                        { "text": "64" },
+                        { "text": "1970年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=62'>古井由吉</a>" },
+                        { "text": "<a href='../pages/book.htm?id=62'>杳子</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 76,
+                    "value": [
+                        { "text": "65" },
+                        { "text": "1971年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 77,
+                    "value": [
+                        { "text": "66" },
+                        { "text": "1971年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=63'>東峰夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=63'>オキナワの少年</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 78,
+                    "value": [
+                        { "text": "66" },
+                        { "text": "1971年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=64'>李恢成</a>" },
+                        { "text": "<a href='../pages/book.htm?id=64'>砧をうつ女</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 79,
+                    "value": [
+                        { "text": "67" },
+                        { "text": "1972年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=65'>宮原昭夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=65'>誰かが触った</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 80,
+                    "value": [
+                        { "text": "67" },
+                        { "text": "1972年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=66'>畑山博</a>" },
+                        { "text": "<a href='../pages/book.htm?id=66'>いつか汽笛を鳴らして</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 81,
+                    "value": [
+                        { "text": "68" },
+                        { "text": "1972年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=67'>郷静子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=67'>れくいえむ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 82,
+                    "value": [
+                        { "text": "68" },
+                        { "text": "1972年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=68'>山本道子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=68'>ベティさんの庭</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 83,
+                    "value": [
+                        { "text": "69" },
+                        { "text": "1973年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=69'>三木卓</a>" },
+                        { "text": "<a href='../pages/book.htm?id=69'>鶸</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 84,
+                    "value": [
+                        { "text": "70" },
+                        { "text": "1973年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=70'>森敦</a>" },
+                        { "text": "<a href='../pages/book.htm?id=70'>月山</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 85,
+                    "value": [
+                        { "text": "70" },
+                        { "text": "1973年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=71'>野呂邦暢</a>" },
+                        { "text": "<a href='../pages/book.htm?id=71'>草のつるぎ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 86,
+                    "value": [
+                        { "text": "71" },
+                        { "text": "1974年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 87,
+                    "value": [
+                        { "text": "72" },
+                        { "text": "1974年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=72'>阪田寛夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=72'>土の器</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 88,
+                    "value": [
+                        { "text": "72" },
+                        { "text": "1974年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=73'>日野啓三</a>" },
+                        { "text": "<a href='../pages/book.htm?id=73'>あの夕陽</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 89,
+                    "value": [
+                        { "text": "73" },
+                        { "text": "1975年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=74'>林京子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=74'>祭りの場</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 90,
+                    "value": [
+                        { "text": "74" },
+                        { "text": "1975年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=75'>岡松和夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=75'>志賀島</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 91,
+                    "value": [
+                        { "text": "74" },
+                        { "text": "1975年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=76'>中上健次</a>" },
+                        { "text": "<a href='../pages/book.htm?id=76'>岬</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 92,
+                    "value": [
+                        { "text": "75" },
+                        { "text": "1976年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=77'>村上龍</a>" },
+                        { "text": "<a href='../pages/book.htm?id=77'>限りなく透明に近いブルー</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 93,
+                    "value": [
+                        { "text": "76" },
+                        { "text": "1976年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 94,
+                    "value": [
+                        { "text": "77" },
+                        { "text": "1977年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=78'>池田満寿夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=78'>エーゲ海に捧ぐ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 95,
+                    "value": [
+                        { "text": "77" },
+                        { "text": "1977年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=79'>三田誠広</a>" },
+                        { "text": "<a href='../pages/book.htm?id=79'>僕って何</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 96,
+                    "value": [
+                        { "text": "78" },
+                        { "text": "1977年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=80'>高城修三</a>" },
+                        { "text": "<a href='../pages/book.htm?id=80'>榧の木祭り</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 97,
+                    "value": [
+                        { "text": "78" },
+                        { "text": "1977年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=81'>宮本輝</a>" },
+                        { "text": "<a href='../pages/book.htm?id=81'>螢川</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 98,
+                    "value": [
+                        { "text": "79" },
+                        { "text": "1978年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=82'>高橋三千綱</a>" },
+                        { "text": "<a href='../pages/book.htm?id=82'>九月の空</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 99,
+                    "value": [
+                        { "text": "79" },
+                        { "text": "1978年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=83'>高橋揆一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=83'>伸予</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 100,
+                    "value": [
+                        { "text": "80" },
+                        { "text": "1978年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 101,
+                    "value": [
+                        { "text": "81" },
+                        { "text": "1979年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=84'>青野聰</a>" },
+                        { "text": "<a href='../pages/book.htm?id=84'>愚者の夜</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 102,
+                    "value": [
+                        { "text": "81" },
+                        { "text": "1979年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=85'>重兼芳子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=85'>やまあいの煙</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 103,
+                    "value": [
+                        { "text": "82" },
+                        { "text": "1979年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=86'>森禮子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=86'>モッキングバードのいる町</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 104,
+                    "value": [
+                        { "text": "83" },
+                        { "text": "1980年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 105,
+                    "value": [
+                        { "text": "84" },
+                        { "text": "1980年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=87'>尾辻克彦</a>" },
+                        { "text": "<a href='../pages/book.htm?id=87'>父が消えた</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 106,
+                    "value": [
+                        { "text": "85" },
+                        { "text": "1981年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=88'>吉行理恵</a>" },
+                        { "text": "<a href='../pages/book.htm?id=88'>小さな貴婦人</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 107,
+                    "value": [
+                        { "text": "86" },
+                        { "text": "1981年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 108,
+                    "value": [
+                        { "text": "87" },
+                        { "text": "1982年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 109,
+                    "value": [
+                        { "text": "88" },
+                        { "text": "1982年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=89'>唐十郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=89'>佐川君からの手紙</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 110,
+                    "value": [
+                        { "text": "88" },
+                        { "text": "1982年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=90'>加藤幸子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=90'>夢の壁</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 111,
+                    "value": [
+                        { "text": "89" },
+                        { "text": "1983年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 112,
+                    "value": [
+                        { "text": "90" },
+                        { "text": "1983年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=91'>高樹のぶ子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=91'>光抱く友よ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 113,
+                    "value": [
+                        { "text": "90" },
+                        { "text": "1983年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=92'>笠原淳</a>" },
+                        { "text": "<a href='../pages/book.htm?id=92'>杢二の世界</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 114,
+                    "value": [
+                        { "text": "91" },
+                        { "text": "1984年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 115,
+                    "value": [
+                        { "text": "92" },
+                        { "text": "1984年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=93'>木崎さと子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=93'>青桐</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 116,
+                    "value": [
+                        { "text": "93" },
+                        { "text": "1985年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 117,
+                    "value": [
+                        { "text": "94" },
+                        { "text": "1985年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=94'>米谷ふみ子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=94'>過越しの祭</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 118,
+                    "value": [
+                        { "text": "95" },
+                        { "text": "1986年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 119,
+                    "value": [
+                        { "text": "96" },
+                        { "text": "1986年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 120,
+                    "value": [
+                        { "text": "97" },
+                        { "text": "1987年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=95'>村田喜代子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=95'>鍋の中</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 121,
+                    "value": [
+                        { "text": "98" },
+                        { "text": "1987年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=96'>三浦清宏</a>" },
+                        { "text": "<a href='../pages/book.htm?id=96'>長男の出家</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 122,
+                    "value": [
+                        { "text": "98" },
+                        { "text": "1987年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=97'>池澤夏樹</a>" },
+                        { "text": "<a href='../pages/book.htm?id=97'>スティル・ライフ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 123,
+                    "value": [
+                        { "text": "99" },
+                        { "text": "1988年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=98'>新井満</a>" },
+                        { "text": "<a href='../pages/book.htm?id=98'>尋ね人の時間</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 124,
+                    "value": [
+                        { "text": "100" },
+                        { "text": "1988年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=99'>李良枝</a>" },
+                        { "text": "<a href='../pages/book.htm?id=99'>由煕</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 125,
+                    "value": [
+                        { "text": "100" },
+                        { "text": "1988年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=100'>南木佳士</a>" },
+                        { "text": "<a href='../pages/book.htm?id=100'>ダイヤモンドダスト</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 126,
+                    "value": [
+                        { "text": "101" },
+                        { "text": "1989年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 127,
+                    "value": [
+                        { "text": "102" },
+                        { "text": "1989年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=101'>瀧澤美恵子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=101'>ネコババのいる町で</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 128,
+                    "value": [
+                        { "text": "102" },
+                        { "text": "1989年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=102'>大岡玲</a>" },
+                        { "text": "<a href='../pages/book.htm?id=102'>表層生活</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 129,
+                    "value": [
+                        { "text": "103" },
+                        { "text": "1990年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=103'>辻原登</a>" },
+                        { "text": "<a href='../pages/book.htm?id=103'>村の名前</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 130,
+                    "value": [
+                        { "text": "104" },
+                        { "text": "1990年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=104'>小川洋子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=104'>妊娠カレンダー</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 131,
+                    "value": [
+                        { "text": "105" },
+                        { "text": "1991年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=105'>荻野アンナ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=105'>背負い水</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 132,
+                    "value": [
+                        { "text": "105" },
+                        { "text": "1991年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=106'>辺見庸</a>" },
+                        { "text": "<a href='../pages/book.htm?id=106'>自動起床装置</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 133,
+                    "value": [
+                        { "text": "106" },
+                        { "text": "1991年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=107'>松村栄子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=107'>至高聖所</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 134,
+                    "value": [
+                        { "text": "107" },
+                        { "text": "1992年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=108'>藤原智美</a>" },
+                        { "text": "<a href='../pages/book.htm?id=108'>運転士</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 135,
+                    "value": [
+                        { "text": "108" },
+                        { "text": "1992年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=109'>多和田葉子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=109'>犬婿入り</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 136,
+                    "value": [
+                        { "text": "109" },
+                        { "text": "1993年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=110'>吉目木晴彦</a>" },
+                        { "text": "<a href='../pages/book.htm?id=110'>寂寥郊野</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 137,
+                    "value": [
+                        { "text": "110" },
+                        { "text": "1993年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=111'>奥泉光</a>" },
+                        { "text": "<a href='../pages/book.htm?id=111'>石の来歴</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 138,
+                    "value": [
+                        { "text": "111" },
+                        { "text": "1994年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=112'>笙野頼子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=112'>タイムスリップ・コンビナート</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 139,
+                    "value": [
+                        { "text": "111" },
+                        { "text": "1994年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=113'>室井光広</a>" },
+                        { "text": "<a href='../pages/book.htm?id=113'>おどるでく</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 140,
+                    "value": [
+                        { "text": "112" },
+                        { "text": "1994年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 141,
+                    "value": [
+                        { "text": "113" },
+                        { "text": "1995年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=114'>保坂和志</a>" },
+                        { "text": "<a href='../pages/book.htm?id=114'>この人の閾</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 142,
+                    "value": [
+                        { "text": "114" },
+                        { "text": "1995年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=115'>又吉栄喜</a>" },
+                        { "text": "<a href='../pages/book.htm?id=115'>豚の報い</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 143,
+                    "value": [
+                        { "text": "115" },
+                        { "text": "1996年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=116'>川上弘美</a>" },
+                        { "text": "<a href='../pages/book.htm?id=116'>蛇を踏む</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 144,
+                    "value": [
+                        { "text": "116" },
+                        { "text": "1996年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=117'>柳美里</a>" },
+                        { "text": "<a href='../pages/book.htm?id=117'>家族シネマ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 145,
+                    "value": [
+                        { "text": "116" },
+                        { "text": "1996年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=118'>辻仁成</a>" },
+                        { "text": "<a href='../pages/book.htm?id=118'>海峡の光</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 146,
+                    "value": [
+                        { "text": "117" },
+                        { "text": "1997年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=119'>目取真俊</a>" },
+                        { "text": "<a href='../pages/book.htm?id=119'>水滴</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 147,
+                    "value": [
+                        { "text": "118" },
+                        { "text": "1997年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 148,
+                    "value": [
+                        { "text": "119" },
+                        { "text": "1998年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=120'>藤沢周</a>" },
+                        { "text": "<a href='../pages/book.htm?id=120'>ブエノスアイレス午前零時</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 149,
+                    "value": [
+                        { "text": "119" },
+                        { "text": "1998年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=121'>花村萬月</a>" },
+                        { "text": "<a href='../pages/book.htm?id=121'>ゲルマニウムの夜</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 150,
+                    "value": [
+                        { "text": "120" },
+                        { "text": "1998年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=122'>平野啓一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=122'>日蝕</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 151,
+                    "value": [
+                        { "text": "121" },
+                        { "text": "1999年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 152,
+                    "value": [
+                        { "text": "122" },
+                        { "text": "1999年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=123'>藤野千夜</a>" },
+                        { "text": "<a href='../pages/book.htm?id=123'>夏の約束</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 153,
+                    "value": [
+                        { "text": "122" },
+                        { "text": "1999年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=124'>玄月</a>" },
+                        { "text": "<a href='../pages/book.htm?id=124'>蔭の棲みか</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 154,
+                    "value": [
+                        { "text": "123" },
+                        { "text": "2000年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=125'>松浦寿輝</a>" },
+                        { "text": "<a href='../pages/book.htm?id=125'>花腐し</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 155,
+                    "value": [
+                        { "text": "123" },
+                        { "text": "2000年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=126'>町田康</a>" },
+                        { "text": "<a href='../pages/book.htm?id=126'>きれぎれ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 156,
+                    "value": [
+                        { "text": "124" },
+                        { "text": "2000年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=127'>堀江敏幸</a>" },
+                        { "text": "<a href='../pages/book.htm?id=127'>熊の敷石</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 157,
+                    "value": [
+                        { "text": "124" },
+                        { "text": "2000年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=128'>青来有一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=128'>聖水</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 158,
+                    "value": [
+                        { "text": "125" },
+                        { "text": "2001年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=129'>玄侑宗久</a>" },
+                        { "text": "<a href='../pages/book.htm?id=129'>中陰の花</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 159,
+                    "value": [
+                        { "text": "126" },
+                        { "text": "2001年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=130'>長嶋有</a>" },
+                        { "text": "<a href='../pages/book.htm?id=130'>猛スピードで母は</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 160,
+                    "value": [
+                        { "text": "127" },
+                        { "text": "2002年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=131'>吉田修一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=131'>パーク・ライフ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 161,
+                    "value": [
+                        { "text": "128" },
+                        { "text": "2002年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=132'>大道珠貴</a>" },
+                        { "text": "<a href='../pages/book.htm?id=132'>しょっぱいドライブ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 162,
+                    "value": [
+                        { "text": "129" },
+                        { "text": "2003年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=133'>吉村萬壱</a>" },
+                        { "text": "<a href='../pages/book.htm?id=133'>ハリガネムシ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 163,
+                    "value": [
+                        { "text": "130" },
+                        { "text": "2003年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=134'>綿矢りさ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=134'>蹴りたい背中</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 164,
+                    "value": [
+                        { "text": "130" },
+                        { "text": "2003年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=135'>金原ひとみ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=135'>蛇にピアス</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 165,
+                    "value": [
+                        { "text": "131" },
+                        { "text": "2004年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=136'>モブ・ノリオ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=136'>介護入門</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 166,
+                    "value": [
+                        { "text": "132" },
+                        { "text": "2004年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=137'>阿部和重</a>" },
+                        { "text": "<a href='../pages/book.htm?id=137'>グランド･フィナーレ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 167,
+                    "value": [
+                        { "text": "133" },
+                        { "text": "2005年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=138'>中村文則</a>" },
+                        { "text": "<a href='../pages/book.htm?id=138'>土の中の子供</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 168,
+                    "value": [
+                        { "text": "134" },
+                        { "text": "2005年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=139'>絲山秋子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=139'>沖で待つ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 169,
+                    "value": [
+                        { "text": "135" },
+                        { "text": "2006年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=140'>伊藤たかみ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=140'>八月の路上に捨てる</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 170,
+                    "value": [
+                        { "text": "136" },
+                        { "text": "2006年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=141'>青山七恵</a>" },
+                        { "text": "<a href='../pages/book.htm?id=141'>ひとり日和</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 171,
+                    "value": [
+                        { "text": "137" },
+                        { "text": "2007年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=142'>諏訪哲史</a>" },
+                        { "text": "<a href='../pages/book.htm?id=142'>アサッテの人</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 172,
+                    "value": [
+                        { "text": "138" },
+                        { "text": "2007年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=143'>川上未映子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=143'>乳と卵</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 173,
+                    "value": [
+                        { "text": "139" },
+                        { "text": "2008年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=144'>楊逸</a>" },
+                        { "text": "<a href='../pages/book.htm?id=144'>時が滲む朝</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 174,
+                    "value": [
+                        { "text": "140" },
+                        { "text": "2008年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=145'>津村記久子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=145'>ポトスライムの舟</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 175,
+                    "value": [
+                        { "text": "141" },
+                        { "text": "2009年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=146'>磯崎憲一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=146'>終の住処</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 176,
+                    "value": [
+                        { "text": "142" },
+                        { "text": "2009年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 177,
+                    "value": [
+                        { "text": "143" },
+                        { "text": "2010年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=147'>赤染晶子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=147'>乙女の密告</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 178,
+                    "value": [
+                        { "text": "144" },
+                        { "text": "2010年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=148'>西村賢太</a>" },
+                        { "text": "<a href='../pages/book.htm?id=148'>苦役列車</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 179,
+                    "value": [
+                        { "text": "144" },
+                        { "text": "2010年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=149'>朝吹真理子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=149'>きことわ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 180,
+                    "value": [
+                        { "text": "145" },
+                        { "text": "2011年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 181,
+                    "value": [
+                        { "text": "146" },
+                        { "text": "2011年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=150'>田中慎弥</a>" },
+                        { "text": "<a href='../pages/book.htm?id=150'>共喰い</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 182,
+                    "value": [
+                        { "text": "146" },
+                        { "text": "2011年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=151'>円城塔</a>" },
+                        { "text": "<a href='../pages/book.htm?id=151'>道化師の蝶</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 183,
+                    "value": [
+                        { "text": "147" },
+                        { "text": "2012年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=152'>鹿島田真希</a>" },
+                        { "text": "<a href='../pages/book.htm?id=152'>冥土めぐり</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 184,
+                    "value": [
+                        { "text": "148" },
+                        { "text": "2012年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=153'>黒田夏子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=153'>ａｂさんご</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 185,
+                    "value": [
+                        { "text": "149" },
+                        { "text": "2013年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=154'>藤野可織</a>" },
+                        { "text": "<a href='../pages/book.htm?id=154'>爪と目</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 186,
+                    "value": [
+                        { "text": "150" },
+                        { "text": "2013年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=155'>小山田浩子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=155'>穴</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 187,
+                    "value": [
+                        { "text": "151" },
+                        { "text": "2014年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=156'>柴崎友香</a>" },
+                        { "text": "<a href='../pages/book.htm?id=156'>春の庭</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 188,
+                    "value": [
+                        { "text": "152" },
+                        { "text": "2014年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=157'>小野正嗣</a>" },
+                        { "text": "<a href='../pages/book.htm?id=157'>九年前の祈り</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 189,
+                    "value": [
+                        { "text": "153" },
+                        { "text": "2015年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=158'>又吉直樹</a>" },
+                        { "text": "<a href='../pages/book.htm?id=158'>火花</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 190,
+                    "value": [
+                        { "text": "153" },
+                        { "text": "2015年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=159'>羽田圭介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=159'>スクラップ・アンド・ビルド</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 191,
+                    "value": [
+                        { "text": "154" },
+                        { "text": "2015年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=160'>本谷有希子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=160'>異類婚姻譚</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 192,
+                    "value": [
+                        { "text": "154" },
+                        { "text": "2015年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=161'>滝口悠生</a>" },
+                        { "text": "<a href='../pages/book.htm?id=161'>死んでいない者</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 193,
+                    "value": [
+                        { "text": "155" },
+                        { "text": "2016年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=162'>村田沙耶香</a>" },
+                        { "text": "<a href='../pages/book.htm?id=162'>コンビニ人間</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 194,
+                    "value": [
+                        { "text": "156" },
+                        { "text": "2016年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=163'>山下澄人</a>" },
+                        { "text": "<a href='../pages/book.htm?id=163'>しんせかい</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 195,
+                    "value": [
+                        { "text": "157" },
+                        { "text": "2017年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=164'>沼田真佑</a>" },
+                        { "text": "<a href='../pages/book.htm?id=164'>影裏</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 196,
+                    "value": [
+                        { "text": "158" },
+                        { "text": "2017年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=165'>石井遊佳</a>" },
+                        { "text": "<a href='../pages/book.htm?id=165'>百年泥</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 197,
+                    "value": [
+                        { "text": "158" },
+                        { "text": "2017年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=166'>若竹千佐子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=166'>おらおらでひとりいぐも</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 198,
+                    "value": [
+                        { "text": "159" },
+                        { "text": "2018年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=167'>高橋弘希</a>" },
+                        { "text": "<a href='../pages/book.htm?id=167'>送り火</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 199,
+                    "value": [
+                        { "text": "160" },
+                        { "text": "2018年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=168'>上田岳弘</a>" },
+                        { "text": "<a href='../pages/book.htm?id=168'>ニムロッド</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 200,
+                    "value": [
+                        { "text": "160" },
+                        { "text": "2018年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=169'>町屋良平</a>" },
+                        { "text": "<a href='../pages/book.htm?id=169'>1R1分34秒</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 201,
+                    "value": [
+                        { "text": "161" },
+                        { "text": "2019年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=170'>今村夏子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=170'>むらさきのスカートの女</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 202,
+                    "value": [
+                        { "text": "162" },
+                        { "text": "2019年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=171'>古川真人</a>" },
+                        { "text": "<a href='../pages/book.htm?id=171'>背高泡立草</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 203,
+                    "value": [
+                        { "text": "163" },
+                        { "text": "2020年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=375'>高山羽根子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=379'>首里の馬</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 204,
+                    "value": [
+                        { "text": "163" },
+                        { "text": "2020年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=376'>遠野遥</a>" },
+                        { "text": "<a href='../pages/book.htm?id=380'>破局</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 205,
+                    "value": [
+                        { "text": "165" },
+                        { "text": "2021年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=492'>石沢麻依</a>" },
+                        { "text": "<a href='../pages/book.htm?id=530'>貝に続く場所にて</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 206,
+                    "value": [
+                        { "text": "165" },
+                        { "text": "2021年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=493'>李琴峰</a>" },
+                        { "text": "<a href='../pages/book.htm?id=531'>彼岸花が咲く島</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 207,
+                    "value": [
+                        { "text": "164" },
+                        { "text": "2020年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=494'>宇佐見りん</a>" },
+                        { "text": "<a href='../pages/book.htm?id=532'>推し、燃ゆ</a>" }
+                    ]
+                }
+                    ]
+    }
+}

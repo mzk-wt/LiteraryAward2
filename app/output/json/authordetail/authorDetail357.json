@@ -1,0 +1,26 @@
+{
+    "id": "357",
+    "name": "佐藤正午",
+    "kana": "さとうしょうご",
+    "imgUrl": "",
+    "bornDate": "1955年8月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%AD%A3%E5%8D%88",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=357'>月の満ち欠け</a>" },
+                        { "text": "第157回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

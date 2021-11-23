@@ -1,0 +1,26 @@
+{
+    "id": "368",
+    "name": "東川篤哉",
+    "kana": "ひがしがわとくや",
+    "imgUrl": "",
+    "bornDate": "1968年",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B7%9D%E7%AF%A4%E5%93%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=370'>謎解きはディナーのあとで</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

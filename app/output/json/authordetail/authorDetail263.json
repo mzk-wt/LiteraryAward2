@@ -1,0 +1,26 @@
+{
+    "id": "263",
+    "name": "深田祐介",
+    "kana": "ふかだゆうすけ",
+    "imgUrl": "",
+    "bornDate": "1931年7月15日",
+    "deadDate": "2014年7月14日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B7%B1%E7%94%B0%E7%A5%90%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=263'>炎熱商人</a>" },
+                        { "text": "第87回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

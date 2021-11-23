@@ -1,0 +1,33 @@
+{
+    "id": "219",
+    "name": "伊藤桂一",
+    "kana": "いとうけいいち",
+    "imgUrl": "",
+    "bornDate": "1917年8月23日",
+    "deadDate": "2016年10月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E6%A1%82%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=219'>螢の河</a>" },
+                        { "text": "第46回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=492'>静かなノモンハン</a>" },
+                        { "text": "第18回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "376",
+    "name": "遠野遥",
+    "kana": "とおのはるか",
+    "imgUrl": "None",
+    "bornDate": "1991年8月22日",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E9%81%A5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=380'>破局</a>" },
+                        { "text": "第163回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

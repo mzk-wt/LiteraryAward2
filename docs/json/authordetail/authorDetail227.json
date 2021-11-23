@@ -1,0 +1,26 @@
+{
+    "id": "227",
+    "name": "安西篤子",
+    "kana": "あんざいあつこ",
+    "imgUrl": "",
+    "bornDate": "1927年8月11日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%AE%89%E8%A5%BF%E7%AF%A4%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=227'>張少子の話</a>" },
+                        { "text": "第52回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "384",
+    "name": "森薫",
+    "kana": "もりかおる",
+    "imgUrl": "None",
+    "bornDate": "1978年9月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A3%AE%E8%96%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=388'>乙嫁語り</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

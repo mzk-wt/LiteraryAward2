@@ -1,0 +1,26 @@
+{
+    "id": "189",
+    "name": "小山いと子",
+    "kana": "こやまいとこ",
+    "imgUrl": "",
+    "bornDate": "1901年7月13日",
+    "deadDate": "1989年7月25日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E3%81%84%E3%81%A8%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=189'>執行猶予</a>" },
+                        { "text": "第23回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

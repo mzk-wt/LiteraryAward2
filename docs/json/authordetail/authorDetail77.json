@@ -1,0 +1,26 @@
+{
+    "id": "77",
+    "name": "村上龍",
+    "kana": "むらかみりゅう",
+    "imgUrl": "",
+    "bornDate": "1952年2月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E9%BE%8D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=77'>限りなく透明に近いブルー</a>" },
+                        { "text": "第75回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

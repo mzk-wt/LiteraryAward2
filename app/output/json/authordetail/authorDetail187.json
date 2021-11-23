@@ -1,0 +1,26 @@
+{
+    "id": "187",
+    "name": "富田常雄",
+    "kana": "とみたつねお",
+    "imgUrl": "",
+    "bornDate": "1904年1月1日",
+    "deadDate": "1967年10月16日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E5%B8%B8%E9%9B%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=187'>面・刺青</a>" },
+                        { "text": "第21回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

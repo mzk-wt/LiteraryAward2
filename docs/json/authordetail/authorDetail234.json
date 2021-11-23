@@ -1,0 +1,33 @@
+{
+    "id": "234",
+    "name": "野坂昭如",
+    "kana": "のさかあきゆき",
+    "imgUrl": "",
+    "bornDate": "1930年10月10日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%87%8E%E5%9D%82%E6%98%AD%E5%A6%82",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=234'>アメリカひじき・火垂るの墓</a>" },
+                        { "text": "第58回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=506'>同心円</a>" },
+                        { "text": "第31回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "211",
+    "name": "渡邊喜恵子",
+    "kana": "わたなべきえこ",
+    "imgUrl": "",
+    "bornDate": "1913年11月6日",
+    "deadDate": "1997年8月8日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E5%96%9C%E6%81%B5%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=211'>馬淵川</a>" },
+                        { "text": "第41回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

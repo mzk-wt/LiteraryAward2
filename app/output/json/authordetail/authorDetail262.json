@@ -1,0 +1,26 @@
+{
+    "id": "262",
+    "name": "つかこうへい",
+    "kana": "つかこうへい",
+    "imgUrl": "",
+    "bornDate": "1948年4月24日",
+    "deadDate": "2010年7月10日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8B%E3%81%93%E3%81%86%E3%81%B8%E3%81%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=262'>蒲田行進曲</a>" },
+                        { "text": "第86回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

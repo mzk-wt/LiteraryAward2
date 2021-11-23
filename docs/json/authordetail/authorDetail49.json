@@ -1,0 +1,26 @@
+{
+    "id": "49",
+    "name": "柴田翔",
+    "kana": "しばたしょう",
+    "imgUrl": "",
+    "bornDate": "1935年1月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9F%B4%E7%94%B0%E7%BF%94",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=49'>されどわれらが日々</a>" },
+                        { "text": "第51回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

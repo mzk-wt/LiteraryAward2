@@ -1,0 +1,26 @@
+{
+    "id": "76",
+    "name": "中上健次",
+    "kana": "なかがみけんじ",
+    "imgUrl": "",
+    "bornDate": "1946年8月2日",
+    "deadDate": "1992年8月12日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B8%8A%E5%81%A5%E6%AC%A1",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=76'>岬</a>" },
+                        { "text": "第74回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "29",
+    "name": "松本清張",
+    "kana": "まつもとせいちょう",
+    "imgUrl": "",
+    "bornDate": "1909年12月21日",
+    "deadDate": "1992年8月4日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E6%B8%85%E5%BC%B5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=29'>或る「小倉日記」伝</a>" },
+                        { "text": "第28回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=474'>｢昭和史発掘｣｢花氷｣｢逃亡｣ならびに幅広い作家活動に対して</a>" },
+                        { "text": "第1回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

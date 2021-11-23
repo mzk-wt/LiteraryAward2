@@ -1,0 +1,26 @@
+{
+    "id": "183",
+    "name": "神崎武雄",
+    "kana": "かんざきたきお",
+    "imgUrl": "",
+    "bornDate": "1906年6月18日",
+    "deadDate": "1944年9月17日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%B4%8E%E6%AD%A6%E9%9B%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=183'>寛容・その他</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

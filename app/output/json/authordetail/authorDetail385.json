@@ -1,0 +1,26 @@
+{
+    "id": "385",
+    "name": "東村アキコ",
+    "kana": "ひがしむらあきこ",
+    "imgUrl": "None",
+    "bornDate": "1975年10月15日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9D%91%E3%82%A2%E3%82%AD%E3%82%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=389'>かくかくしかじか</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

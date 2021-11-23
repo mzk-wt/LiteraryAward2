@@ -1,0 +1,26 @@
+{
+    "id": "129",
+    "name": "玄侑宗久",
+    "kana": "げんゆうそうきゅう",
+    "imgUrl": "",
+    "bornDate": "1956年4月28日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "",
+    "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%8E%84%E4%BE%91%E5%AE%97%E4%B9%85",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=129'>中陰の花</a>" },
+                        { "text": "第125回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}
