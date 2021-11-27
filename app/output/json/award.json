@@ -1,236 +1,190 @@
 {
     "listtitle": [
-        "タイトル", "国", "期間", ""
+        "タイトル", "国", "期間"
     ],
     "listitem": [
                                 {
                 "key": 0,
                 "value": [
-                    { "text": "芥川龍之介賞" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" },
                     { "text": "日本" },
-                    { "text": "1935 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=1' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1935 〜 " }
                 ]
             }
                     ,            {
                 "key": 1,
                 "value": [
-                    { "text": "直木三十五賞" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" },
                     { "text": "日本" },
-                    { "text": "1935 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=2' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1935 〜 " }
                 ]
             }
                     ,            {
                 "key": 2,
                 "value": [
-                    { "text": "本屋大賞" },
+                    { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" },
                     { "text": "日本" },
-                    { "text": "2004 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=3' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2004 〜 " }
                 ]
             }
                     ,            {
                 "key": 3,
                 "value": [
-                    { "text": "本屋大賞（発掘部門）" },
+                    { "text": "<a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" },
                     { "text": "日本" },
-                    { "text": "2016 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=4' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2016 〜 " }
                 ]
             }
                     ,            {
                 "key": 4,
                 "value": [
-                    { "text": "本屋大賞（翻訳小説部門）" },
+                    { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" },
                     { "text": "日本" },
-                    { "text": "2012 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=5' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2012 〜 " }
                 ]
             }
                     ,            {
                 "key": 5,
                 "value": [
-                    { "text": "本屋大賞（ノンフィクション部門）" },
+                    { "text": "<a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" },
                     { "text": "日本" },
-                    { "text": "2018 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=6' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2018 〜 " }
                 ]
             }
                     ,            {
                 "key": 6,
                 "value": [
-                    { "text": "マンガ大賞" },
+                    { "text": "<a href='../pages/award.htm?id=7'>マンガ大賞</a>" },
                     { "text": "日本" },
-                    { "text": "2008 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=7' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2008 〜 " }
                 ]
             }
                     ,            {
                 "key": 7,
                 "value": [
-                    { "text": "メフィスト賞" },
+                    { "text": "<a href='../pages/award.htm?id=8'>メフィスト賞</a>" },
                     { "text": "日本" },
-                    { "text": "1996 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=8' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1996 〜 " }
                 ]
             }
                     ,            {
                 "key": 8,
                 "value": [
-                    { "text": "吉川英治文学賞" },
+                    { "text": "<a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" },
                     { "text": "日本" },
-                    { "text": "1967 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=9' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1967 〜 " }
                 ]
             }
                     ,            {
                 "key": 9,
                 "value": [
-                    { "text": "新田次郎文学賞" },
+                    { "text": "<a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" },
                     { "text": "日本" },
-                    { "text": "1982 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=10' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1982 〜 " }
                 ]
             }
                     ,            {
                 "key": 10,
                 "value": [
-                    { "text": "小説すばる新人賞" },
+                    { "text": "<a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" },
                     { "text": "日本" },
-                    { "text": "1988 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=11' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1988 〜 " }
                 ]
             }
                     ,            {
                 "key": 11,
                 "value": [
-                    { "text": "松本清張賞" },
+                    { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" },
                     { "text": "日本" },
-                    { "text": "1994 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=12' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1994 〜 " }
                 ]
             }
                     ,            {
                 "key": 12,
                 "value": [
-                    { "text": "角川春樹小説賞" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" },
                     { "text": "日本" },
-                    { "text": "2000 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=13' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2000 〜 " }
                 ]
             }
                     ,            {
                 "key": 13,
                 "value": [
-                    { "text": "小学館文庫小説賞" },
+                    { "text": "<a href='../pages/award.htm?id=14'>小学館文庫小説賞</a>" },
                     { "text": "日本" },
-                    { "text": "2002 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=14' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2002 〜 " }
                 ]
             }
                     ,            {
                 "key": 14,
                 "value": [
-                    { "text": "ボイルドエッグズ新人賞" },
+                    { "text": "<a href='../pages/award.htm?id=15'>ボイルドエッグズ新人賞</a>" },
                     { "text": "日本" },
-                    { "text": "2004 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=15' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2004 〜 " }
                 ]
             }
                     ,            {
                 "key": 15,
                 "value": [
-                    { "text": "小説現代長編新人賞" },
+                    { "text": "<a href='../pages/award.htm?id=16'>小説現代長編新人賞</a>" },
                     { "text": "日本" },
-                    { "text": "2006 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=16' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2006 〜 " }
                 ]
             }
                     ,            {
                 "key": 16,
                 "value": [
-                    { "text": "日経小説大賞" },
+                    { "text": "<a href='../pages/award.htm?id=17'>日経小説大賞</a>" },
                     { "text": "日本" },
-                    { "text": "2006 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=17' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2006 〜 " }
                 ]
             }
                     ,            {
                 "key": 17,
                 "value": [
-                    { "text": "電撃小説大賞（メディアワークス文庫賞）" },
+                    { "text": "<a href='../pages/award.htm?id=19'>電撃小説大賞（メディアワークス文庫賞）</a>" },
                     { "text": "日本" },
-                    { "text": "2009 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=19' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2009 〜 " }
                 ]
             }
                     ,            {
                 "key": 18,
                 "value": [
-                    { "text": "電撃小説大賞" },
+                    { "text": "<a href='../pages/award.htm?id=20'>電撃小説大賞</a>" },
                     { "text": "日本" },
-                    { "text": "1994 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=20' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1994 〜 " }
                 ]
             }
                     ,            {
                 "key": 19,
                 "value": [
-                    { "text": "電撃小説大賞（金賞）" },
+                    { "text": "<a href='../pages/award.htm?id=21'>電撃小説大賞（金賞）</a>" },
                     { "text": "日本" },
-                    { "text": "1994 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=21' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1994 〜 " }
                 ]
             }
                     ,            {
                 "key": 20,
                 "value": [
-                    { "text": "電撃小説大賞（銀賞）" },
+                    { "text": "<a href='../pages/award.htm?id=22'>電撃小説大賞（銀賞）</a>" },
                     { "text": "日本" },
-                    { "text": "1994 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=22' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1994 〜 " }
                 ]
             }
                     ,            {
                 "key": 21,
                 "value": [
-                    { "text": "電撃小説大賞（選考委員特別賞）" },
+                    { "text": "<a href='../pages/award.htm?id=23'>電撃小説大賞（選考委員特別賞）</a>" },
                     { "text": "日本" },
-                    { "text": "1998 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=23' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "1998 〜 " }
                 ]
             }
                     ,            {
                 "key": 22,
                 "value": [
-                    { "text": "電撃小説大賞（電撃文庫MAGAZINE賞）" },
+                    { "text": "<a href='../pages/award.htm?id=24'>電撃小説大賞（電撃文庫MAGAZINE賞）</a>" },
                     { "text": "日本" },
-                    { "text": "2008 〜 " },
-                    { "text": "<a href='../pages/award.htm?id=24' class='button is-link is-small is-outlined'>詳細</a>",
-                      "class": "is-narrow has-text-centered" }
+                    { "text": "2008 〜 " }
                 ]
             }
             ]
