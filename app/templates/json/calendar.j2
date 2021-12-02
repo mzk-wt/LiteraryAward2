@@ -1,0 +1,14 @@
+{
+    {% for key, awards in calendar.items() %}
+        {% if loop.index0 > 0 %},{% endif %}
+        "{{ key }}": [
+            {% for award in awards %}
+                {% if loop.index0 > 0 %},{% endif %}
+                {
+                    "id": "{{ award["id"] }}",
+                    "title": "{{ award["title"] }}"
+                }
+            {% endfor %}
+        ]
+    {% endfor %}
+}

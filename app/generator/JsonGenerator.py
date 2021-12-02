@@ -6,6 +6,7 @@ from models import award, book, author, country
 def generate(env):
     generateListData(env)
     generateDetailData(env)
+    generateOtherData(env)
 
 ##################################################
 ## 一覧用のJSONデータを作成
@@ -171,6 +172,33 @@ def getAwardWinningWorksDataBelongAuthor(authorId):
             'awardTitle': award.getTitle(w['award_id'])
         })
     return list
+
+##################################################
+## その他のJSONデータを作成
+def generateOtherData(env):
+    writeJsonFile(env, "calendar", { 'calendar': getCalendarData() })
+
+## 文学賞カレンダーのデータを取得
+def getCalendarData():
+    calendar = {'1':[], '2':[], '3':[], '4':[], '5':[], '6':[], '7':[], '8':[], '9':[], '10':[], '11':[], '12':[], 'X':[]}
+    awards = award.getList()
+    for data in awards:
+        month = []
+        frequencyMonth = data['frequency_month']
+        if frequencyMonth == "":
+            month.append('X')
+        elif frequencyMonth.find('*') == -1:
+            month = frequencyMonth.split(',')
+        else:
+            continue
+
+        for key in month:
+            calendar[key].append({
+                'id': data['id'],
+                'title': data['title']
+            })
+    
+    return calendar
 
 ##################################################
 ## ファイル出力

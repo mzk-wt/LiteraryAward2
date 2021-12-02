@@ -10,7 +10,7 @@ Vue.component('header1', {
                 <nav class="navbar">
                     <div class="container">
                         <div class="navbar-brand">
-                            <a class="navbar-item">
+                            <a class="navbar-item" :href="rootpath + 'index.htm'">
                                 <img :src="rootpath + 'img/Logo.png'">
                             </a>
                             <span class="navbar-burger" data-target="navbarMenuHeroA">
@@ -25,7 +25,7 @@ Vue.component('header1', {
                                     <span class="icon"><i class="fas fa-home"></i></span>
                                     <span>Home</span>
                                 </a>
-                                <a class="navbar-item">
+                                <a class="navbar-item" :href="rootpath + 'pages/calendar.htm'">
                                     <span class="icon"><i class="far fa-calendar-alt"></i></span>
                                     <span>文学賞カレンダー</span>
                                 </a>

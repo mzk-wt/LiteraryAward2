@@ -1,0 +1,111 @@
+<DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+
+    <title>LADB</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+    <link rel="stylesheet" href="../css/common.css">
+    
+    <!-- vue -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+    <!-- axios -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- My Script -->
+    <script src="../js/common.js"></script>
+
+    <!-- My Vue components -->
+    <script src="../js/vue/components/header1.js"></script>
+    <script src="../js/vue/components/footer1.js"></script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37807464-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    
+        gtag('config', 'UA-37807464-2');
+    </script>
+</head>
+
+<!------------------------------------------------------------------------------------------->
+
+<body>
+    <div id="app" class="site">
+
+        <!-- ヘッダ -->
+        <header1 title="文学賞カレンダー" subtitle="各文学賞の発表時期を確認しよう" :rootpath="rootpath"></header1>
+
+        <div class="site-content columns has-background-light mb-0">
+            <div class="column is-8 is-offset-2">
+                <!-- 1〜12月 -->
+                <div class="tile is-ancestor" v-for="row of 4" :key="row">
+                    <div class="tile is-parent" v-for="col of 3" :key="col">
+                        <article class="tile is-child box">
+                            <p class="subtitle">{{ (row - 1) * 3 + col }}月</p>
+                            <div class="content">
+                                <a v-for="award in calData[(row - 1) * 3 + col]"
+                                class="button is-info is-small is-outlined m-1" :href="rootpath + 'pages/award.htm?id=' + award.id">
+                                    {{ award.title }}
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+                <!-- 不定期 -->
+                <div class="tile is-ancestor">
+                    <div class="tile is-parent">
+                        <article class="tile is-child box">
+                            <p class="subtitle">不定期</p>
+                            <div class="content">
+                                <a v-for="award in calData.X"
+                                class="button is-info is-small is-outlined m-1" :href="rootpath + 'pages/award.htm?id=' + award.id">
+                                    {{ award.title }}
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- フッタ -->
+        <footer1 :rootpath="rootpath"></footer1>
+    </div>
+</body>
+
+<!------------------------------------------------------------------------------------------->
+
+<script type="text/javascript">
+var app = new Vue({
+    el: '#app',
+    data: {
+        rootpath: '../',
+        calData: {}
+    },
+    created() {
+        // JSONファイルからデータを取得する
+        axios.get(this.rootpath + "json/calendar.json").then(s => {
+            this.calData = s.data;
+        });
+    },
+    mounted() {
+        // Twitterカードの設定
+        // TODO
+        addTwitterCardMetaTags(
+            "http",
+            "title",
+            "description",
+            "image"
+        );
+    },
+    methods: {
+    }
+})
+</script>
+</html>
