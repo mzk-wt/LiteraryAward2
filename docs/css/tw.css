@@ -1,0 +1,10 @@
+.timeline-Widget {
+      font-size: 1.5em !important;
+  }
+  .timeline-Header-title {
+      font-size: 0.7em !important;
+  }
+  .timeline-Tweet-text {
+      font-size: 1.25rem !important;
+      line-height: 1.25em !important;
+  }

@@ -6,6 +6,7 @@
     <title>LADB</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
     <link rel="stylesheet" href="./css/common.css">
     
     <!-- vue -->
@@ -14,6 +15,8 @@
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Swiper -->
+    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
     <!-- My Script -->
     <script src="./js/common.js"></script>
 
@@ -42,8 +45,62 @@
 
         <div class="site-content columns has-background-light mb-0">
             <div class="column is-8 is-offset-2">
+                <!-- スライダー -->
+                <div class="block box">
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                            <!-- TODO -->
+                            <div class="swiper-slide">準備中 1</div>
+                            <div class="swiper-slide">準備中 2</div>
+                            <div class="swiper-slide">準備中 3</div>
+                            <div class="swiper-slide">準備中 4</div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-button-next"></div>
+                    </div>
+                </div>
+
+                <!-- 文学賞カレンダー（今月／来月） -->
                 <div class="block">
-                    under construction
+                    <div class="tile is-ancestor">
+                        <div class="tile is-parent">
+                            <article class="tile is-child box">
+                                <p class="subtitle">今月発表の文学賞</p>
+                                <div class="content">
+                                    <p v-if="!thisMonthAward || thisMonthAward.length == 0">該当なし</p>
+                                    <a v-for="award in thisMonthAward" :key="award.id"
+                                    class="button is-info is-small is-outlined m-1" :href="rootpath + 'pages/award.htm?id=' + award.id">
+                                        {{ award.title }}
+                                    </a>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="tile is-parent">
+                            <article class="tile is-child box">
+                                <p class="subtitle">来月発表の文学賞</p>
+                                <div class="content">
+                                    <p v-if="!nextMonthAward || nextMonthAward.length == 0">該当なし</p>
+                                    <a v-for="award in nextMonthAward" :key="award.id"
+                                    class="button is-info is-small is-outlined m-1" :href="rootpath + 'pages/award.htm?id=' + award.id">
+                                        {{ award.title }}
+                                    </a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="has-text-right">
+                        <a :href="rootpath + 'pages/calendar.htm'">
+                            <i class="fas fa-arrow-alt-circle-right mr-1"></i>年間の文学賞発表スケジュールを確認する
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Twitterウィジェット -->
+                <div class="block box">
+                    <a class="twitter-timeline" data-lang="ja" data-height="750" data-theme="light" href="https://twitter.com/LiteraryAwardDB?ref_src=twsrc%5Etfw">
+                        Tweets by LiteraryAwardDB
+                    </a>
                 </div>
             </div>
         </div>
@@ -55,13 +112,32 @@
 
 <!------------------------------------------------------------------------------------------->
 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script type="text/javascript">
+
 var app = new Vue({
     el: '#app',
     data: {
-        rootpath: './'
+        rootpath: './',
+        calData: {}
+    },
+    computed: {
+        // 今月発表の文学賞
+        thisMonthAward: function() {
+            let now = new Date();
+            return this.calData[now.getMonth() + 1];
+        },
+        // 来月発表の文学賞
+        nextMonthAward: function() {
+            let now = new Date();
+            return this.calData[(now.getMonth() + 2) % 12];
+        }
     },
     created() {
+        // JSONファイルからデータを取得する
+        axios.get(this.rootpath + "json/calendar.json").then(s => {
+            this.calData = s.data;
+        });
     },
     mounted() {
         // Twitterカードの設定
@@ -72,6 +148,28 @@ var app = new Vue({
             "description",
             "image"
         );
+
+        // Swiper
+        const swiper = new Swiper('.swiper', {
+            loop: true,
+            pagination: {
+                el: '.swiper-pagination',
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+
+        // Twitterウィジェットに独自CSSを適用する
+        let id = setInterval(() => {
+            var $widget = $('iframe.twitter-timeline');
+            if ($widget) {
+                var $widgetContents = $widget.contents();
+                $widgetContents.find('head').append('<link href="' + this.rootpath + 'css/tw.css" rel="stylesheet" type="text/css">');
+                clearInterval(id);
+            }
+        }, 1000);
     },
     methods: {
     }

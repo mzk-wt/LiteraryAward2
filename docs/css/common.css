@@ -7,3 +7,18 @@
 .site-content {
     flex: 1;
 }
+
+/****************************************/
+/* スライド全体のスタイル */
+.swiper-wrapper {
+	width: 100%;
+	height: 250px;
+}
+/* 全スライド共通スタイル */
+.swiper-slide {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 250px;
+}
+/****************************************/

@@ -48,7 +48,7 @@
                         <article class="tile is-child box">
                             <p class="subtitle">{{ (row - 1) * 3 + col }}月</p>
                             <div class="content">
-                                <a v-for="award in calData[(row - 1) * 3 + col]"
+                                <a v-for="award in calData[(row - 1) * 3 + col]" :key="award.id"
                                 class="button is-info is-small is-outlined m-1" :href="rootpath + 'pages/award.htm?id=' + award.id">
                                     {{ award.title }}
                                 </a>
