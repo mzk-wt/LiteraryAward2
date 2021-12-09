@@ -1,0 +1,18 @@
+{
+    "awardCount": "{{ index["awardCount"] }}",
+    "authorCount": "{{ index["authorCount"] }}",
+    "bookCount": "{{ index["bookCount"] }}",
+    "whatsNew": [
+        {% for data in index["whatsNew"] %}
+            {% if loop.index0 > 0 %},{% endif %}
+            {
+                "bookId": "{{ data["bookId"] }}",
+                "bookTitle": "{{ data["bookTitle"] }}",
+                "bookImgUrl": "{{ data["bookImgUrl"] }}",
+                "authors": "{{ data["authors"] }}",
+                "awards": "{{ data["awards"] }}",
+                "createdAt": "{{ data["createdAt"] }}"
+            }
+        {% endfor %}
+    ]
+}

@@ -1,5 +1,9 @@
 from utils import db
 
+def getCount():
+    result = db.select("SELECT count(*) AS cnt FROM books")
+    return result.fetchone()['cnt']
+
 def getList():
     result = db.select("SELECT * FROM books ORDER BY id")
     return result
@@ -33,13 +37,13 @@ def getAuthors(bookId):
     else:
         return ""
 
-def getAuthorsLink(bookId):
+def getAuthorsLink(bookId, rootpath = '../'):
     authorList = getAuthors(bookId)
     link = ""
     for i, author in enumerate(authorList):
         if i > 0:
             link += '、'
-        link += "<a href='../pages/author.htm?id=" + str(author['id']) + "'>" + author['name'] + "(" + author['role'] + ")" + "</a>"
+        link += "<a href='" + rootpath + "pages/author.htm?id=" + str(author['id']) + "'>" + author['name'] + "(" + author['role'] + ")" + "</a>"
     return link
 
 def getWinningAward(bookId):
@@ -57,11 +61,28 @@ def getWinningAward(bookId):
         })
     return list
 
-def getWinningAwardLink(bookId):
+def getWinningAwardLink(bookId, rootpath = '../'):
     waList = getWinningAward(bookId)
     link = ""
     for i, wa in enumerate(waList):
         if i > 0:
             link += "、"
-        link += "<a href='../pages/award.htm?id=" + str(wa['id']) + "'>" + wa['title'] + "</a>"
+        link += "<a href='" + rootpath + "pages/award.htm?id=" + str(wa['id']) + "'>" + wa['title'] + "</a>"
     return link
+
+def getWhatsNew(limit):
+    news = []
+    result = db.select("SELECT id, title, img_url, DATE_FORMAT(created_at, '%Y/%m/%d') AS created_at FROM books ORDER BY created_at DESC LIMIT " + str(limit))
+    for book in result:
+        authors = getAuthorsLink(book["id"], './')
+        awards = getWinningAwardLink(book["id"], './')
+        news.append({
+            'bookId': book["id"],
+            'bookTitle': book["title"],
+            'bookImgUrl': book["img_url"],
+            'authors': authors,
+            'awards': awards,
+            'createdAt': book["created_at"]
+        })
+
+    return news

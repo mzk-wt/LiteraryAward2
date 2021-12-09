@@ -1,0 +1,47 @@
+{
+    "awardCount": "23",
+    "authorCount": "493",
+    "bookCount": "532",
+    "whatsNew": [
+                                {
+                "bookId": "530",
+                "bookTitle": "貝に続く場所にて",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/41lbW3D3LoS._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=492'>石沢麻依(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2021/08/18"
+            }
+                    ,            {
+                "bookId": "531",
+                "bookTitle": "彼岸花が咲く島",
+                "bookImgUrl": "",
+                "authors": "<a href='./pages/author.htm?id=493'>李琴峰(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2021/08/18"
+            }
+                    ,            {
+                "bookId": "532",
+                "bookTitle": "推し、燃ゆ",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/41p3u3nYuwL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=494'>宇佐見りん(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2021/08/18"
+            }
+                    ,            {
+                "bookId": "512",
+                "bookTitle": "ごろごろ",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51GAEYY81AL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=293'>伊集院静(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=9'>吉川英治文学賞</a>",
+                "createdAt": "2021/01/17"
+            }
+                    ,            {
+                "bookId": "513",
+                "bookTitle": "海霧",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/510r8T6JmVL.jpg",
+                "authors": "<a href='./pages/author.htm?id=486'>原田康子(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=9'>吉川英治文学賞</a>",
+                "createdAt": "2021/01/17"
+            }
+            ]
+}

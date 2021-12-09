@@ -4,9 +4,21 @@ from models import award, book, author, country
 
 ## JSONデータを作成
 def generate(env):
+    generateIndexData(env)
     generateListData(env)
     generateDetailData(env)
     generateOtherData(env)
+
+##################################################
+## indexページ用のJSONデータを作成
+def generateIndexData(env):
+    index = {
+        'awardCount': award.getCount(),
+        'authorCount': author.getCount(),
+        'bookCount': book.getCount(),
+        'whatsNew': book.getWhatsNew(5)
+    }
+    writeJsonFile(env, "index", { 'index': index })
 
 ##################################################
 ## 一覧用のJSONデータを作成

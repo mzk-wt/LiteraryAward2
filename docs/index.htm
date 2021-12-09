@@ -6,7 +6,7 @@
     <title>LADB</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
-    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
+    <!-- <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css"> -->
     <link rel="stylesheet" href="./css/common.css">
     
     <!-- vue -->
@@ -16,7 +16,7 @@
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Swiper -->
-    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+    <!-- <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script> -->
     <!-- My Script -->
     <script src="./js/common.js"></script>
 
@@ -46,10 +46,10 @@
         <div class="site-content columns has-background-light mb-0">
             <div class="column is-8 is-offset-2">
                 <!-- スライダー -->
-                <div class="block box">
+                <!-- TODO -->
+                <!-- <div class="block box">
                     <div class="swiper">
                         <div class="swiper-wrapper">
-                            <!-- TODO -->
                             <div class="swiper-slide">準備中 1</div>
                             <div class="swiper-slide">準備中 2</div>
                             <div class="swiper-slide">準備中 3</div>
@@ -59,15 +59,24 @@
                         <div class="swiper-button-prev"></div>
                         <div class="swiper-button-next"></div>
                     </div>
+                </div> -->
+
+                <!-- 集計情報 -->
+                <div class="block is-size-7">
+                    <span>登録済み件数</span>
+                    <i class="fas fa-angle-double-right ml-2 mr-2"></i>
+                    <spna>文学賞：<span class="is-size-6">{{ indexData.awardCount }}</span>件</span>
+                    <span class="ml-3">著者：<span class="is-size-6">{{ indexData.authorCount }}</span>件</span>
+                    <span class="ml-3">作品：<span class="is-size-6">{{ indexData.bookCount }}</span>件</span>
                 </div>
 
                 <!-- 文学賞カレンダー（今月／来月） -->
                 <div class="block">
                     <div class="tile is-ancestor">
                         <div class="tile is-parent">
-                            <article class="tile is-child box">
+                            <article class="tile is-child">
                                 <p class="subtitle">今月発表の文学賞</p>
-                                <div class="content">
+                                <div class="content box">
                                     <p v-if="!thisMonthAward || thisMonthAward.length == 0">該当なし</p>
                                     <a v-for="award in thisMonthAward" :key="award.id"
                                     class="button is-info is-small is-outlined m-1" :href="rootpath + 'pages/award.htm?id=' + award.id">
@@ -77,9 +86,9 @@
                             </article>
                         </div>
                         <div class="tile is-parent">
-                            <article class="tile is-child box">
+                            <article class="tile is-child">
                                 <p class="subtitle">来月発表の文学賞</p>
-                                <div class="content">
+                                <div class="content box">
                                     <p v-if="!nextMonthAward || nextMonthAward.length == 0">該当なし</p>
                                     <a v-for="award in nextMonthAward" :key="award.id"
                                     class="button is-info is-small is-outlined m-1" :href="rootpath + 'pages/award.htm?id=' + award.id">
@@ -96,11 +105,39 @@
                     </div>
                 </div>
 
+                <!-- 新着情報 -->
+                <div class="block">
+                    <p class="subtitle">新着情報</p>
+                    <div class="box">
+                        <table class="table is-striped is-hoverable is-fullwidth is-size-7">
+                            <tr v-for="news in indexData.whatsNew" :key="news.bookId">
+                                <td><img :src="news.bookImgUrl" class="image has-ratio" width="50"></td>
+                                <td>{{ news.bookTitle }}</td>
+                                <td v-html="news.authors"></td>
+                                <td v-html="news.awards"></td>
+                                <td>登録日：{{ news.createdAt }}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- アフィリエイトバナー① -->
+                <div class="block has-text-centered">
+                    <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=books&f=ifr&linkID=e9c1076cddbe1e62d6a0ac470f032fa3&t=muta0e-22&tracking_id=muta0e-22"
+                    width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+                </div>
+
                 <!-- Twitterウィジェット -->
                 <div class="block box">
                     <a class="twitter-timeline" data-lang="ja" data-height="750" data-theme="light" href="https://twitter.com/LiteraryAwardDB?ref_src=twsrc%5Etfw">
                         Tweets by LiteraryAwardDB
                     </a>
+                </div>
+
+                <!-- アフィリエイトバナー② -->
+                <div class="block has-text-centered">
+                    <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=gift_certificates&banner=01E67CGVQD9QBMJ4XV82&f=ifr&linkID=5f4a0d6cdaeca4fb23a9273398571b17&t=muta0e-22&tracking_id=muta0e-22"
+                    width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
@@ -119,6 +156,7 @@ var app = new Vue({
     el: '#app',
     data: {
         rootpath: './',
+        indexData: {},
         calData: {}
     },
     computed: {
@@ -135,6 +173,9 @@ var app = new Vue({
     },
     created() {
         // JSONファイルからデータを取得する
+        axios.get(this.rootpath + "json/index.json").then(s => {
+            this.indexData = s.data;
+        });
         axios.get(this.rootpath + "json/calendar.json").then(s => {
             this.calData = s.data;
         });
@@ -150,16 +191,16 @@ var app = new Vue({
         );
 
         // Swiper
-        const swiper = new Swiper('.swiper', {
-            loop: true,
-            pagination: {
-                el: '.swiper-pagination',
-            },
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
-        });
+        // const swiper = new Swiper('.swiper', {
+        //     loop: true,
+        //     pagination: {
+        //         el: '.swiper-pagination',
+        //     },
+        //     navigation: {
+        //         nextEl: '.swiper-button-next',
+        //         prevEl: '.swiper-button-prev',
+        //     },
+        // });
 
         // Twitterウィジェットに独自CSSを適用する
         let id = setInterval(() => {

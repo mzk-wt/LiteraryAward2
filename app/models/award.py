@@ -1,5 +1,9 @@
 from utils import db
 
+def getCount():
+    result = db.select("SELECT count(*) AS cnt FROM awards")
+    return result.fetchone()['cnt']
+
 def getList():
     result = db.select("SELECT * FROM awards ORDER BY id")
     return result
