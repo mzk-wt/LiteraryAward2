@@ -111,17 +111,15 @@ var app = new Vue({
         // JSONファイルからデータを取得する
         axios.get(this.rootpath + "json/bookdetail/bookDetail" + this.bookId + ".json").then(s => {
             this.bookData = s.data;
+
+            // Twitterカードの設定
+            addTwitterCardMetaTags(
+                "http://www.literary-award-db.com/bookdetail/" + this.bookData["id"],
+                "【文学賞データベース】" + this.bookData["title"],
+                this.bookData["overview"],
+                this.bookData["imgUrl"]
+            );
         });
-    },
-    mounted() {
-        // Twitterカードの設定
-        // TODO
-        addTwitterCardMetaTags(
-            "http",
-            "title",
-            "description",
-            "image"
-        );
     },
     methods: {
     }
