@@ -112,7 +112,7 @@
                         <table class="table is-striped is-hoverable is-fullwidth is-size-7">
                             <tr v-for="news in indexData.whatsNew" :key="news.bookId">
                                 <td><img :src="news.bookImgUrl" class="image has-ratio" width="50"></td>
-                                <td>{{ news.bookTitle }}</td>
+                                <td><a :href="rootpath + 'pages/book.htm?id=' + news.bookId">{{ news.bookTitle }}</a></td>
                                 <td v-html="news.authors"></td>
                                 <td v-html="news.awards"></td>
                                 <td>登録日：{{ news.createdAt }}</td>
