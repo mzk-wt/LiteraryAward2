@@ -60,19 +60,19 @@ function addTwitterCardMetaTags(url, title, description, image) {
         { key: "content", value: "@LiteraryAwardDB" }
     ]));
     document.head.appendChild(createElem("meta", [
-        { key: "name", value: "og:url" },
+        { key: "property", value: "og:url" },
         { key: "content", value: url }
     ]));
     document.head.appendChild(createElem("meta", [
-        { key: "name", value: "og:title" },
+        { key: "property", value: "og:title" },
         { key: "content", value: title }
     ]));
     document.head.appendChild(createElem("meta", [
-        { key: "name", value: "og:description" },
+        { key: "property", value: "og:description" },
         { key: "content", value: description }
     ]));
     document.head.appendChild(createElem("meta", [
-        { key: "name", value: "og:image" },
+        { key: "property", value: "og:image" },
         { key: "content", value: image }
     ]));
 }
