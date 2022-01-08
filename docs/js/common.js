@@ -51,6 +51,10 @@ function getRequestParams() {
  * @param {*} image 
  */
 function addTwitterCardMetaTags(url, title, description, image) {
+    if (description.length > 100) {
+        description = description.substring(0, 95) + "...";
+    }
+
     document.querySelector("meta[property='og:url']").setAttribute("content", url);
     document.querySelector("meta[property='og:title']").setAttribute("content", title);
     document.querySelector("meta[property='og:description']").setAttribute("content", description);
