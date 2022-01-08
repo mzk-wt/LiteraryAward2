@@ -20,7 +20,7 @@
                     "value": [
                         { "text": "1" },
                         { "text": "2012年" },
-                        { "text": "<a href='../pages/author.htm?id=460'>フェルディナント・フォン・シーラッハ</a>" },
+                        { "text": "<a href='../pages/author.htm?id=460'>フェルディナント・フォン・シ－ラッハ</a>" },
                         { "text": "<a href='../pages/book.htm?id=462'>犯罪</a>" }
                     ]
                 }
@@ -39,7 +39,7 @@
                         { "text": "2" },
                         { "text": "2013年" },
                         { "text": "<a href='../pages/author.htm?id=462'>テア・オブレヒト</a>" },
-                        { "text": "<a href='../pages/book.htm?id=463'>タイガース・ワイフ</a>" }
+                        { "text": "<a href='../pages/book.htm?id=463'>タイガーズ・ワイフ</a>" }
                     ]
                 }
                             ,                {
@@ -48,7 +48,7 @@
                         { "text": "2" },
                         { "text": "2013年" },
                         { "text": "<a href='../pages/author.htm?id=463'>藤井光</a>" },
-                        { "text": "<a href='../pages/book.htm?id=463'>タイガース・ワイフ</a>" }
+                        { "text": "<a href='../pages/book.htm?id=463'>タイガーズ・ワイフ</a>" }
                     ]
                 }
                             ,                {
@@ -57,7 +57,7 @@
                         { "text": "3" },
                         { "text": "2014年" },
                         { "text": "<a href='../pages/author.htm?id=464'>ローラン・ビネ</a>" },
-                        { "text": "<a href='../pages/book.htm?id=464'>HHhH プラハ、1942年</a>" }
+                        { "text": "<a href='../pages/book.htm?id=464'>HHhH　プラハ、1942年</a>" }
                     ]
                 }
                             ,                {
@@ -66,7 +66,7 @@
                         { "text": "3" },
                         { "text": "2014年" },
                         { "text": "<a href='../pages/author.htm?id=465'>高橋啓</a>" },
-                        { "text": "<a href='../pages/book.htm?id=464'>HHhH プラハ、1942年</a>" }
+                        { "text": "<a href='../pages/book.htm?id=464'>HHhH　プラハ、1942年</a>" }
                     ]
                 }
                             ,                {
@@ -165,7 +165,7 @@
                         { "text": "9" },
                         { "text": "2020年" },
                         { "text": "<a href='../pages/author.htm?id=476'>ソン・ウォンピョン</a>" },
-                        { "text": "<a href='../pages/book.htm?id=470'>アーモンド</a>" }
+                        { "text": "<a href='../pages/book.htm?id=470'>ア－モンド</a>" }
                     ]
                 }
                             ,                {
@@ -174,7 +174,7 @@
                         { "text": "9" },
                         { "text": "2020年" },
                         { "text": "<a href='../pages/author.htm?id=477'>矢島暁子</a>" },
-                        { "text": "<a href='../pages/book.htm?id=470'>アーモンド</a>" }
+                        { "text": "<a href='../pages/book.htm?id=470'>ア－モンド</a>" }
                     ]
                 }
                     ]

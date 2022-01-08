@@ -6,7 +6,14 @@ def generate(env):
     # 書籍詳細
     result = db.select("SELECT * FROM books ORDER BY id")
     for book in result:
-        writeFile(env, str(book["id"]), { 'bookId': book["id"] })
+        params = {
+            'bookId': book["id"],
+            'twUrl': "http://www.literary-award-db.com/bookdetail/" + str(book["id"]),
+            'twTitle': book["title"],
+            'twDescription': book["overview"],
+            'twImage': book["img_url"]
+        }
+        writeFile(env, str(book["id"]), params)
 
 ## ファイル出力
 def writeFile(env, foldername, params):

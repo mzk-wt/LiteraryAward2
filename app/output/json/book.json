@@ -4157,15 +4157,15 @@
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=462'>犯罪</a>" },
                     { "text": "はんざい" },
-                    { "text": "<a href='../pages/author.htm?id=460'>フェルディナント・フォン・シーラッハ(著)</a>、<a href='../pages/author.htm?id=461'>酒寄進一(訳)</a>" },
+                    { "text": "<a href='../pages/author.htm?id=460'>フェルディナント・フォン・シ－ラッハ(著)</a>、<a href='../pages/author.htm?id=461'>酒寄進一(訳)</a>" },
                     { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>、<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
                 ]
             }
                     ,            {
                 "key": 462,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=463'>タイガース・ワイフ</a>" },
-                    { "text": "たいがーす・わいふ" },
+                    { "text": "<a href='../pages/book.htm?id=463'>タイガーズ・ワイフ</a>" },
+                    { "text": "たいがーず・わいふ" },
                     { "text": "<a href='../pages/author.htm?id=462'>テア・オブレヒト(著)</a>、<a href='../pages/author.htm?id=463'>藤井光(訳)</a>" },
                     { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>、<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
                 ]
@@ -4173,8 +4173,8 @@
                     ,            {
                 "key": 463,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=464'>HHhH プラハ、1942年</a>" },
-                    { "text": "えいち えいち えいち えいち" },
+                    { "text": "<a href='../pages/book.htm?id=464'>HHhH　プラハ、1942年</a>" },
+                    { "text": "えいち えいち えいち えいち　プラハ、1942ねん" },
                     { "text": "<a href='../pages/author.htm?id=464'>ローラン・ビネ(著)</a>、<a href='../pages/author.htm?id=465'>高橋啓(訳)</a>" },
                     { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>、<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
                 ]
@@ -4227,7 +4227,7 @@
                     ,            {
                 "key": 469,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=470'>アーモンド</a>" },
+                    { "text": "<a href='../pages/book.htm?id=470'>ア－モンド</a>" },
                     { "text": "あーもんど" },
                     { "text": "<a href='../pages/author.htm?id=476'>ソン・ウォンピョン(著)</a>、<a href='../pages/author.htm?id=477'>矢島暁子(訳)</a>" },
                     { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>、<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
