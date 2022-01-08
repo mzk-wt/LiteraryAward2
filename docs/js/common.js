@@ -51,30 +51,10 @@ function getRequestParams() {
  * @param {*} image 
  */
 function addTwitterCardMetaTags(url, title, description, image) {
-    document.head.appendChild(createElem("meta", [
-        { key: "name", value: "twitter:card" },
-        { key: "content", value: "summary_large_image" }
-    ]));
-    document.head.appendChild(createElem("meta", [
-        { key: "name", value: "twitter:site" },
-        { key: "content", value: "@LiteraryAwardDB" }
-    ]));
-    document.head.appendChild(createElem("meta", [
-        { key: "property", value: "og:url" },
-        { key: "content", value: url }
-    ]));
-    document.head.appendChild(createElem("meta", [
-        { key: "property", value: "og:title" },
-        { key: "content", value: title }
-    ]));
-    document.head.appendChild(createElem("meta", [
-        { key: "property", value: "og:description" },
-        { key: "content", value: description }
-    ]));
-    document.head.appendChild(createElem("meta", [
-        { key: "property", value: "og:image" },
-        { key: "content", value: image }
-    ]));
+    document.querySelector("meta[property='og:url']").setAttribute("content", url);
+    document.querySelector("meta[property='og:title']").setAttribute("content", title);
+    document.querySelector("meta[property='og:description']").setAttribute("content", description);
+    document.querySelector("meta[property='og:image']").setAttribute("content", image);
 }
 
 /**
