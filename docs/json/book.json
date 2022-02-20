@@ -51,7 +51,7 @@
                     ,            {
                 "key": 5,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=6'>暢氣眼鏡</a>" },
+                    { "text": "<a href='../pages/book.htm?id=6'>暢氣眼鏡 他</a>" },
                     { "text": "のんきめがね" },
                     { "text": "<a href='../pages/author.htm?id=6'>尾崎一雄(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -78,7 +78,7 @@
                     ,            {
                 "key": 8,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=9'>乗合馬車</a>" },
+                    { "text": "<a href='../pages/book.htm?id=9'>乗合馬車 他</a>" },
                     { "text": "のりあいばしゃ" },
                     { "text": "<a href='../pages/author.htm?id=9'>中里恒子(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -231,7 +231,7 @@
                     ,            {
                 "key": 25,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=26'>春の草</a>" },
+                    { "text": "<a href='../pages/book.htm?id=26'>春の草 他</a>" },
                     { "text": "はるのくさ" },
                     { "text": "<a href='../pages/author.htm?id=26'>石川利光(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -249,7 +249,7 @@
                     ,            {
                 "key": 27,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=28'>広場の孤独・漢奸</a>" },
+                    { "text": "<a href='../pages/book.htm?id=28'>広場の孤独・漢奸その他</a>" },
                     { "text": "ひろばのこどく・かんかん" },
                     { "text": "<a href='../pages/author.htm?id=28'>堀田善衛(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -285,7 +285,7 @@
                     ,            {
                 "key": 31,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=32'>驟雨</a>" },
+                    { "text": "<a href='../pages/book.htm?id=32'>驟雨・その他</a>" },
                     { "text": "しゅうう" },
                     { "text": "<a href='../pages/author.htm?id=32'>吉行淳之介(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -429,7 +429,7 @@
                     ,            {
                 "key": 47,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=48'>感傷旅行</a>" },
+                    { "text": "<a href='../pages/book.htm?id=48'>感傷旅行 センチメンタル・ジャーニィ</a>" },
                     { "text": "センチメンタル・ジャーニー" },
                     { "text": "<a href='../pages/author.htm?id=48'>田辺聖子(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -438,7 +438,7 @@
                     ,            {
                 "key": 48,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=49'>されどわれらが日々</a>" },
+                    { "text": "<a href='../pages/book.htm?id=49'>されどわれらが日々──</a>" },
                     { "text": "されどわれらがひび" },
                     { "text": "<a href='../pages/author.htm?id=49'>柴田翔(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -960,7 +960,7 @@
                     ,            {
                 "key": 106,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=107'>至高聖所</a>" },
+                    { "text": "<a href='../pages/book.htm?id=107'>至高聖所 アバトーン</a>" },
                     { "text": "アバトーン" },
                     { "text": "<a href='../pages/author.htm?id=107'>松村栄子(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
@@ -4789,6 +4789,78 @@
                     { "text": "おしもゆ" },
                     { "text": "<a href='../pages/author.htm?id=494'>宇佐見りん(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 532,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=533'>ブラックボックス</a>" },
+                    { "text": "ぶらっくぼっくす" },
+                    { "text": "<a href='../pages/author.htm?id=495'>砂川文次(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 533,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=534'>塞王の楯</a>" },
+                    { "text": "さいおうのたて" },
+                    { "text": "<a href='../pages/author.htm?id=496'>今村翔吾(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 534,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=535'>黒牢城</a>" },
+                    { "text": "こくろうじょう" },
+                    { "text": "<a href='../pages/author.htm?id=497'>米澤穂信(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 535,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=536'>テスカトリポカ</a>" },
+                    { "text": "てすかとりぽか" },
+                    { "text": "<a href='../pages/author.htm?id=498'>佐藤究(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 536,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=537'>星落ちて、なお</a>" },
+                    { "text": "ほしおちて、なお" },
+                    { "text": "<a href='../pages/author.htm?id=499'>澤田瞳子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 537,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=538'>心淋し川</a>" },
+                    { "text": "うらさびしがわ" },
+                    { "text": "<a href='../pages/author.htm?id=500'>西條奈加(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 538,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=539'>52ヘルツのクジラたち</a>" },
+                    { "text": "52へるつのくじらたち" },
+                    { "text": "<a href='../pages/author.htm?id=501'>町田そのこ(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 539,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=540'>ない仕事の作り方</a>" },
+                    { "text": "ないしごとのつくりかた" },
+                    { "text": "<a href='../pages/author.htm?id=502'>みうらじゅん(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
                 ]
             }
             ]

@@ -168,6 +168,15 @@
                         { "text": "<a href='../pages/book.htm?id=378'>流浪の月</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 17,
+                    "value": [
+                        { "text": "18" },
+                        { "text": "2021年" },
+                        { "text": "<a href='../pages/author.htm?id=501'>町田そのこ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=539'>52ヘルツのクジラたち</a>" }
+                    ]
+                }
                     ]
     }
 }

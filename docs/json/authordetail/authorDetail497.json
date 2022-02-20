@@ -1,0 +1,26 @@
+{
+    "id": "497",
+    "name": "米澤穂信",
+    "kana": "よねざわほのぶ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、推理作家。岐阜県出身。岐阜県立斐太高等学校、金沢大学文学部卒業。男性。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%B1%B3%E6%BE%A4%E7%A9%82%E4%BF%A1",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=535'>黒牢城</a>" },
+                        { "text": "第166回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

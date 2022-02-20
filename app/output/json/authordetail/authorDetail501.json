@@ -1,0 +1,26 @@
+{
+    "id": "501",
+    "name": "町田そのこ",
+    "kana": "まちだそのこ",
+    "imgUrl": "None",
+    "bornDate": "1980年3月9日",
+    "deadDate": "",
+    "countryId": "None",
+    "countryName": "",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%94%BA%E7%94%B0%E3%81%9D%E3%81%AE%E3%81%93",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=539'>52ヘルツのクジラたち</a>" },
+                        { "text": "第18回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -4440,5 +4440,77 @@
                     { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
                 ]
             }
+                    ,            {
+                "key": 493,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=495'>砂川文次</a>" },
+                    { "text": "すなかわぶんじ" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 494,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=496'>今村翔吾</a>" },
+                    { "text": "いまむらしょうご" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 495,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=497'>米澤穂信</a>" },
+                    { "text": "よねざわほのぶ" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 496,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=498'>佐藤究</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 497,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=499'>澤田瞳子</a>" },
+                    { "text": "さわだとうこ" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 498,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=500'>西條奈加</a>" },
+                    { "text": "さいじょうなか" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 499,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=501'>町田そのこ</a>" },
+                    { "text": "まちだそのこ" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 500,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=502'>みうらじゅん</a>" },
+                    { "text": "" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
+                ]
+            }
             ]
 }

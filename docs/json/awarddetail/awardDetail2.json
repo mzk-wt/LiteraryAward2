@@ -2004,6 +2004,51 @@
                         { "text": "<a href='../pages/book.htm?id=381'>少年と犬</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 221,
+                    "value": [
+                        { "text": "166" },
+                        { "text": "2021年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=496'>今村翔吾</a>" },
+                        { "text": "<a href='../pages/book.htm?id=534'>塞王の楯</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 222,
+                    "value": [
+                        { "text": "166" },
+                        { "text": "2021年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=497'>米澤穂信</a>" },
+                        { "text": "<a href='../pages/book.htm?id=535'>黒牢城</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 223,
+                    "value": [
+                        { "text": "165" },
+                        { "text": "2021年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=498'>佐藤究</a>" },
+                        { "text": "<a href='../pages/book.htm?id=536'>テスカトリポカ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 224,
+                    "value": [
+                        { "text": "165" },
+                        { "text": "2021年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=499'>澤田瞳子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=537'>星落ちて、なお</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 225,
+                    "value": [
+                        { "text": "164" },
+                        { "text": "2020年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=500'>西條奈加</a>" },
+                        { "text": "<a href='../pages/book.htm?id=538'>心淋し川</a>" }
+                    ]
+                }
                     ]
     }
 }

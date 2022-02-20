@@ -1,0 +1,26 @@
+{
+    "id": "499",
+    "name": "澤田瞳子",
+    "kana": "さわだとうこ",
+    "imgUrl": "None",
+    "bornDate": "1977年9月14日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。京都府生まれ。同志社女子高等学校、同志社大学文学部文化史学専攻卒業、同大学院文学研究科博士課程前期修了。専門は奈良仏教史。母は作家の澤田ふじ子。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%BE%A4%E7%94%B0%E7%9E%B3%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=537'>星落ちて、なお</a>" },
+                        { "text": "第165回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

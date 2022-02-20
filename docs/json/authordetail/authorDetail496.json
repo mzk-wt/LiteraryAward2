@@ -1,0 +1,26 @@
+{
+    "id": "496",
+    "name": "今村翔吾",
+    "kana": "いまむらしょうご",
+    "imgUrl": "None",
+    "bornDate": "1984年6月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の時代小説作家。京都府出身。滋賀県在住。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BB%8A%E6%9D%91%E7%BF%94%E5%90%BE",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=534'>塞王の楯</a>" },
+                        { "text": "第166回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

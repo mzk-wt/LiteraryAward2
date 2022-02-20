@@ -75,7 +75,7 @@
                         { "text": "5" },
                         { "text": "1937年上半期" },
                         { "text": "<a href='../pages/author.htm?id=6'>尾崎一雄</a>" },
-                        { "text": "<a href='../pages/book.htm?id=6'>暢氣眼鏡</a>" }
+                        { "text": "<a href='../pages/book.htm?id=6'>暢氣眼鏡 他</a>" }
                     ]
                 }
                             ,                {
@@ -102,7 +102,7 @@
                         { "text": "8" },
                         { "text": "1938年下半期" },
                         { "text": "<a href='../pages/author.htm?id=9'>中里恒子</a>" },
-                        { "text": "<a href='../pages/book.htm?id=9'>乗合馬車</a>" }
+                        { "text": "<a href='../pages/book.htm?id=9'>乗合馬車 他</a>" }
                     ]
                 }
                             ,                {
@@ -282,7 +282,7 @@
                         { "text": "25" },
                         { "text": "1951年上半期" },
                         { "text": "<a href='../pages/author.htm?id=26'>石川利光</a>" },
-                        { "text": "<a href='../pages/book.htm?id=26'>春の草</a>" }
+                        { "text": "<a href='../pages/book.htm?id=26'>春の草 他</a>" }
                     ]
                 }
                             ,                {
@@ -300,7 +300,7 @@
                         { "text": "26" },
                         { "text": "1951年下半期" },
                         { "text": "<a href='../pages/author.htm?id=28'>堀田善衛</a>" },
-                        { "text": "<a href='../pages/book.htm?id=28'>広場の孤独・漢奸</a>" }
+                        { "text": "<a href='../pages/book.htm?id=28'>広場の孤独・漢奸その他</a>" }
                     ]
                 }
                             ,                {
@@ -354,7 +354,7 @@
                         { "text": "31" },
                         { "text": "1954年上半期" },
                         { "text": "<a href='../pages/author.htm?id=32'>吉行淳之介</a>" },
-                        { "text": "<a href='../pages/book.htm?id=32'>驟雨</a>" }
+                        { "text": "<a href='../pages/book.htm?id=32'>驟雨・その他</a>" }
                     ]
                 }
                             ,                {
@@ -543,7 +543,7 @@
                         { "text": "50" },
                         { "text": "1963年下半期" },
                         { "text": "<a href='../pages/author.htm?id=48'>田辺聖子</a>" },
-                        { "text": "<a href='../pages/book.htm?id=48'>感傷旅行</a>" }
+                        { "text": "<a href='../pages/book.htm?id=48'>感傷旅行 センチメンタル・ジャーニィ</a>" }
                     ]
                 }
                             ,                {
@@ -552,7 +552,7 @@
                         { "text": "51" },
                         { "text": "1964年上半期" },
                         { "text": "<a href='../pages/author.htm?id=49'>柴田翔</a>" },
-                        { "text": "<a href='../pages/book.htm?id=49'>されどわれらが日々</a>" }
+                        { "text": "<a href='../pages/book.htm?id=49'>されどわれらが日々──</a>" }
                     ]
                 }
                             ,                {
@@ -1218,7 +1218,7 @@
                         { "text": "106" },
                         { "text": "1991年下半期" },
                         { "text": "<a href='../pages/author.htm?id=107'>松村栄子</a>" },
-                        { "text": "<a href='../pages/book.htm?id=107'>至高聖所</a>" }
+                        { "text": "<a href='../pages/book.htm?id=107'>至高聖所 アバトーン</a>" }
                     ]
                 }
                             ,                {
@@ -1885,6 +1885,15 @@
                         { "text": "2020年下半期" },
                         { "text": "<a href='../pages/author.htm?id=494'>宇佐見りん</a>" },
                         { "text": "<a href='../pages/book.htm?id=532'>推し、燃ゆ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 208,
+                    "value": [
+                        { "text": "166" },
+                        { "text": "2021年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=495'>砂川文次</a>" },
+                        { "text": "<a href='../pages/book.htm?id=533'>ブラックボックス</a>" }
                     ]
                 }
                     ]

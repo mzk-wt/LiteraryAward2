@@ -78,6 +78,15 @@
                         { "text": "<a href='../pages/book.htm?id=461'>無理難題が多すぎる</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 7,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "2021年" },
+                        { "text": "<a href='../pages/author.htm?id=502'>みうらじゅん</a>" },
+                        { "text": "<a href='../pages/book.htm?id=540'>ない仕事の作り方</a>" }
+                    ]
+                }
                     ]
     }
 }

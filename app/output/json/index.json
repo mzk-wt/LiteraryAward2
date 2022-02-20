@@ -1,47 +1,47 @@
 {
     "awardCount": "23",
-    "authorCount": "493",
-    "bookCount": "532",
+    "authorCount": "501",
+    "bookCount": "540",
     "whatsNew": [
                                 {
-                "bookId": "530",
-                "bookTitle": "貝に続く場所にて",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/41lbW3D3LoS._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=492'>石沢麻依(著)</a>",
+                "bookId": "533",
+                "bookTitle": "ブラックボックス",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/5167WaTEq3L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=495'>砂川文次(著)</a>",
                 "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
-                "createdAt": "2021/08/18"
+                "createdAt": "2022/02/20"
             }
                     ,            {
-                "bookId": "531",
-                "bookTitle": "彼岸花が咲く島",
-                "bookImgUrl": "https://images-na.ssl-images-amazon.com/images/I/51f8IG-JjHS._SX344_BO1,204,203,200_.jpg",
-                "authors": "<a href='./pages/author.htm?id=493'>李琴峰(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
-                "createdAt": "2021/08/18"
+                "bookId": "534",
+                "bookTitle": "塞王の楯",
+                "bookImgUrl": "",
+                "authors": "<a href='./pages/author.htm?id=496'>今村翔吾(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2022/02/20"
             }
                     ,            {
-                "bookId": "532",
-                "bookTitle": "推し、燃ゆ",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/41p3u3nYuwL._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=494'>宇佐見りん(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
-                "createdAt": "2021/08/18"
+                "bookId": "535",
+                "bookTitle": "黒牢城",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51Lvdxi+phS._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=497'>米澤穂信(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2022/02/20"
             }
                     ,            {
-                "bookId": "512",
-                "bookTitle": "ごろごろ",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51GAEYY81AL._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=293'>伊集院静(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=9'>吉川英治文学賞</a>",
-                "createdAt": "2021/01/17"
+                "bookId": "536",
+                "bookTitle": "テスカトリポカ",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/617eJAAZe1L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=498'>佐藤究(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2022/02/20"
             }
                     ,            {
-                "bookId": "513",
-                "bookTitle": "海霧",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/510r8T6JmVL.jpg",
-                "authors": "<a href='./pages/author.htm?id=486'>原田康子(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=9'>吉川英治文学賞</a>",
-                "createdAt": "2021/01/17"
+                "bookId": "537",
+                "bookTitle": "星落ちて、なお",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51H53uYTDJS._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=499'>澤田瞳子(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2022/02/20"
             }
             ]
 }
