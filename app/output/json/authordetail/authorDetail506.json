@@ -1,0 +1,26 @@
+{
+    "id": "506",
+    "name": "山田鐘人",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "None",
+    "countryName": "",
+    "overview": "日本の漫画家、漫画原作者。2009年、『クラスシフト』がまんがカレッジで入選を受賞。2021年、『葬送のフリーレン』で第14回マンガ大賞を受賞。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E9%90%98%E4%BA%BA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=544'>葬送のフリーレン</a>" },
+                        { "text": "第14回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

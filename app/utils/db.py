@@ -2,11 +2,10 @@ import pymysql.cursors
 
 # MariaDB
 conn = pymysql.connect(
-    host='192.168.11.9',
-    port=3307,
-    db='LiteraryAward',
-    user='admin',
-    password='admin',
+    host='mysql62.conoha.ne.jp',
+    db='p5klt_ladb',
+    user='p5klt_ladb',
+    password='YQLVy@L@hRvU8tw',
     cursorclass=pymysql.cursors.DictCursor)
 
 def select(sql, params=None):
@@ -16,3 +15,8 @@ def select(sql, params=None):
     else:
         cur.execute(sql)
     return cur
+
+#result = select("SELECT * FROM TEST WHERE ID = %s", [1])
+#result = select("SELECT * FROM authors where id=1")
+#for rowData in result:
+#    print(rowData)

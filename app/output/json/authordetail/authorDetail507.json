@@ -1,0 +1,26 @@
+{
+    "id": "507",
+    "name": "アベツカサ",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "None",
+    "countryName": "",
+    "overview": "日本の漫画家。茨城県出身。2018年、『MEETUP』が第82回小学館新人コミック大賞で佳作を受賞。作画はデジタルで作業をしている。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%99%E3%83%84%E3%82%AB%E3%82%B5",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=544'>葬送のフリーレン</a>" },
+                        { "text": "第14回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}
