@@ -4344,7 +4344,7 @@
                     ,            {
                 "key": 482,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=483'>青春の門</a>" },
+                    { "text": "<a href='../pages/book.htm?id=483'>｢青春の門｣（筑豊篇ほか）</a>" },
                     { "text": "せいしゅんのもん" },
                     { "text": "<a href='../pages/author.htm?id=232'>五木寛之(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
@@ -4481,7 +4481,7 @@
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=498'>會津士魂</a>" },
                     { "text": "あいず しこん" },
-                    { "text": "<a href='../pages/author.htm?id=484'>早乙女貢(著)</a>" },
+                    { "text": "<a href='../pages/author.htm?id=237'>早乙女貢(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                 ]
             }
@@ -4906,6 +4906,132 @@
                     { "text": "だーうぃんじへん4" },
                     { "text": "<a href='../pages/author.htm?id=508'>うめざわしゅん(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 545,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=546'>この世の喜びよ</a>" },
+                    { "text": "このよのよろこびよ" },
+                    { "text": "<a href='../pages/author.htm?id=509'>井戸川射子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 546,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=547'>荒地の家族</a>" },
+                    { "text": "あれちのかぞく" },
+                    { "text": "<a href='../pages/author.htm?id=510'>佐藤厚志(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 547,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=548'>おいしいごはんが食べられますように</a>" },
+                    { "text": "おいしいごはんがたべられますように" },
+                    { "text": "<a href='../pages/author.htm?id=511'>高瀬隼子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 548,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=549'>地図と拳</a>" },
+                    { "text": "ちずとこぶし" },
+                    { "text": "<a href='../pages/author.htm?id=512'>小川哲(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 549,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=550'>しろがねの葉</a>" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/author.htm?id=513'>千早茜(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 550,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=551'>夜に星を放つ</a>" },
+                    { "text": "よるにほしをはなつ" },
+                    { "text": "<a href='../pages/author.htm?id=514'>窪美澄(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 551,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=552'>同志少女よ、敵を撃て</a>" },
+                    { "text": "どうししょうじょよてきをうて" },
+                    { "text": "<a href='../pages/author.htm?id=515'>逢坂冬馬(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 552,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=553'>おちくぼ姫</a>" },
+                    { "text": "おちくぼひめ" },
+                    { "text": "<a href='../pages/author.htm?id=48'>田辺聖子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
+                ]
+            }
+                    ,            {
+                "key": 553,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=554'>三十の反撃</a>" },
+                    { "text": "さんじゅうのはんげき" },
+                    { "text": "<a href='../pages/author.htm?id=476'>ソン・ウォンピョン(著)</a>、<a href='../pages/author.htm?id=477'>矢島暁子(訳)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>、<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                ]
+            }
+                    ,            {
+                "key": 554,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=555'>目の見えない白鳥さんとアートを見にいく</a>" },
+                    { "text": "めのみえないしらとりさんとあーとをみにいく" },
+                    { "text": "<a href='../pages/author.htm?id=516'>川内有緒(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" }
+                ]
+            }
+                    ,            {
+                "key": 555,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" },
+                    { "text": "これかいてしね" },
+                    { "text": "<a href='../pages/author.htm?id=517'>とよ田みのる(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 556,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=557'>遠巷説百物語</a>" },
+                    { "text": "とおくのこうせつひゃくものがたり" },
+                    { "text": "<a href='../pages/author.htm?id=323'>京極夏彦(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 557,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=558'>やさしい猫</a>" },
+                    { "text": "やさしいねこ" },
+                    { "text": "<a href='../pages/author.htm?id=340'>中島京子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 558,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=559'>風よ あらしよ</a>" },
+                    { "text": "かぜよ あらしよ げ" },
+                    { "text": "<a href='../pages/author.htm?id=321'>村山由佳(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                 ]
             }
             ]

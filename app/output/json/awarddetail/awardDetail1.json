@@ -1896,6 +1896,33 @@
                         { "text": "<a href='../pages/book.htm?id=533'>ブラックボックス</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 209,
+                    "value": [
+                        { "text": "168" },
+                        { "text": "2022年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=509'>井戸川射子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=546'>この世の喜びよ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 210,
+                    "value": [
+                        { "text": "168" },
+                        { "text": "2022年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=510'>佐藤厚志</a>" },
+                        { "text": "<a href='../pages/book.htm?id=547'>荒地の家族</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 211,
+                    "value": [
+                        { "text": "167" },
+                        { "text": "2022年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=511'>高瀬隼子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=548'>おいしいごはんが食べられますように</a>" }
+                    ]
+                }
                     ]
     }
 }

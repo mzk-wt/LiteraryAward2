@@ -21,6 +21,13 @@
                         { "text": "第9回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=554'>三十の反撃</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                    ]
+                }
                     ]
     }
 }

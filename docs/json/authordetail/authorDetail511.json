@@ -1,0 +1,26 @@
+{
+    "id": "511",
+    "name": "高瀬隼子",
+    "kana": "たかせじゅんこ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。愛媛県出身。東京都在住。立命館大学文学部卒業。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%AB%98%E7%80%AC%E9%9A%BC%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=548'>おいしいごはんが食べられますように</a>" },
+                        { "text": "第167回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -21,6 +21,13 @@
                         { "text": "第129回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=559'>風よ あらしよ</a>" },
+                        { "text": "第55回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

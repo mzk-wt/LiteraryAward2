@@ -1,0 +1,26 @@
+{
+    "id": "517",
+    "name": "とよ田みのる",
+    "kana": "とよだみのる",
+    "imgUrl": "None",
+    "bornDate": "1971年10月7日",
+    "deadDate": "",
+    "countryId": "None",
+    "countryName": "",
+    "overview": "日本の漫画家。東京都大島町出身、江戸川区から埼玉県を経て、現在は再び江戸川区在住。東京造形大学造形学部卒業。妻は漫画家の。2002年に『月刊アフタヌーン』（講談社）掲載の「ラブロマ」でデビュー。翌2003年に同誌で連載化した同作で連載デビューし、代表作となった。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%88%E7%94%B0%E3%81%BF%E3%81%AE%E3%82%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

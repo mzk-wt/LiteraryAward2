@@ -51,6 +51,15 @@
                         { "text": "<a href='../pages/book.htm?id=543'>海をあげる</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=516'>川内有緒</a>" },
+                        { "text": "<a href='../pages/book.htm?id=555'>目の見えない白鳥さんとアートを見にいく</a>" }
+                    ]
+                }
                     ]
     }
 }

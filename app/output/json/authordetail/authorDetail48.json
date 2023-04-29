@@ -28,6 +28,13 @@
                         { "text": "第27回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=553'>おちくぼ姫</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=4'>本屋大賞（発掘部門）</a>" }
+                    ]
+                }
                     ]
     }
 }

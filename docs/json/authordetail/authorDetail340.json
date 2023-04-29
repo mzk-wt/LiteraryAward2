@@ -7,7 +7,7 @@
     "deadDate": "",
     "countryId": "108",
     "countryName": "日本",
-    "overview": "中島京子（なかじまきょうこ）<br>*中島京子(作家)-1964年生まれの小説家。<br>*中島京子(AV女優)-1983年生まれのAV女優。",
+    "overview": "日本の小説家、エッセイスト。<br><br>東京都杉並区出身[1][2]。埼玉県和光市、八王子市育ち。父はフランス文学者で中央大学名誉教授の中島昭和。母はフランス文学者で明治大学元教授の中島公子。姉はエッセイストの中島さおり。",
     "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E4%BA%AC%E5%AD%90_(%E4%BD%9C%E5%AE%B6)",
     "awardWinningWorks": {
         "listtitle": [
@@ -19,6 +19,13 @@
                     "value": [
                         { "text": "<a href='../pages/book.htm?id=340'>小さいおうち</a>" },
                         { "text": "第143回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=558'>やさしい猫</a>" },
+                        { "text": "第56回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                     ]
                 }
                     ]

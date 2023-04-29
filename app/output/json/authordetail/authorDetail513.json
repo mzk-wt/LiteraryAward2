@@ -1,0 +1,26 @@
+{
+    "id": "513",
+    "name": "千早茜",
+    "kana": "ちはやあかね",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。北海道江別市出身。京都府在住。立命館大学文学部人文総合インスティテュート卒業。既婚。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A9%E8%8C%9C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=550'>しろがねの葉</a>" },
+                        { "text": "第168回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

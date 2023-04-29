@@ -1,0 +1,26 @@
+{
+    "id": "510",
+    "name": "佐藤厚志",
+    "kana": "さとうあつし",
+    "imgUrl": "None",
+    "bornDate": "1982年2月9日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。宮城県仙台市生まれ。東北学院大学文学部英文学科卒業。仙台市在住。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%8E%9A%E5%BF%97",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=547'>荒地の家族</a>" },
+                        { "text": "第168回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

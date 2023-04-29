@@ -195,6 +195,24 @@
                         { "text": "<a href='../pages/book.htm?id=542'>ザリガニの鳴くところ</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 20,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=476'>ソン・ウォンピョン</a>" },
+                        { "text": "<a href='../pages/book.htm?id=554'>三十の反撃</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 21,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=477'>矢島暁子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=554'>三十の反撃</a>" }
+                    ]
+                }
                     ]
     }
 }

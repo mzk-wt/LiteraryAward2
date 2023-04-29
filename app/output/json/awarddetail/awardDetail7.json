@@ -159,6 +159,15 @@
                         { "text": "<a href='../pages/book.htm?id=545'>ダーウィン事変</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 16,
+                    "value": [
+                        { "text": "16" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=517'>とよ田みのる</a>" },
+                        { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" }
+                    ]
+                }
                     ]
     }
 }

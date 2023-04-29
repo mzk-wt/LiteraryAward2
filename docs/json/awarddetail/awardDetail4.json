@@ -96,6 +96,15 @@
                         { "text": "<a href='../pages/book.htm?id=541'>破船</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 9,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=48'>田辺聖子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=553'>おちくぼ姫</a>" }
+                    ]
+                }
                     ]
     }
 }

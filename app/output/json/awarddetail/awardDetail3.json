@@ -177,6 +177,15 @@
                         { "text": "<a href='../pages/book.htm?id=539'>52ヘルツのクジラたち</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 18,
+                    "value": [
+                        { "text": "19" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=515'>逢坂冬馬</a>" },
+                        { "text": "<a href='../pages/book.htm?id=552'>同志少女よ、敵を撃て</a>" }
+                    ]
+                }
                     ]
     }
 }

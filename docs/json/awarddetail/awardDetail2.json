@@ -2049,6 +2049,33 @@
                         { "text": "<a href='../pages/book.htm?id=538'>心淋し川</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 226,
+                    "value": [
+                        { "text": "168" },
+                        { "text": "2022年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=512'>小川哲</a>" },
+                        { "text": "<a href='../pages/book.htm?id=549'>地図と拳</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 227,
+                    "value": [
+                        { "text": "168" },
+                        { "text": "2022年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=513'>千早茜</a>" },
+                        { "text": "<a href='../pages/book.htm?id=550'>しろがねの葉</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 228,
+                    "value": [
+                        { "text": "167" },
+                        { "text": "2022年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=514'>窪美澄</a>" },
+                        { "text": "<a href='../pages/book.htm?id=551'>夜に星を放つ</a>" }
+                    ]
+                }
                     ]
     }
 }

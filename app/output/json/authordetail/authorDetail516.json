@@ -1,0 +1,26 @@
+{
+    "id": "516",
+    "name": "川内有緒",
+    "kana": "かわうちありお",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "None",
+    "countryName": "",
+    "overview": "ノンフィクション作家。国際連合教育科学文化機関（ユネスコ）勤務後、フリーランスの作家になり、第33回新田次郎文学賞、第16回開高健ノンフィクション賞受賞。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B7%9D%E5%86%85%E6%9C%89%E7%B7%92",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=555'>目の見えない白鳥さんとアートを見にいく</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

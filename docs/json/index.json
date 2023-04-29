@@ -1,47 +1,47 @@
 {
     "awardCount": "23",
-    "authorCount": "507",
-    "bookCount": "545",
+    "authorCount": "516",
+    "bookCount": "559",
     "whatsNew": [
                                 {
-                "bookId": "544",
-                "bookTitle": "葬送のフリーレン",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/01MKUOLsA5L._SL500_.gif",
-                "authors": "<a href='./pages/author.htm?id=506'>山田鐘人(著)</a>、<a href='./pages/author.htm?id=507'>アベツカサ(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=7'>マンガ大賞</a>、<a href='./pages/award.htm?id=7'>マンガ大賞</a>",
-                "createdAt": "2022/06/08"
+                "bookId": "546",
+                "bookTitle": "この世の喜びよ",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/41UKGgBQi9L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=509'>井戸川射子(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2023/04/29"
             }
                     ,            {
-                "bookId": "545",
-                "bookTitle": "ダーウィン事変",
+                "bookId": "547",
+                "bookTitle": "荒地の家族",
                 "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=508'>うめざわしゅん(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=7'>マンガ大賞</a>",
-                "createdAt": "2022/06/08"
+                "authors": "<a href='./pages/author.htm?id=510'>佐藤厚志(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2023/04/29"
             }
                     ,            {
-                "bookId": "541",
-                "bookTitle": "破船",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51oQ53-yQ-L._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=482'>吉村昭(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=4'>本屋大賞（発掘部門）</a>",
-                "createdAt": "2022/06/05"
+                "bookId": "548",
+                "bookTitle": "おいしいごはんが食べられますように",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/41diVPyxW3L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=511'>高瀬隼子(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2023/04/29"
             }
                     ,            {
-                "bookId": "542",
-                "bookTitle": "ザリガニの鳴くところ",
-                "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=503'>ディーリア・オーエンズ(著)</a>、<a href='./pages/author.htm?id=504'>友廣純(訳)</a>",
-                "awards": "<a href='./pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>、<a href='./pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>",
-                "createdAt": "2022/06/05"
+                "bookId": "549",
+                "bookTitle": "地図と拳",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51Sr6rv6gML._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=512'>小川哲(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2023/04/29"
             }
                     ,            {
-                "bookId": "543",
-                "bookTitle": "海をあげる",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51t9cdSS54L._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=505'>上間陽子(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>",
-                "createdAt": "2022/06/05"
+                "bookId": "550",
+                "bookTitle": "しろがねの葉",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51qNTq2Ad4L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=513'>千早茜(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2023/04/29"
             }
             ]
 }
