@@ -21,6 +21,13 @@
                         { "text": "第74回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=565'>異郷の歌</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

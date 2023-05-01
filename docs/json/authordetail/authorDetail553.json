@@ -1,0 +1,26 @@
+{
+    "id": "553",
+    "name": "永井紗耶子",
+    "kana": "ながいさやこ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E7%B4%97%E8%80%B6%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=609'>商う狼 江戸商人 杉本茂十郎</a>" },
+                        { "text": "第40回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "551",
+    "name": "伊与原新",
+    "kana": "いよはらしん",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、推理作家。大阪府吹田市出身。神戸大学理学部地球科学科（現・地球惑星学科）卒業、東京大学大学院理学系研究科博士課程修了。専門は地球惑星物理学。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%8E%E5%8E%9F%E6%96%B0",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=607'>月まで三キロ</a>" },
+                        { "text": "第38回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

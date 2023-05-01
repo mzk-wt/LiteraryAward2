@@ -1,0 +1,26 @@
+{
+    "id": "547",
+    "name": "尾崎真理子",
+    "kana": "おざきまりこ",
+    "imgUrl": "None",
+    "bornDate": "1959年10月18日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の文芸評論家、元読売新聞文化部記者、早稲田大学教授。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B4%8E%E7%9C%9F%E7%90%86%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=603'>ひみつの王国 評伝 石井桃子</a>" },
+                        { "text": "第34回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

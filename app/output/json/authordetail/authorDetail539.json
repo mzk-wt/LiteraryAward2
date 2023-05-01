@@ -1,0 +1,26 @@
+{
+    "id": "539",
+    "name": "東郷隆",
+    "kana": "とうごうりゅう",
+    "imgUrl": "None",
+    "bornDate": "1951年12月16日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E9%83%B7%E9%9A%86",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=590'>狙うて候 銃豪村田経芳の生涯</a>" },
+                        { "text": "第23回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

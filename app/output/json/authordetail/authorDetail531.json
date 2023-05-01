@@ -1,0 +1,26 @@
+{
+    "id": "531",
+    "name": "岩橋邦枝",
+    "kana": "いわはしくにえ",
+    "imgUrl": "None",
+    "bornDate": "1934年10月10日",
+    "deadDate": "2014年6月11日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。本名、根本邦枝。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B2%A9%E6%A9%8B%E9%82%A6%E6%9E%9D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=579'>評伝長谷川時雨</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

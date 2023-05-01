@@ -21,6 +21,13 @@
                         { "text": "第69回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=566'>見知らぬ戦場</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

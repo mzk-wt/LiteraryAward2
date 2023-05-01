@@ -1,0 +1,26 @@
+{
+    "id": "546",
+    "name": "幸田真音",
+    "kana": "こうだまいん",
+    "imgUrl": "None",
+    "bornDate": "1951年4月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の経済小説家。NHK経営委員、日本たばこ産業取締役、LIXILグループ取締役、日本取引所グループ取締役、三菱自動車工業取締役、国土交通省交通政策審議会委員、政府税制調査会委員等を歴任。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B9%B8%E7%94%B0%E7%9C%9F%E9%9F%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=602'>天佑なり 高橋是清・百年前の日本国債</a>" },
+                        { "text": "第33回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

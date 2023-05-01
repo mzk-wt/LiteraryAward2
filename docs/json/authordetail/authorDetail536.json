@@ -1,0 +1,26 @@
+{
+    "id": "536",
+    "name": "酒見賢一",
+    "kana": "さけみけんいち",
+    "imgUrl": "None",
+    "bornDate": "1963年11月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。福岡県久留米市出身。福岡県立明善高等学校卒業。1988年、愛知大学文学部哲学科東洋哲学専攻卒業。デビュー作『後宮小説』は、王朝も人物もすべて架空の中国史小説風ファンタジーという異色作だったが、その後は実際の中国史から題材をとることが多い。代表作に『墨攻』『陋巷に在り』『』他。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%85%92%E8%A6%8B%E8%B3%A2%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=586'>周公旦</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

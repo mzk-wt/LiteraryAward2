@@ -1,0 +1,26 @@
+{
+    "id": "543",
+    "name": "植松三十里",
+    "kana": "うえまつみどり",
+    "imgUrl": "None",
+    "bornDate": "1954年11月23日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。女性。本名、植松治代。静岡県出身。日本ペンクラブ会員。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%9D%BE%E4%B8%89%E5%8D%81%E9%87%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=595'>群青 日本海軍の礎を築いた男</a>" },
+                        { "text": "第28回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

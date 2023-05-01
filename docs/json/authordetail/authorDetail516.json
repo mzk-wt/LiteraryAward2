@@ -21,6 +21,13 @@
                         { "text": "第5回 <a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=601'>バウルを探して 地球の片隅に伝わる秘密の歌</a>" },
+                        { "text": "第33回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

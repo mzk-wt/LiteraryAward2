@@ -1,0 +1,26 @@
+{
+    "id": "533",
+    "name": "吉川潮",
+    "kana": "よしかわうしお",
+    "imgUrl": "None",
+    "bornDate": "1948年8月1日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の演芸評論家、小説家、コラムニスト。妻は、粋曲（色物）の柳家小菊（落語協会所属）。日本文芸家協会会員。同人、俳号は「駄郎（だろう）」。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E6%BD%AE",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=582'>江戸前の男 春風亭柳朝一代記</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

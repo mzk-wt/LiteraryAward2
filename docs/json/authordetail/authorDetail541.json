@@ -1,0 +1,26 @@
+{
+    "id": "541",
+    "name": "諸田玲子",
+    "kana": "もろたれいこ",
+    "imgUrl": "None",
+    "bornDate": "1954年3月7日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。向田邦子の作風の影響を受けた作品も存在する。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%AB%B8%E7%94%B0%E7%8E%B2%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=593'>奸婦にあらず</a>" },
+                        { "text": "第26回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

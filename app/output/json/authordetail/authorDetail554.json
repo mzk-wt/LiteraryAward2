@@ -1,0 +1,26 @@
+{
+    "id": "554",
+    "name": "玉岡かおる",
+    "kana": "たまおかかおる",
+    "imgUrl": "None",
+    "bornDate": "1956年11月6日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "兵庫県三木市生まれの作家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%8E%89%E5%B2%A1%E3%81%8B%E3%81%8A%E3%82%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=610'>帆神 北前船を馳せた男・工楽松右衛門</a>" },
+                        { "text": "第41回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

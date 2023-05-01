@@ -1,0 +1,26 @@
+{
+    "id": "526",
+    "name": "早坂暁",
+    "kana": "はやさかあきら",
+    "imgUrl": "None",
+    "bornDate": "1929年8月11日",
+    "deadDate": "2017年12月16日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の脚本家、小説家。本名、富田祥資（とみたよしすけ）。愛媛県温泉郡北条町（現松山市）生まれ。日本大学芸術学部演劇学科卒業。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%97%A9%E5%9D%82%E6%9A%81",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=572'>華日記 昭和生け花戦国史</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

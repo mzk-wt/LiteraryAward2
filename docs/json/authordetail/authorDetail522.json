@@ -1,0 +1,26 @@
+{
+    "id": "522",
+    "name": "中野孝次",
+    "kana": "なかのこうじ",
+    "imgUrl": "None",
+    "bornDate": "1925年1月1日",
+    "deadDate": "2004年7月16日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の作家、ドイツ文学者、評論家。元國學院大學教授。主著に『』など。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E5%AD%9D%E6%AC%A1",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=567'>ハラスのいた日々</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

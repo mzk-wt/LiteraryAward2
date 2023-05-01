@@ -1,47 +1,47 @@
 {
     "awardCount": "23",
-    "authorCount": "516",
-    "bookCount": "559",
+    "authorCount": "554",
+    "bookCount": "611",
     "whatsNew": [
                                 {
-                "bookId": "546",
-                "bookTitle": "この世の喜びよ",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/41UKGgBQi9L._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=509'>井戸川射子(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
-                "createdAt": "2023/04/29"
+                "bookId": "560",
+                "bookTitle": "一瞬の夏",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51YrdD-DOmL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=518'>沢木耕太郎(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
+                "createdAt": "2023/05/01"
             }
                     ,            {
-                "bookId": "547",
-                "bookTitle": "荒地の家族",
+                "bookId": "561",
+                "bookTitle": "小さな島の明治維新 ドミンゴ松次郎の旅",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/01MKUOLsA5L._SL500_.gif",
+                "authors": "<a href='./pages/author.htm?id=519'>若城希伊子(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
+                "createdAt": "2023/05/01"
+            }
+                    ,            {
+                "bookId": "562",
+                "bookTitle": "男たちの大和",
                 "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=510'>佐藤厚志(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
-                "createdAt": "2023/04/29"
+                "authors": "<a href='./pages/author.htm?id=520'>辺見じゅん(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
+                "createdAt": "2023/05/01"
             }
                     ,            {
-                "bookId": "548",
-                "bookTitle": "おいしいごはんが食べられますように",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/41diVPyxW3L._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=511'>高瀬隼子(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
-                "createdAt": "2023/04/29"
+                "bookId": "563",
+                "bookTitle": "大君の通貨 幕末「円ドル」戦争",
+                "bookImgUrl": "",
+                "authors": "<a href='./pages/author.htm?id=297'>佐藤雅美(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
+                "createdAt": "2023/05/01"
             }
                     ,            {
-                "bookId": "549",
-                "bookTitle": "地図と拳",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51Sr6rv6gML._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=512'>小川哲(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
-                "createdAt": "2023/04/29"
-            }
-                    ,            {
-                "bookId": "550",
-                "bookTitle": "しろがねの葉",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51qNTq2Ad4L._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=513'>千早茜(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
-                "createdAt": "2023/04/29"
+                "bookId": "564",
+                "bookTitle": "責任 ラバウルの将軍今村均",
+                "bookImgUrl": "",
+                "authors": "<a href='./pages/author.htm?id=521'>角田房子(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
+                "createdAt": "2023/05/01"
             }
             ]
 }

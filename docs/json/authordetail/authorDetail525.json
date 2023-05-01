@@ -1,0 +1,26 @@
+{
+    "id": "525",
+    "name": "佐江衆一",
+    "kana": "さえしゅういち",
+    "imgUrl": "None",
+    "bornDate": "1934年1月19日",
+    "deadDate": "2020年10月29日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。第9回新田次郎文学賞受賞。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E6%B1%9F%E8%A1%86%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=571'>北の海明け</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -21,6 +21,13 @@
                         { "text": "第131回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=585'>漂泊の牙</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

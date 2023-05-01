@@ -21,6 +21,13 @@
                         { "text": "第52回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=596'>水神</a>" },
+                        { "text": "第29回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }
