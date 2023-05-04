@@ -28,6 +28,13 @@
                         { "text": "第55回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=651'>天使の卵</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
                     ]
     }
 }

@@ -1,0 +1,26 @@
+{
+    "id": "576",
+    "name": "飛鳥井千砂",
+    "kana": "あすかいちさ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "飛鳥井千砂（あすかいちさ、1979年-）は日本の小説家。北海道生まれ、愛知県稲沢市出身。神奈川県在住。飛鳥井は旧姓。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%A3%9B%E9%B3%A5%E4%BA%95%E5%8D%83%E7%A0%82",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=634'>はるがいったら</a>" },
+                        { "text": "第18回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

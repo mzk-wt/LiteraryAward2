@@ -1,0 +1,26 @@
+{
+    "id": "565",
+    "name": "中村理聖",
+    "kana": "なかむらりさと",
+    "imgUrl": "None",
+    "bornDate": "1986年6月7日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、会社員。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E7%90%86%E8%81%96",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=621'>砂漠の青がとける夜</a>" },
+                        { "text": "第27回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

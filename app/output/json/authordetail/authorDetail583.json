@@ -1,0 +1,26 @@
+{
+    "id": "583",
+    "name": "池永陽",
+    "kana": "いけながよう",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。岐阜県山県市在住。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B1%A0%E6%B0%B8%E9%99%BD",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=641'>走るジイサン</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

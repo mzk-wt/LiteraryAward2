@@ -1,0 +1,26 @@
+{
+    "id": "575",
+    "name": "水森サトリ",
+    "kana": "みずもりさとり",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の作家。東京都出身・在住。2006年、「でかい月だな」で第19回小説すばる新人賞を受賞してデビュー。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B0%B4%E6%A3%AE%E3%82%B5%E3%83%88%E3%83%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=633'>でかい月だな</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

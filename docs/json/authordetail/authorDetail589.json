@@ -1,0 +1,26 @@
+{
+    "id": "589",
+    "name": "冨士本由紀",
+    "kana": "ふじもとゆき",
+    "imgUrl": "None",
+    "bornDate": "1955年5月15日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、コピーライター。『包帯をまいたイブ』で第7回小説すばる新人賞を受賞。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%86%A8%E5%A3%AB%E6%9C%AC%E7%94%B1%E7%B4%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=649'>包帯をまいたイブ</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

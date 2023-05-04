@@ -1,47 +1,47 @@
 {
     "awardCount": "23",
-    "authorCount": "554",
-    "bookCount": "611",
+    "authorCount": "594",
+    "bookCount": "659",
     "whatsNew": [
                                 {
-                "bookId": "560",
-                "bookTitle": "一瞬の夏",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51YrdD-DOmL._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=518'>沢木耕太郎(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
-                "createdAt": "2023/05/01"
+                "bookId": "612",
+                "bookTitle": "楊花の歌",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51wlH+DOb1L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=556'>青波杏(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
+                "createdAt": "2023/05/04"
             }
                     ,            {
-                "bookId": "561",
-                "bookTitle": "小さな島の明治維新 ドミンゴ松次郎の旅",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/01MKUOLsA5L._SL500_.gif",
-                "authors": "<a href='./pages/author.htm?id=519'>若城希伊子(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
-                "createdAt": "2023/05/01"
-            }
-                    ,            {
-                "bookId": "562",
-                "bookTitle": "男たちの大和",
+                "bookId": "613",
+                "bookTitle": "コーリング・ユー",
                 "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=520'>辺見じゅん(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
-                "createdAt": "2023/05/01"
+                "authors": "<a href='./pages/author.htm?id=557'>永原皓(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
+                "createdAt": "2023/05/04"
             }
                     ,            {
-                "bookId": "563",
-                "bookTitle": "大君の通貨 幕末「円ドル」戦争",
-                "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=297'>佐藤雅美(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
-                "createdAt": "2023/05/01"
+                "bookId": "614",
+                "bookTitle": "櫓太鼓がきこえる",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51ev8gt73sL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=558'>鈴村ふみ(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
+                "createdAt": "2023/05/04"
             }
                     ,            {
-                "bookId": "564",
-                "bookTitle": "責任 ラバウルの将軍今村均",
+                "bookId": "615",
+                "bookTitle": "しゃもぬまの島",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51PQm8IITfL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=559'>上畠菜緒(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
+                "createdAt": "2023/05/04"
+            }
+                    ,            {
+                "bookId": "616",
+                "bookTitle": "言の葉は、残りて",
                 "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=521'>角田房子(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=10'>新田次郎文学賞</a>",
-                "createdAt": "2023/05/01"
+                "authors": "<a href='./pages/author.htm?id=560'>佐藤雫(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
+                "createdAt": "2023/05/04"
             }
             ]
 }

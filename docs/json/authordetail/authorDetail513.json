@@ -21,6 +21,13 @@
                         { "text": "第168回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=630'>魚神</a>" },
+                        { "text": "第21回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
                     ]
     }
 }

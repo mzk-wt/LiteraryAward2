@@ -21,6 +21,13 @@
                         { "text": "第148回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=628'>桐島、部活やめるってよ</a>" },
+                        { "text": "第22回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
                     ]
     }
 }

@@ -1,0 +1,26 @@
+{
+    "id": "561",
+    "name": "増島拓哉",
+    "kana": "ますじまたくや",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "増島拓哉（ますじまたくや、1999年-）は日本の小説家。大阪府豊能郡豊能町出身、在住。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%A2%97%E5%B3%B6%E6%8B%93%E5%93%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=617'>闇夜の底で踊れ</a>" },
+                        { "text": "第31回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

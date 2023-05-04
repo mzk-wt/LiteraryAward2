@@ -28,6 +28,13 @@
                         { "text": "第19回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=644'>ウエンカムイの爪</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
                     ]
     }
 }

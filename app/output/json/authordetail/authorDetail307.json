@@ -28,6 +28,13 @@
                         { "text": "第53回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=655'>絹の変容</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
                     ]
     }
 }

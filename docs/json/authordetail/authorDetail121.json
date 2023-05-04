@@ -21,6 +21,13 @@
                         { "text": "第119回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=656'>ゴッド・ブレイス物語</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
                     ]
     }
 }
