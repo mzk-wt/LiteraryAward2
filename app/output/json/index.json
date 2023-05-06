@@ -30,15 +30,15 @@
                     ,            {
                 "bookId": "663",
                 "bookTitle": "震雷の人",
-                "bookImgUrl": "",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51cWncL3q1L._SX343_BO1,204,203,200_.jpg",
                 "authors": "<a href='./pages/author.htm?id=599'>千葉ともこ(著)</a>",
                 "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
                 "createdAt": "2023/05/06"
             }
                     ,            {
                 "bookId": "664",
-                "bookTitle": "明治大阪へぼ侍 西南戦役遊撃壮兵実記",
-                "bookImgUrl": "None",
+                "bookTitle": "へぼ侍",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51ujH8K92rL._SX347_BO1,204,203,200_.jpg",
                 "authors": "<a href='./pages/author.htm?id=600'>坂上泉(著)</a>",
                 "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
                 "createdAt": "2023/05/06"

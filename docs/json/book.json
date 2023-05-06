@@ -3337,7 +3337,7 @@
                 "key": 370,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=371'>舟を編む</a>" },
-                    { "text": "ふね お あむ" },
+                    { "text": "ふねをあむ" },
                     { "text": "<a href='../pages/author.htm?id=331'>三浦しをん(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
                 ]
@@ -3346,7 +3346,7 @@
                 "key": 371,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=372'>海賊とよばれた男</a>" },
-                    { "text": "かいぞくとよばれたおとこげ" },
+                    { "text": "かいぞくとよばれたおとこ" },
                     { "text": "<a href='../pages/author.htm?id=369'>百田尚樹(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
                 ]
@@ -3364,7 +3364,7 @@
                 "key": 373,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=374'>鹿の王</a>" },
-                    { "text": "しかのおう みなそこのはし" },
+                    { "text": "しかのおう" },
                     { "text": "<a href='../pages/author.htm?id=371'>上橋菜穂子(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
                 ]
@@ -5938,7 +5938,7 @@
                 "key": 659,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=660'>ノウイットオール</a>" },
-                    { "text": "None" },
+                    { "text": "のういっとおーる" },
                     { "text": "<a href='../pages/author.htm?id=596'>森バジル(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
                 ]
@@ -5947,7 +5947,7 @@
                 "key": 660,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=661'>凍る大地に、絵は溶ける</a>" },
-                    { "text": "None" },
+                    { "text": "こおるだいちに、えはとける" },
                     { "text": "<a href='../pages/author.htm?id=597'>天城光琴(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
                 ]
@@ -5973,8 +5973,8 @@
                     ,            {
                 "key": 663,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=664'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" },
-                    { "text": "None" },
+                    { "text": "<a href='../pages/book.htm?id=664'>へぼ侍</a>" },
+                    { "text": "へぼざむらい" },
                     { "text": "<a href='../pages/author.htm?id=600'>坂上泉(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
                 ]
