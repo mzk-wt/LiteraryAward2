@@ -21,6 +21,13 @@
                         { "text": "第162回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=665'>天地に燦たり</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
                     ]
     }
 }

@@ -1,0 +1,26 @@
+{
+    "id": "605",
+    "name": "山口恵以子",
+    "kana": "やまぐちえいこ",
+    "imgUrl": "None",
+    "bornDate": "1958年6月6日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。東京都江戸川区出身。東京都立両国高等学校、早稲田大学第二文学部卒業。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E6%81%B5%E4%BB%A5%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=670'>月下上海</a>" },
+                        { "text": "第20回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

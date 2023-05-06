@@ -1,0 +1,26 @@
+{
+    "id": "611",
+    "name": "岩井三四二",
+    "kana": "いわいみよじ",
+    "imgUrl": "None",
+    "bornDate": "1958年8月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。本名、川合淳二（かわいじゅんじ）。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B2%A9%E4%BA%95%E4%B8%89%E5%9B%9B%E4%BA%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=680'>月ノ浦惣庄公事置書</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

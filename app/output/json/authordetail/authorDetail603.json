@@ -1,0 +1,26 @@
+{
+    "id": "603",
+    "name": "額賀澪",
+    "kana": "ぬかがみお",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。茨城県行方郡麻生町（現行方市）出身。東京都在住。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%A1%8D%E8%B3%80%E6%BE%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=668'>ウインドノーツ</a>" },
+                        { "text": "第22回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

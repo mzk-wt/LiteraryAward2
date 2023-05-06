@@ -1,0 +1,26 @@
+{
+    "id": "599",
+    "name": "千葉ともこ",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=663'>震雷の人</a>" },
+                        { "text": "第27回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

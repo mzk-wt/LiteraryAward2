@@ -21,6 +21,13 @@
                         { "text": "第154回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=672'>白樫の樹の下で</a>" },
+                        { "text": "第18回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
                     ]
     }
 }

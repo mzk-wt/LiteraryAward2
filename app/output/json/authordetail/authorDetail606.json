@@ -1,0 +1,26 @@
+{
+    "id": "606",
+    "name": "阿部智里",
+    "kana": "あべちさと",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。学位は修士（文学）（早稲田大学・2017年）。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%98%BF%E9%83%A8%E6%99%BA%E9%87%8C",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=671'>烏に単は似合わない</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

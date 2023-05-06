@@ -1,0 +1,26 @@
+{
+    "id": "609",
+    "name": "広川純",
+    "kana": "ひろかわじゅん",
+    "imgUrl": "None",
+    "bornDate": "1946年8月26日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。京都府京都市出身。名城大学法学部卒。会社勤務を経て、1986年に保険調査会社へ転職し、1988年に独立する。2006年、『一応の推定』で第13回松本清張賞受賞。選考委員会全会一致での受賞であった。2013年、『回廊の陰翳』が第1回京都本大賞で最終ノミネートされ、一般投票数で第3位となる。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%BA%83%E5%B7%9D%E7%B4%94",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=677'>一応の推定</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

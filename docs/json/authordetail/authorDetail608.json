@@ -1,0 +1,26 @@
+{
+    "id": "608",
+    "name": "牧村一人",
+    "kana": "まきむらかずひと",
+    "imgUrl": "None",
+    "bornDate": "1967年8月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家・推理作家。千葉県生まれ。多摩美術大学卒業。2006年、「俺と雌猫のレクイエム」で第45回オール讀物推理小説新人賞を受賞。2009年、『アダマースの饗宴』（応募時のタイトルは「六本木心中」）で第16回松本清張賞を受賞し作家デビュー。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%89%A7%E6%9D%91%E4%B8%80%E4%BA%BA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=674'>アダマースの饗宴</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

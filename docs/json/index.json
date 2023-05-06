@@ -1,47 +1,47 @@
 {
     "awardCount": "23",
-    "authorCount": "594",
-    "bookCount": "659",
+    "authorCount": "618",
+    "bookCount": "688",
     "whatsNew": [
                                 {
-                "bookId": "612",
-                "bookTitle": "楊花の歌",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51wlH+DOb1L._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=556'>青波杏(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
-                "createdAt": "2023/05/04"
+                "bookId": "660",
+                "bookTitle": "ノウイットオール",
+                "bookImgUrl": "None",
+                "authors": "<a href='./pages/author.htm?id=596'>森バジル(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
+                "createdAt": "2023/05/06"
             }
                     ,            {
-                "bookId": "613",
-                "bookTitle": "コーリング・ユー",
+                "bookId": "661",
+                "bookTitle": "凍る大地に、絵は溶ける",
+                "bookImgUrl": "None",
+                "authors": "<a href='./pages/author.htm?id=597'>天城光琴(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
+                "createdAt": "2023/05/06"
+            }
+                    ,            {
+                "bookId": "662",
+                "bookTitle": "万事快調",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/61JTcmu50PS._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=598'>波木銅(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
+                "createdAt": "2023/05/06"
+            }
+                    ,            {
+                "bookId": "663",
+                "bookTitle": "震雷の人",
                 "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=557'>永原皓(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
-                "createdAt": "2023/05/04"
+                "authors": "<a href='./pages/author.htm?id=599'>千葉ともこ(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
+                "createdAt": "2023/05/06"
             }
                     ,            {
-                "bookId": "614",
-                "bookTitle": "櫓太鼓がきこえる",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51ev8gt73sL._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=558'>鈴村ふみ(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
-                "createdAt": "2023/05/04"
-            }
-                    ,            {
-                "bookId": "615",
-                "bookTitle": "しゃもぬまの島",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51PQm8IITfL._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=559'>上畠菜緒(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
-                "createdAt": "2023/05/04"
-            }
-                    ,            {
-                "bookId": "616",
-                "bookTitle": "言の葉は、残りて",
-                "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=560'>佐藤雫(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=11'>小説すばる新人賞</a>",
-                "createdAt": "2023/05/04"
+                "bookId": "664",
+                "bookTitle": "明治大阪へぼ侍 西南戦役遊撃壮兵実記",
+                "bookImgUrl": "None",
+                "authors": "<a href='./pages/author.htm?id=600'>坂上泉(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
+                "createdAt": "2023/05/06"
             }
             ]
 }

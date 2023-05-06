@@ -21,6 +21,13 @@
                         { "text": "第42回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=675'>一朝の夢</a>" },
+                        { "text": "第15回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
                     ]
     }
 }

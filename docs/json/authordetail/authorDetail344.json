@@ -21,6 +21,13 @@
                         { "text": "第146回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=676'>銀漢の賦</a>" },
+                        { "text": "第14回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
                     ]
     }
 }
