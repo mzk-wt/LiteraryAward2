@@ -1,0 +1,26 @@
+{
+    "id": "627",
+    "name": "鳴神響一",
+    "kana": "なるかみきょういち",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。2014年に『私が愛したサムライの娘』（受賞時タイトル『蜃気楼の如く』）で、第6回角川春樹小説賞を受賞し作家デビューする。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%B3%B4%E7%A5%9E%E9%9F%BF%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=698'>私が愛したサムライの娘</a>" },
+                        { "text": "第6回 <a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -6195,5 +6195,140 @@
                     { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
                 ]
             }
+                    ,            {
+                "key": 688,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=689'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" },
+                    { "text": "None" },
+                    { "text": "<a href='../pages/author.htm?id=600'>坂上泉(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 689,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=690'>写楽女</a>" },
+                    { "text": "しゃらくめ" },
+                    { "text": "<a href='../pages/author.htm?id=620'>森明日香(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 690,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=691'>駆ける　少年騎馬遊撃隊</a>" },
+                    { "text": "かける　に　しょうねんきばゆうげきたい" },
+                    { "text": "<a href='../pages/author.htm?id=621'>稲田幸久(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 691,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=692'>質草女房</a>" },
+                    { "text": "しちぐさにょうぼう" },
+                    { "text": "<a href='../pages/author.htm?id=622'>渋谷雅一(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 692,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=693'>ブラックシープ・キーパー</a>" },
+                    { "text": "ぶらっくしーぷきーぱー" },
+                    { "text": "<a href='../pages/author.htm?id=623'>柿本みづほ(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 693,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=694'>童の神</a>" },
+                    { "text": "わらべのかみ" },
+                    { "text": "<a href='../pages/author.htm?id=496'>今村翔吾(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 694,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=695'>乱世をゆけ</a>" },
+                    { "text": "らんせをゆけおだのあだばなたきがわかずます" },
+                    { "text": "<a href='../pages/author.htm?id=624'>佐々木功(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 695,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=696'>横濱つんてんらいら</a>" },
+                    { "text": "よこはま つんてん らいら" },
+                    { "text": "<a href='../pages/author.htm?id=625'>橘沙羅(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 696,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=697'>シンデレラの告白</a>" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/author.htm?id=626'>櫻部由美子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 697,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=698'>私が愛したサムライの娘</a>" },
+                    { "text": "わたし が あいした さむらい の むすめ" },
+                    { "text": "<a href='../pages/author.htm?id=627'>鳴神響一(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 698,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=699'>晩夏光</a>" },
+                    { "text": "ばんかこう" },
+                    { "text": "<a href='../pages/author.htm?id=628'>池田久輝(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 699,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=700'>妖国の剣士</a>" },
+                    { "text": "しんそうばん　ろうじゅつしのわな　ようこくのけんし　さん" },
+                    { "text": "<a href='../pages/author.htm?id=629'>知野みさき(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 700,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=701'>新小岩パラダイス</a>" },
+                    { "text": "しんこいわ ぱらだいす" },
+                    { "text": "<a href='../pages/author.htm?id=630'>又井健太(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 701,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=702'>血路　南稜七ツ家秘録</a>" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/author.htm?id=631'>長谷川卓(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 702,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=703'>ひらめきの風　黎明篇</a>" },
+                    { "text": "None" },
+                    { "text": "<a href='../pages/author.htm?id=632'>辻昌利(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
             ]
 }

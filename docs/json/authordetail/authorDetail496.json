@@ -21,6 +21,13 @@
                         { "text": "第166回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=694'>童の神</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                    ]
+                }
                     ]
     }
 }

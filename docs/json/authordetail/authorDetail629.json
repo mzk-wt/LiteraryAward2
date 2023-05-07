@@ -1,0 +1,26 @@
+{
+    "id": "629",
+    "name": "知野みさき",
+    "kana": "ちのみさき",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、ファンタジー作家。千葉県君津市出身。富津市で小中高校を過ごす。ミネソタ大学を卒業する。東京都でウェブ編集の仕事に携わった後、カナダに渡る。バンクーバー在住。五大銀行の1つで内部監査部員を務める。2010年、『連翹荘綺譚』が第5回ポプラ社小説大賞の最終候補作に選ばれる。2012年、鈴木みく名義で応募した『加羅の風』で第4回角川春樹小説賞を受賞する。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%9F%A5%E9%87%8E%E3%81%BF%E3%81%95%E3%81%8D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=700'>妖国の剣士</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

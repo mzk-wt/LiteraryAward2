@@ -1,0 +1,26 @@
+{
+    "id": "624",
+    "name": "佐々木功",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "佐々木功<br>*歌手・俳優・声優のささきいさおの本名、旧芸名。<br>*<br>*",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E5%8A%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=695'>乱世をゆけ</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

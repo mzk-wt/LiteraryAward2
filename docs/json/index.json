@@ -1,47 +1,47 @@
 {
     "awardCount": "23",
-    "authorCount": "618",
-    "bookCount": "688",
+    "authorCount": "631",
+    "bookCount": "703",
     "whatsNew": [
                                 {
-                "bookId": "660",
-                "bookTitle": "ノウイットオール",
+                "bookId": "689",
+                "bookTitle": "明治大阪へぼ侍 西南戦役遊撃壮兵実記",
                 "bookImgUrl": "None",
-                "authors": "<a href='./pages/author.htm?id=596'>森バジル(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
-                "createdAt": "2023/05/06"
-            }
-                    ,            {
-                "bookId": "661",
-                "bookTitle": "凍る大地に、絵は溶ける",
-                "bookImgUrl": "None",
-                "authors": "<a href='./pages/author.htm?id=597'>天城光琴(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
-                "createdAt": "2023/05/06"
-            }
-                    ,            {
-                "bookId": "662",
-                "bookTitle": "万事快調",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/61JTcmu50PS._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=598'>波木銅(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
-                "createdAt": "2023/05/06"
-            }
-                    ,            {
-                "bookId": "663",
-                "bookTitle": "震雷の人",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51cWncL3q1L._SX343_BO1,204,203,200_.jpg",
-                "authors": "<a href='./pages/author.htm?id=599'>千葉ともこ(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
-                "createdAt": "2023/05/06"
-            }
-                    ,            {
-                "bookId": "664",
-                "bookTitle": "へぼ侍",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51ujH8K92rL._SX347_BO1,204,203,200_.jpg",
                 "authors": "<a href='./pages/author.htm?id=600'>坂上泉(著)</a>",
                 "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
-                "createdAt": "2023/05/06"
+                "createdAt": "2023/05/07"
+            }
+                    ,            {
+                "bookId": "690",
+                "bookTitle": "写楽女",
+                "bookImgUrl": "",
+                "authors": "<a href='./pages/author.htm?id=620'>森明日香(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
+                "createdAt": "2023/05/07"
+            }
+                    ,            {
+                "bookId": "691",
+                "bookTitle": "駆ける　少年騎馬遊撃隊",
+                "bookImgUrl": "",
+                "authors": "<a href='./pages/author.htm?id=621'>稲田幸久(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
+                "createdAt": "2023/05/07"
+            }
+                    ,            {
+                "bookId": "692",
+                "bookTitle": "質草女房",
+                "bookImgUrl": "",
+                "authors": "<a href='./pages/author.htm?id=622'>渋谷雅一(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
+                "createdAt": "2023/05/07"
+            }
+                    ,            {
+                "bookId": "693",
+                "bookTitle": "ブラックシープ・キーパー",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51I6CRToG1L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=623'>柿本みづほ(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
+                "createdAt": "2023/05/07"
             }
             ]
 }

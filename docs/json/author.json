@@ -4455,7 +4455,7 @@
                     { "text": "<a href='../pages/author.htm?id=496'>今村翔吾</a>" },
                     { "text": "いまむらしょうご" },
                     { "text": "日本" },
-                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>、<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
                 ]
             }
                     ,            {
@@ -5391,7 +5391,7 @@
                     { "text": "<a href='../pages/author.htm?id=600'>坂上泉</a>" },
                     { "text": "さかがみいずみ" },
                     { "text": "日本" },
-                    { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>、<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
                 ]
             }
                     ,            {
@@ -5563,6 +5563,123 @@
                     { "text": "はじえいさい" },
                     { "text": "日本" },
                     { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 618,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=620'>森明日香</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 619,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=621'>稲田幸久</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 620,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=622'>渋谷雅一</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 621,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=623'>柿本みづほ</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 622,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=624'>佐々木功</a>" },
+                    { "text": "" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 623,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=625'>橘沙羅</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 624,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=626'>櫻部由美子</a>" },
+                    { "text": "" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 625,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=627'>鳴神響一</a>" },
+                    { "text": "なるかみきょういち" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 626,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=628'>池田久輝</a>" },
+                    { "text": "いけだひさき" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 627,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=629'>知野みさき</a>" },
+                    { "text": "ちのみさき" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 628,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=630'>又井健太</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 629,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=631'>長谷川卓</a>" },
+                    { "text": "はせがわたく" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 630,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=632'>辻昌利</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
                 ]
             }
             ]
