@@ -57,7 +57,7 @@
                         { "text": "26" },
                         { "text": "2019" },
                         { "text": "<a href='../pages/author.htm?id=600'>坂上泉</a>" },
-                        { "text": "<a href='../pages/book.htm?id=664'>へぼ侍</a>" }
+                        { "text": "<a href='../pages/book.htm?id=664'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" }
                     ]
                 }
                             ,                {
@@ -283,15 +283,6 @@
                         { "text": "1994" },
                         { "text": "<a href='../pages/author.htm?id=619'>葉治英哉</a>" },
                         { "text": "<a href='../pages/book.htm?id=688'>物見隊顛末</a>" }
-                    ]
-                }
-                            ,                {
-                    "key": 30,
-                    "value": [
-                        { "text": "26" },
-                        { "text": "2019" },
-                        { "text": "<a href='../pages/author.htm?id=600'>坂上泉</a>" },
-                        { "text": "<a href='../pages/book.htm?id=689'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" }
                     ]
                 }
                     ]

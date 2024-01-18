@@ -1923,6 +1923,24 @@
                         { "text": "<a href='../pages/book.htm?id=548'>おいしいごはんが食べられますように</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 212,
+                    "value": [
+                        { "text": "169" },
+                        { "text": "2023年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=633'>市川沙央</a>" },
+                        { "text": "<a href='../pages/book.htm?id=704'>ハンチバック</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 213,
+                    "value": [
+                        { "text": "170" },
+                        { "text": "2023年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=637'>九段理江</a>" },
+                        { "text": "<a href='../pages/book.htm?id=709'>東京都同情塔</a>" }
+                    ]
+                }
                     ]
     }
 }

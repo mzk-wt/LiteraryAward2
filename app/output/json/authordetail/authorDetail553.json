@@ -21,6 +21,13 @@
                         { "text": "第40回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=706'>木挽町のあだ討ち</a>" },
+                        { "text": "第169回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
                     ]
     }
 }

@@ -168,6 +168,15 @@
                         { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 17,
+                    "value": [
+                        { "text": "17" },
+                        { "text": "2024年" },
+                        { "text": "<a href='../pages/author.htm?id=517'>とよ田みのる</a>" },
+                        { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" }
+                    ]
+                }
                     ]
     }
 }

@@ -21,6 +21,13 @@
                         { "text": "第16回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" },
+                        { "text": "第17回 <a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    ]
+                }
                     ]
     }
 }

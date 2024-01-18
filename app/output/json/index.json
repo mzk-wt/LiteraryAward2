@@ -1,47 +1,47 @@
 {
     "awardCount": "23",
-    "authorCount": "631",
-    "bookCount": "703",
+    "authorCount": "637",
+    "bookCount": "710",
     "whatsNew": [
                                 {
-                "bookId": "689",
-                "bookTitle": "明治大阪へぼ侍 西南戦役遊撃壮兵実記",
-                "bookImgUrl": "None",
-                "authors": "<a href='./pages/author.htm?id=600'>坂上泉(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=12'>松本清張賞</a>",
-                "createdAt": "2023/05/07"
+                "bookId": "709",
+                "bookTitle": "東京都同情塔",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/411Xe1qEvYL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=637'>九段理江(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2024/01/18"
             }
                     ,            {
-                "bookId": "690",
-                "bookTitle": "写楽女",
+                "bookId": "710",
+                "bookTitle": "ともぐい",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/418iaXjwv7L._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=552'>河﨑秋子(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2024/01/18"
+            }
+                    ,            {
+                "bookId": "711",
+                "bookTitle": "八月の御所グラウンド",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/519JJRlApNL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=638'>万城目学(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2024/01/18"
+            }
+                    ,            {
+                "bookId": "704",
+                "bookTitle": "ハンチバック",
+                "bookImgUrl": "https://m.media-amazon.com/images/I/51pnlczk2NL._SL500_.jpg",
+                "authors": "<a href='./pages/author.htm?id=633'>市川沙央(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=1'>芥川龍之介賞</a>",
+                "createdAt": "2024/01/05"
+            }
+                    ,            {
+                "bookId": "705",
+                "bookTitle": "極楽征夷大将軍",
                 "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=620'>森明日香(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
-                "createdAt": "2023/05/07"
-            }
-                    ,            {
-                "bookId": "691",
-                "bookTitle": "駆ける　少年騎馬遊撃隊",
-                "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=621'>稲田幸久(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
-                "createdAt": "2023/05/07"
-            }
-                    ,            {
-                "bookId": "692",
-                "bookTitle": "質草女房",
-                "bookImgUrl": "",
-                "authors": "<a href='./pages/author.htm?id=622'>渋谷雅一(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
-                "createdAt": "2023/05/07"
-            }
-                    ,            {
-                "bookId": "693",
-                "bookTitle": "ブラックシープ・キーパー",
-                "bookImgUrl": "https://m.media-amazon.com/images/I/51I6CRToG1L._SL500_.jpg",
-                "authors": "<a href='./pages/author.htm?id=623'>柿本みづほ(著)</a>",
-                "awards": "<a href='./pages/award.htm?id=13'>角川春樹小説賞</a>",
-                "createdAt": "2023/05/07"
+                "authors": "<a href='./pages/author.htm?id=634'>垣根涼介(著)</a>",
+                "awards": "<a href='./pages/award.htm?id=2'>直木三十五賞</a>",
+                "createdAt": "2024/01/05"
             }
             ]
 }

@@ -17,14 +17,7 @@
                                             {
                     "key": 0,
                     "value": [
-                        { "text": "<a href='../pages/book.htm?id=664'>へぼ侍</a>" },
-                        { "text": "第26回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
-                    ]
-                }
-                            ,                {
-                    "key": 1,
-                    "value": [
-                        { "text": "<a href='../pages/book.htm?id=689'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" },
+                        { "text": "<a href='../pages/book.htm?id=664'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" },
                         { "text": "第26回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
                     ]
                 }

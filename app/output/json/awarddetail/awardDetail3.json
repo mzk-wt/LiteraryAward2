@@ -186,6 +186,15 @@
                         { "text": "<a href='../pages/book.htm?id=552'>同志少女よ、敵を撃て</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 19,
+                    "value": [
+                        { "text": "20" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=374'>凪良ゆう</a>" },
+                        { "text": "<a href='../pages/book.htm?id=707'>汝、星のごとく</a>" }
+                    ]
+                }
                     ]
     }
 }

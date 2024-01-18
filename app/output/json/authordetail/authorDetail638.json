@@ -1,0 +1,26 @@
+{
+    "id": "638",
+    "name": "万城目学",
+    "kana": "まきめまなぶ",
+    "imgUrl": "None",
+    "bornDate": "1976年2月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。大阪府出身、東京都在住。京都大学法学部卒業。『鴨川ホルモー』『プリンセス・トヨトミ』などの、実在の事物や日常の中に奇想天外な非日常性を持ち込むファンタジー小説で知られ、作風は「万城目ワールド」と呼ばれる。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%87%E5%9F%8E%E7%9B%AE%E5%AD%A6",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=711'>八月の御所グラウンド</a>" },
+                        { "text": "第170回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "633",
+    "name": "市川沙央",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=704'>ハンチバック</a>" },
+                        { "text": "第169回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

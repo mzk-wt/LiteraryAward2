@@ -5004,7 +5004,7 @@
                     { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" },
                     { "text": "これかいてしね" },
                     { "text": "<a href='../pages/author.htm?id=517'>とよ田みのる(著)</a>" },
-                    { "text": "<a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=7'>マンガ大賞</a>、<a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
                 ]
             }
                     ,            {
@@ -5973,7 +5973,7 @@
                     ,            {
                 "key": 663,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=664'>へぼ侍</a>" },
+                    { "text": "<a href='../pages/book.htm?id=664'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" },
                     { "text": "へぼざむらい" },
                     { "text": "<a href='../pages/author.htm?id=600'>坂上泉(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
@@ -6198,15 +6198,6 @@
                     ,            {
                 "key": 688,
                 "value": [
-                    { "text": "<a href='../pages/book.htm?id=689'>明治大阪へぼ侍 西南戦役遊撃壮兵実記</a>" },
-                    { "text": "None" },
-                    { "text": "<a href='../pages/author.htm?id=600'>坂上泉(著)</a>" },
-                    { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
-                ]
-            }
-                    ,            {
-                "key": 689,
-                "value": [
                     { "text": "<a href='../pages/book.htm?id=690'>写楽女</a>" },
                     { "text": "しゃらくめ" },
                     { "text": "<a href='../pages/author.htm?id=620'>森明日香(著)</a>" },
@@ -6214,7 +6205,7 @@
                 ]
             }
                     ,            {
-                "key": 690,
+                "key": 689,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=691'>駆ける　少年騎馬遊撃隊</a>" },
                     { "text": "かける　に　しょうねんきばゆうげきたい" },
@@ -6223,7 +6214,7 @@
                 ]
             }
                     ,            {
-                "key": 691,
+                "key": 690,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=692'>質草女房</a>" },
                     { "text": "しちぐさにょうぼう" },
@@ -6232,7 +6223,7 @@
                 ]
             }
                     ,            {
-                "key": 692,
+                "key": 691,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=693'>ブラックシープ・キーパー</a>" },
                     { "text": "ぶらっくしーぷきーぱー" },
@@ -6241,7 +6232,7 @@
                 ]
             }
                     ,            {
-                "key": 693,
+                "key": 692,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=694'>童の神</a>" },
                     { "text": "わらべのかみ" },
@@ -6250,7 +6241,7 @@
                 ]
             }
                     ,            {
-                "key": 694,
+                "key": 693,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=695'>乱世をゆけ</a>" },
                     { "text": "らんせをゆけおだのあだばなたきがわかずます" },
@@ -6259,7 +6250,7 @@
                 ]
             }
                     ,            {
-                "key": 695,
+                "key": 694,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=696'>横濱つんてんらいら</a>" },
                     { "text": "よこはま つんてん らいら" },
@@ -6268,7 +6259,7 @@
                 ]
             }
                     ,            {
-                "key": 696,
+                "key": 695,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=697'>シンデレラの告白</a>" },
                     { "text": "" },
@@ -6277,7 +6268,7 @@
                 ]
             }
                     ,            {
-                "key": 697,
+                "key": 696,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=698'>私が愛したサムライの娘</a>" },
                     { "text": "わたし が あいした さむらい の むすめ" },
@@ -6286,7 +6277,7 @@
                 ]
             }
                     ,            {
-                "key": 698,
+                "key": 697,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=699'>晩夏光</a>" },
                     { "text": "ばんかこう" },
@@ -6295,7 +6286,7 @@
                 ]
             }
                     ,            {
-                "key": 699,
+                "key": 698,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=700'>妖国の剣士</a>" },
                     { "text": "しんそうばん　ろうじゅつしのわな　ようこくのけんし　さん" },
@@ -6304,7 +6295,7 @@
                 ]
             }
                     ,            {
-                "key": 700,
+                "key": 699,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=701'>新小岩パラダイス</a>" },
                     { "text": "しんこいわ ぱらだいす" },
@@ -6313,7 +6304,7 @@
                 ]
             }
                     ,            {
-                "key": 701,
+                "key": 700,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=702'>血路　南稜七ツ家秘録</a>" },
                     { "text": "" },
@@ -6322,12 +6313,84 @@
                 ]
             }
                     ,            {
-                "key": 702,
+                "key": 701,
                 "value": [
                     { "text": "<a href='../pages/book.htm?id=703'>ひらめきの風　黎明篇</a>" },
                     { "text": "None" },
                     { "text": "<a href='../pages/author.htm?id=632'>辻昌利(著)</a>" },
                     { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 702,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=704'>ハンチバック</a>" },
+                    { "text": "はんちばっく" },
+                    { "text": "<a href='../pages/author.htm?id=633'>市川沙央(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 703,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=705'>極楽征夷大将軍</a>" },
+                    { "text": "ごくらくせいいたいしょうぐん" },
+                    { "text": "<a href='../pages/author.htm?id=634'>垣根涼介(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 704,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=706'>木挽町のあだ討ち</a>" },
+                    { "text": "こびきちょうのあだうち" },
+                    { "text": "<a href='../pages/author.htm?id=553'>永井紗耶子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 705,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=707'>汝、星のごとく</a>" },
+                    { "text": "なんじ、ほしのごとく" },
+                    { "text": "<a href='../pages/author.htm?id=374'>凪良ゆう(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 706,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=708'>われら闇より天を見る</a>" },
+                    { "text": "われらやみよりてんをみる" },
+                    { "text": "<a href='../pages/author.htm?id=635'>クリス・ウィタカー(著)</a>、<a href='../pages/author.htm?id=636'>鈴木恵(訳)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>、<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                ]
+            }
+                    ,            {
+                "key": 707,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=709'>東京都同情塔</a>" },
+                    { "text": "とうきょうとどうじょうとう" },
+                    { "text": "<a href='../pages/author.htm?id=637'>九段理江(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 708,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=710'>ともぐい</a>" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/author.htm?id=552'>河﨑秋子(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 709,
+                "value": [
+                    { "text": "<a href='../pages/book.htm?id=711'>八月の御所グラウンド</a>" },
+                    { "text": "はちがつのごしょぐらうんど" },
+                    { "text": "<a href='../pages/author.htm?id=638'>万城目学(著)</a>" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                 ]
             }
             ]

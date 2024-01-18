@@ -3366,7 +3366,7 @@
                     { "text": "<a href='../pages/author.htm?id=374'>凪良ゆう</a>" },
                     { "text": "なぎらゆう" },
                     { "text": "日本" },
-                    { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=3'>本屋大賞</a>、<a href='../pages/award.htm?id=3'>本屋大賞</a>" }
                 ]
             }
                     ,            {
@@ -4644,7 +4644,7 @@
                     { "text": "<a href='../pages/author.htm?id=517'>とよ田みのる</a>" },
                     { "text": "とよだみのる" },
                     { "text": "" },
-                    { "text": "<a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=7'>マンガ大賞</a>、<a href='../pages/award.htm?id=7'>マンガ大賞</a>" }
                 ]
             }
                     ,            {
@@ -4959,7 +4959,7 @@
                     { "text": "<a href='../pages/author.htm?id=552'>河﨑秋子</a>" },
                     { "text": "None" },
                     { "text": "日本" },
-                    { "text": "<a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=10'>新田次郎文学賞</a>、<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                 ]
             }
                     ,            {
@@ -4968,7 +4968,7 @@
                     { "text": "<a href='../pages/author.htm?id=553'>永井紗耶子</a>" },
                     { "text": "ながいさやこ" },
                     { "text": "日本" },
-                    { "text": "<a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=10'>新田次郎文学賞</a>、<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                 ]
             }
                     ,            {
@@ -5391,7 +5391,7 @@
                     { "text": "<a href='../pages/author.htm?id=600'>坂上泉</a>" },
                     { "text": "さかがみいずみ" },
                     { "text": "日本" },
-                    { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>、<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    { "text": "<a href='../pages/award.htm?id=12'>松本清張賞</a>" }
                 ]
             }
                     ,            {
@@ -5680,6 +5680,60 @@
                     { "text": "None" },
                     { "text": "日本" },
                     { "text": "<a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 631,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=633'>市川沙央</a>" },
+                    { "text": "None" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 632,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=634'>垣根涼介</a>" },
+                    { "text": "かきねりょうすけ" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 633,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=635'>クリス・ウィタカー</a>" },
+                    { "text": "None" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                ]
+            }
+                    ,            {
+                "key": 634,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=636'>鈴木恵</a>" },
+                    { "text": "すずきめぐみ" },
+                    { "text": "" },
+                    { "text": "<a href='../pages/award.htm?id=5'>本屋大賞（翻訳小説部門）</a>" }
+                ]
+            }
+                    ,            {
+                "key": 635,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=637'>九段理江</a>" },
+                    { "text": "くだんりえ" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                ]
+            }
+                    ,            {
+                "key": 636,
+                "value": [
+                    { "text": "<a href='../pages/author.htm?id=638'>万城目学</a>" },
+                    { "text": "まきめまなぶ" },
+                    { "text": "日本" },
+                    { "text": "<a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
                 ]
             }
             ]

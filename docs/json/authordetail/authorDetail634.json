@@ -1,0 +1,26 @@
+{
+    "id": "634",
+    "name": "垣根涼介",
+    "kana": "かきねりょうすけ",
+    "imgUrl": "None",
+    "bornDate": "1966年4月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。長崎県諫早市生まれ。長崎県立諫早高等学校、筑波大学第二学群人間学類卒。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%9E%A3%E6%A0%B9%E6%B6%BC%E4%BB%8B",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=705'>極楽征夷大将軍</a>" },
+                        { "text": "第169回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -213,6 +213,24 @@
                         { "text": "<a href='../pages/book.htm?id=554'>三十の反撃</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 22,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=635'>クリス・ウィタカー</a>" },
+                        { "text": "<a href='../pages/book.htm?id=708'>われら闇より天を見る</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 23,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=636'>鈴木恵</a>" },
+                        { "text": "<a href='../pages/book.htm?id=708'>われら闇より天を見る</a>" }
+                    ]
+                }
                     ]
     }
 }
