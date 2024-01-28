@@ -1,0 +1,26 @@
+{
+    "id": "542",
+    "name": "見延典子",
+    "kana": "みのべのりこ",
+    "imgUrl": "None",
+    "bornDate": "1955年8月2日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。現姓・豊田。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%A6%8B%E5%BB%B6%E5%85%B8%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=594'>頼山陽</a>" },
+                        { "text": "第27回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

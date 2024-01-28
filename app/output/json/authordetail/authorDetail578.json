@@ -1,0 +1,26 @@
+{
+    "id": "578",
+    "name": "山本幸久",
+    "kana": "やまもとゆきひさ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "東京都八王子市出身の日本の小説家である。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E5%B9%B8%E4%B9%85",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=636'>笑う招き猫</a>" },
+                        { "text": "第16回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

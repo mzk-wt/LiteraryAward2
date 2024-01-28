@@ -1,0 +1,26 @@
+{
+    "id": "514",
+    "name": "窪美澄",
+    "kana": "くぼみすみ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。日本ペンクラブ会員。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%AA%AA%E7%BE%8E%E6%BE%84",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=551'>夜に星を放つ</a>" },
+                        { "text": "第167回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

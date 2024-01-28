@@ -1,0 +1,26 @@
+{
+    "id": "540",
+    "name": "真保裕一",
+    "kana": "しんぽゆういち",
+    "imgUrl": "None",
+    "bornDate": "1961年5月24日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、脚本家、元アニメーター。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%9C%9F%E4%BF%9D%E8%A3%95%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=592'>灰色の北壁</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

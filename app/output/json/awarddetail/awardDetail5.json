@@ -177,6 +177,60 @@
                         { "text": "<a href='../pages/book.htm?id=470'>ア－モンド</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 18,
+                    "value": [
+                        { "text": "10" },
+                        { "text": "2021年" },
+                        { "text": "<a href='../pages/author.htm?id=503'>ディーリア・オーエンズ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=542'>ザリガニの鳴くところ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 19,
+                    "value": [
+                        { "text": "10" },
+                        { "text": "2021年" },
+                        { "text": "<a href='../pages/author.htm?id=504'>友廣純</a>" },
+                        { "text": "<a href='../pages/book.htm?id=542'>ザリガニの鳴くところ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 20,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=476'>ソン・ウォンピョン</a>" },
+                        { "text": "<a href='../pages/book.htm?id=554'>三十の反撃</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 21,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=477'>矢島暁子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=554'>三十の反撃</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 22,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=635'>クリス・ウィタカー</a>" },
+                        { "text": "<a href='../pages/book.htm?id=708'>われら闇より天を見る</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 23,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=636'>鈴木恵</a>" },
+                        { "text": "<a href='../pages/book.htm?id=708'>われら闇より天を見る</a>" }
+                    ]
+                }
                     ]
     }
 }

@@ -21,6 +21,13 @@
                         { "text": "第79回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=575'>友子</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

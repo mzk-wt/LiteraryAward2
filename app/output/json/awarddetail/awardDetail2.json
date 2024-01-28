@@ -2049,6 +2049,69 @@
                         { "text": "<a href='../pages/book.htm?id=538'>心淋し川</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 226,
+                    "value": [
+                        { "text": "168" },
+                        { "text": "2022年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=512'>小川哲</a>" },
+                        { "text": "<a href='../pages/book.htm?id=549'>地図と拳</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 227,
+                    "value": [
+                        { "text": "168" },
+                        { "text": "2022年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=513'>千早茜</a>" },
+                        { "text": "<a href='../pages/book.htm?id=550'>しろがねの葉</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 228,
+                    "value": [
+                        { "text": "167" },
+                        { "text": "2022年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=514'>窪美澄</a>" },
+                        { "text": "<a href='../pages/book.htm?id=551'>夜に星を放つ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 229,
+                    "value": [
+                        { "text": "169" },
+                        { "text": "2023年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=634'>垣根涼介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=705'>極楽征夷大将軍</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 230,
+                    "value": [
+                        { "text": "169" },
+                        { "text": "2023年上半期" },
+                        { "text": "<a href='../pages/author.htm?id=553'>永井紗耶子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=706'>木挽町のあだ討ち</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 231,
+                    "value": [
+                        { "text": "170" },
+                        { "text": "2023年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=552'>河﨑秋子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=710'>ともぐい</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 232,
+                    "value": [
+                        { "text": "170" },
+                        { "text": "2023年下半期" },
+                        { "text": "<a href='../pages/author.htm?id=638'>万城目学</a>" },
+                        { "text": "<a href='../pages/book.htm?id=711'>八月の御所グラウンド</a>" }
+                    ]
+                }
                     ]
     }
 }

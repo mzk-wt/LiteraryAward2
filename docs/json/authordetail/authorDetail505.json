@@ -1,0 +1,26 @@
+{
+    "id": "505",
+    "name": "上間陽子",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "None",
+    "countryName": "",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=543'>海をあげる</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" }
+                    ]
+                }
+                    ]
+    }
+}

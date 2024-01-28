@@ -1,0 +1,26 @@
+{
+    "id": "607",
+    "name": "村木嵐",
+    "kana": "むらきらん",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%91%E6%9C%A8%E5%B5%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=673'>マルガリータ</a>" },
+                        { "text": "第17回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

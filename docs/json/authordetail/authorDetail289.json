@@ -28,6 +28,13 @@
                         { "text": "第35回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=573'>天空の舟 小説・伊尹伝</a>" },
+                        { "text": "第10回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

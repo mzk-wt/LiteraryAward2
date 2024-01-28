@@ -1,0 +1,26 @@
+{
+    "id": "628",
+    "name": "池田久輝",
+    "kana": "いけだひさき",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家であり、脚本家。脚本家としては池田長十（いけだちょうじゅう）名義で活動している。京都府乙訓郡大山崎町生まれ。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0%E4%B9%85%E8%BC%9D",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=699'>晩夏光</a>" },
+                        { "text": "第5回 <a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

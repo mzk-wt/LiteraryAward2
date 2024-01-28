@@ -57,7 +57,7 @@
                         { "text": "5" },
                         { "text": "2012年" },
                         { "text": "<a href='../pages/author.htm?id=382'>荒川弘</a>" },
-                        { "text": "<a href='../pages/book.htm?id=386'>銀の匙　Silver Spoon</a>" }
+                        { "text": "<a href='../pages/book.htm?id=386'>銀の匙 Silver Spoon</a>" }
                     ]
                 }
                             ,                {
@@ -102,7 +102,7 @@
                         { "text": "10" },
                         { "text": "2017年" },
                         { "text": "<a href='../pages/author.htm?id=387'>柳本光晴</a>" },
-                        { "text": "<a href='../pages/book.htm?id=391'>響〜小説家になる方法〜</a>" }
+                        { "text": "<a href='../pages/book.htm?id=391'>響～小説家になる方法～</a>" }
                     ]
                 }
                             ,                {
@@ -130,6 +130,51 @@
                         { "text": "2020年" },
                         { "text": "<a href='../pages/author.htm?id=390'>山口つばさ</a>" },
                         { "text": "<a href='../pages/book.htm?id=394'>ブルーピリオド</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 13,
+                    "value": [
+                        { "text": "14" },
+                        { "text": "2021年" },
+                        { "text": "<a href='../pages/author.htm?id=506'>山田鐘人</a>" },
+                        { "text": "<a href='../pages/book.htm?id=544'>葬送のフリーレン</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 14,
+                    "value": [
+                        { "text": "14" },
+                        { "text": "2021年" },
+                        { "text": "<a href='../pages/author.htm?id=507'>アベツカサ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=544'>葬送のフリーレン</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 15,
+                    "value": [
+                        { "text": "15" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=508'>うめざわしゅん</a>" },
+                        { "text": "<a href='../pages/book.htm?id=545'>ダーウィン事変</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 16,
+                    "value": [
+                        { "text": "16" },
+                        { "text": "2023年" },
+                        { "text": "<a href='../pages/author.htm?id=517'>とよ田みのる</a>" },
+                        { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 17,
+                    "value": [
+                        { "text": "17" },
+                        { "text": "2024年" },
+                        { "text": "<a href='../pages/author.htm?id=517'>とよ田みのる</a>" },
+                        { "text": "<a href='../pages/book.htm?id=556'>これ描いて死ね</a>" }
                     ]
                 }
                     ]

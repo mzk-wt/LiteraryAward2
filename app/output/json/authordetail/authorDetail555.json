@@ -1,0 +1,33 @@
+{
+    "id": "555",
+    "name": "梶よう子",
+    "kana": "かじようこ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、時代小説作家。日本推理作家協会会員。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%A2%B6%E3%82%88%E3%81%86%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=611'>広重ぶるう</a>" },
+                        { "text": "第42回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=675'>一朝の夢</a>" },
+                        { "text": "第15回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

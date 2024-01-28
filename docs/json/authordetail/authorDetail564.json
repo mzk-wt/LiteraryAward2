@@ -1,0 +1,26 @@
+{
+    "id": "564",
+    "name": "渡辺優",
+    "kana": "わたなべゆう",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、推理作家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E5%84%AA",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=620'>ラメルノエリキサ</a>" },
+                        { "text": "第28回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

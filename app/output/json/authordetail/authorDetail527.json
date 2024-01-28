@@ -1,0 +1,26 @@
+{
+    "id": "527",
+    "name": "大島昌宏",
+    "kana": "おおしままさひろ",
+    "imgUrl": "None",
+    "bornDate": "1934年7月27日",
+    "deadDate": "1999年12月14日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。福井市生まれ。福井県立藤島高等学校、日本大学芸術学部卒業。広告制作会社に勤務し、多くのテレビCM制作を手がける。1992年「九頭竜川」で新田次郎文学賞受賞。1994年「罪なくして斬らる」で中山義秀文学賞を受賞した。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B3%B6%E6%98%8C%E5%AE%8F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=574'>九頭竜川</a>" },
+                        { "text": "第11回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

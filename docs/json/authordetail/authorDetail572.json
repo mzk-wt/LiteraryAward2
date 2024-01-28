@@ -1,0 +1,26 @@
+{
+    "id": "572",
+    "name": "河原千恵子",
+    "kana": "かわはらちえこ",
+    "imgUrl": "None",
+    "bornDate": "1962年10月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。『白い花と鳥たちの祈り』で第22回小説すばる新人賞を受賞する。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B2%B3%E5%8E%9F%E5%8D%83%E6%81%B5%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=629'>白い花と鳥たちの祈り</a>" },
+                        { "text": "第22回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

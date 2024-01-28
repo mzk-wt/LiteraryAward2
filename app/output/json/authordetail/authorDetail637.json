@@ -1,0 +1,26 @@
+{
+    "id": "637",
+    "name": "九段理江",
+    "kana": "くだんりえ",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B9%9D%E6%AE%B5%E7%90%86%E6%B1%9F",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=709'>東京都同情塔</a>" },
+                        { "text": "第170回 <a href='../pages/award.htm?id=1'>芥川龍之介賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

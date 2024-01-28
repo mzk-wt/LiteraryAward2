@@ -1,0 +1,26 @@
+{
+    "id": "523",
+    "name": "入江曜子",
+    "kana": "いりえようこ",
+    "imgUrl": "None",
+    "bornDate": "1935年2月13日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本のノンフィクション作家。本名は春名殷子。夫は作家の春名徹。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%85%A5%E6%B1%9F%E6%9B%9C%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=569'>我が名はエリザベス 満洲国皇帝の妻の生涯</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

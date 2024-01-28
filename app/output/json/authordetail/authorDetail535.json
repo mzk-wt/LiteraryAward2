@@ -1,0 +1,26 @@
+{
+    "id": "535",
+    "name": "大村彦次郎",
+    "kana": "おおむらひこじろう",
+    "imgUrl": "None",
+    "bornDate": "1933年9月27日",
+    "deadDate": "2019年8月30日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の編集者、文芸評論家。東京府出身。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%BD%A6%E6%AC%A1%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=584'>文壇栄華物語</a>" },
+                        { "text": "第18回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

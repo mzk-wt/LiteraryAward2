@@ -1,0 +1,26 @@
+{
+    "id": "544",
+    "name": "松本侑子",
+    "kana": "まつもとゆうこ",
+    "imgUrl": "None",
+    "bornDate": "1963年6月17日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、エッセイスト、翻訳家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E4%BE%91%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=597'>恋の蛍 山崎富栄と太宰治</a>" },
+                        { "text": "第29回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

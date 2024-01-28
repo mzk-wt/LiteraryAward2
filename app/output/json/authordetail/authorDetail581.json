@@ -1,0 +1,26 @@
+{
+    "id": "581",
+    "name": "堂場瞬一",
+    "kana": "どうばしゅんいち",
+    "imgUrl": "None",
+    "bornDate": "1963年5月21日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "堂場瞬一（どうばしゅんいち、1963年5月21日-）は日本の小説家。茨城県出身。主に、スポーツ小説、警察小説の分野で活躍する。本名、山野辺一也。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%A0%82%E5%A0%B4%E7%9E%AC%E4%B8%80",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=639'>８年</a>" },
+                        { "text": "第13回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

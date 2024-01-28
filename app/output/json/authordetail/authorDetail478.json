@@ -21,6 +21,13 @@
                         { "text": "第1回 <a href='../pages/award.htm?id=6'>本屋大賞（ノンフィクション部門）</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=599'>雪男は向こうからやって来た</a>" },
+                        { "text": "第31回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
                     ]
     }
 }

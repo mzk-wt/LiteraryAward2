@@ -1,0 +1,26 @@
+{
+    "id": "573",
+    "name": "矢野隆",
+    "kana": "",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "矢野隆<br>*矢野隆(写真家)<br>*<br>*矢野隆(小説家)このページは人名（人物）の曖昧さ回避のためのページです。同名の人物に関する複数の記事の水先案内のために、同じ人名を持つ人物を一覧にしてあります。お探しの人物の記事を選んでください。このページへリンクしているページを見つけたら、リンクを適切な項目に張り替えてください。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%9F%A2%E9%87%8E%E9%9A%86",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=631'>蛇衆</a>" },
+                        { "text": "第21回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "622",
+    "name": "渋谷雅一",
+    "kana": "None",
+    "imgUrl": "None",
+    "bornDate": "None",
+    "deadDate": "None",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "None",
+    "wikipediaUrl": "None",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=692'>質草女房</a>" },
+                        { "text": "第12回 <a href='../pages/award.htm?id=13'>角川春樹小説賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "520",
+    "name": "辺見じゅん",
+    "kana": "へんみじゅん",
+    "imgUrl": "None",
+    "bornDate": "1939年7月26日",
+    "deadDate": "2011年9月21日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の歌人・ノンフィクション作家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%BE%BA%E8%A6%8B%E3%81%98%E3%82%85%E3%82%93",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=562'>男たちの大和</a>" },
+                        { "text": "第3回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

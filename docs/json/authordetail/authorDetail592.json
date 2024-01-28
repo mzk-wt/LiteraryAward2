@@ -1,0 +1,26 @@
+{
+    "id": "592",
+    "name": "藤水名子",
+    "kana": "ふじみなこ",
+    "imgUrl": "None",
+    "bornDate": "1964年6月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、歴史小説作家、時代小説作家。日本推理作家協会会員。「涼州賦」で小説すばる新人賞を受賞する。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%97%A4%E6%B0%B4%E5%90%8D%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=654'>涼州賦</a>" },
+                        { "text": "第4回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

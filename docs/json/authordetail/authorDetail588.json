@@ -1,0 +1,26 @@
+{
+    "id": "588",
+    "name": "上野歩",
+    "kana": "うえのあゆむ",
+    "imgUrl": "None",
+    "bornDate": "1962年5月27日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家である。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E6%AD%A9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=648'>恋人といっしょになるでしょう</a>" },
+                        { "text": "第7回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "613",
+    "name": "三咲光郎",
+    "kana": "みさきみつお",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家、推理作家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E4%B8%89%E5%92%B2%E5%85%89%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=682'>群蝶の空</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

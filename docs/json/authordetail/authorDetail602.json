@@ -1,0 +1,26 @@
+{
+    "id": "602",
+    "name": "蜂須賀敬明",
+    "kana": "はちすかたかあき",
+    "imgUrl": "None",
+    "bornDate": "1987年10月17日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%9C%82%E9%A0%88%E8%B3%80%E6%95%AC%E6%98%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=667'>待ってよ</a>" },
+                        { "text": "第23回 <a href='../pages/award.htm?id=12'>松本清張賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

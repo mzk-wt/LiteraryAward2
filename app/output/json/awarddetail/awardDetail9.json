@@ -102,7 +102,7 @@
                         { "text": "10" },
                         { "text": "1976年" },
                         { "text": "<a href='../pages/author.htm?id=232'>五木寛之</a>" },
-                        { "text": "<a href='../pages/book.htm?id=483'>青春の門</a>" }
+                        { "text": "<a href='../pages/book.htm?id=483'>｢青春の門｣（筑豊篇ほか）</a>" }
                     ]
                 }
                             ,                {
@@ -236,7 +236,7 @@
                     "value": [
                         { "text": "23" },
                         { "text": "1989年" },
-                        { "text": "<a href='../pages/author.htm?id=484'>早乙女貢</a>" },
+                        { "text": "<a href='../pages/author.htm?id=237'>早乙女貢</a>" },
                         { "text": "<a href='../pages/book.htm?id=498'>會津士魂</a>" }
                     ]
                 }
@@ -535,6 +535,42 @@
                         { "text": "2019年" },
                         { "text": "<a href='../pages/author.htm?id=307'>篠田節子</a>" },
                         { "text": "<a href='../pages/book.htm?id=529'>鏡の背面</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 58,
+                    "value": [
+                        { "text": "56" },
+                        { "text": "2022" },
+                        { "text": "<a href='../pages/author.htm?id=323'>京極夏彦</a>" },
+                        { "text": "<a href='../pages/book.htm?id=557'>遠巷説百物語</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 59,
+                    "value": [
+                        { "text": "56" },
+                        { "text": "2022" },
+                        { "text": "<a href='../pages/author.htm?id=340'>中島京子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=558'>やさしい猫</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 60,
+                    "value": [
+                        { "text": "55" },
+                        { "text": "2021" },
+                        { "text": "<a href='../pages/author.htm?id=321'>村山由佳</a>" },
+                        { "text": "<a href='../pages/book.htm?id=559'>風よ あらしよ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 61,
+                    "value": [
+                        { "text": "54" },
+                        { "text": "2020" },
+                        { "text": "<a href='../pages/author.htm?id=None'></a>" },
+                        { "text": "<a href='../pages/book.htm?id=None'></a>" }
                     ]
                 }
                     ]

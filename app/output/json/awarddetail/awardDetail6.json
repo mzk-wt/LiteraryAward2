@@ -42,6 +42,24 @@
                         { "text": "<a href='../pages/book.htm?id=473'>エンド・オブ・ライフ</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 3,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "2021年" },
+                        { "text": "<a href='../pages/author.htm?id=505'>上間陽子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=543'>海をあげる</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "2022年" },
+                        { "text": "<a href='../pages/author.htm?id=516'>川内有緒</a>" },
+                        { "text": "<a href='../pages/book.htm?id=555'>目の見えない白鳥さんとアートを見にいく</a>" }
+                    ]
+                }
                     ]
     }
 }

@@ -1,0 +1,26 @@
+{
+    "id": "570",
+    "name": "畑野智美",
+    "kana": "はたのともみ",
+    "imgUrl": "None",
+    "bornDate": "1979年5月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。東京都世田谷区出身。桐光学園中学校・高等学校、東京女学館短期大学国際文化学科卒業。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E7%95%91%E9%87%8E%E6%99%BA%E7%BE%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=626'>国道沿いのファミレス</a>" },
+                        { "text": "第23回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

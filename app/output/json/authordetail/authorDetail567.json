@@ -1,0 +1,26 @@
+{
+    "id": "567",
+    "name": "櫛木理宇",
+    "kana": "くしきりう",
+    "imgUrl": "None",
+    "bornDate": "1972年7月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。2012年、『ホーンテッド・キャンパス』で第19回日本ホラー小説大賞読者賞を受賞し、小説家デビュー。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%AB%9B%E6%9C%A8%E7%90%86%E5%AE%87",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=623'>赤と白</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "528",
+    "name": "池宮彰一郎",
+    "kana": "いけみやしょういちろう",
+    "imgUrl": "None",
+    "bornDate": "1923年5月16日",
+    "deadDate": "2007年5月6日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の脚本家、小説家。本名の池上金男（いけがみかねお）で脚本家として活動、『十三人の刺客』など数多くの映画・テレビドラマの制作に関わった。1992年に小説『四十七人の刺客』を発表して以降、池宮彰一郎のペンネームを用いて歴史小説を著したが、2002年に司馬遼太郎作品との類似問題により活動をほぼ停止した。作家の池上司は息子。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B1%A0%E5%AE%AE%E5%BD%B0%E4%B8%80%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=576'>四十七人の刺客</a>" },
+                        { "text": "第12回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

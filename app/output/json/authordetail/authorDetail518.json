@@ -1,0 +1,26 @@
+{
+    "id": "518",
+    "name": "沢木耕太郎",
+    "kana": "さわきこうたろう",
+    "imgUrl": "None",
+    "bornDate": "1947年11月29日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本のノンフィクション作家、エッセイスト、小説家、写真家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B2%A2%E6%9C%A8%E8%80%95%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=560'>一瞬の夏</a>" },
+                        { "text": "第1回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

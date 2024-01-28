@@ -1,0 +1,26 @@
+{
+    "id": "580",
+    "name": "松樹剛史",
+    "kana": "まつきたけし",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "静岡県出身の日本の小説家。大正大学文学部日本文学科卒業。男性。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%9D%BE%E6%A8%B9%E5%89%9B%E5%8F%B2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=638'>ジョッキー</a>" },
+                        { "text": "第14回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

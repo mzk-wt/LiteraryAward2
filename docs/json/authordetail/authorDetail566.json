@@ -1,0 +1,26 @@
+{
+    "id": "566",
+    "name": "周防柳",
+    "kana": "すおうやなぎ",
+    "imgUrl": "None",
+    "bornDate": "1964年12月21日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。本名：非公表。東京都練馬区出身。　",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%91%A8%E9%98%B2%E6%9F%B3",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=622'>八月の青い蝶</a>" },
+                        { "text": "第26回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

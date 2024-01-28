@@ -1,0 +1,26 @@
+{
+    "id": "515",
+    "name": "逢坂冬馬",
+    "kana": "あいさかとうま",
+    "imgUrl": "None",
+    "bornDate": "",
+    "deadDate": "",
+    "countryId": "None",
+    "countryName": "",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E5%86%AC%E9%A6%AC",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=552'>同志少女よ、敵を撃て</a>" },
+                        { "text": "第19回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

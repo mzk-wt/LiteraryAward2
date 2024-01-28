@@ -1,0 +1,26 @@
+{
+    "id": "538",
+    "name": "津野海太郎",
+    "kana": "つのかいたろう",
+    "imgUrl": "None",
+    "bornDate": "1938年4月6日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の演出家・編集者・評論家。元晶文社取締役、和光大学名誉教授。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%B4%A5%E9%87%8E%E6%B5%B7%E5%A4%AA%E9%83%8E",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=589'>滑稽な巨人 坪内逍遙の夢</a>" },
+                        { "text": "第22回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -14,13 +14,6 @@
             "タイトル", "受賞" 
         ],
         "listitem": [
-                                            {
-                    "key": 0,
-                    "value": [
-                        { "text": "<a href='../pages/book.htm?id=498'>會津士魂</a>" },
-                        { "text": "第23回 <a href='../pages/award.htm?id=9'>吉川英治文学賞</a>" }
-                    ]
-                }
                     ]
     }
 }

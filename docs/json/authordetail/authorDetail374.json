@@ -21,6 +21,13 @@
                         { "text": "第17回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
                     ]
                 }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=707'>汝、星のごとく</a>" },
+                        { "text": "第20回 <a href='../pages/award.htm?id=3'>本屋大賞</a>" }
+                    ]
+                }
                     ]
     }
 }

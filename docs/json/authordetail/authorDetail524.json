@@ -1,0 +1,26 @@
+{
+    "id": "524",
+    "name": "鎌田慧",
+    "kana": "かまたさとし",
+    "imgUrl": "None",
+    "bornDate": "1938年6月12日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本のルポライター。シューレ大学アドバイザー。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%8E%8C%E7%94%B0%E6%85%A7",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=570'>反骨 鈴木東民の生涯</a>" },
+                        { "text": "第9回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -15,6 +15,474 @@
             "回", "受賞年", "受賞者", "受賞作"
         ],
         "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "1" },
+                        { "text": "1982" },
+                        { "text": "<a href='../pages/author.htm?id=518'>沢木耕太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=560'>一瞬の夏</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "2" },
+                        { "text": "1983" },
+                        { "text": "<a href='../pages/author.htm?id=519'>若城希伊子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=561'>小さな島の明治維新 ドミンゴ松次郎の旅</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "1984" },
+                        { "text": "<a href='../pages/author.htm?id=520'>辺見じゅん</a>" },
+                        { "text": "<a href='../pages/book.htm?id=562'>男たちの大和</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 3,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "1985" },
+                        { "text": "<a href='../pages/author.htm?id=297'>佐藤雅美</a>" },
+                        { "text": "<a href='../pages/book.htm?id=563'>大君の通貨 幕末「円ドル」戦争</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "1985" },
+                        { "text": "<a href='../pages/author.htm?id=521'>角田房子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=564'>責任 ラバウルの将軍今村均</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 5,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "1986" },
+                        { "text": "<a href='../pages/author.htm?id=75'>岡松和夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=565'>異郷の歌</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 6,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "1987" },
+                        { "text": "<a href='../pages/author.htm?id=245'>長部日出雄</a>" },
+                        { "text": "<a href='../pages/book.htm?id=566'>見知らぬ戦場</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 7,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "1988" },
+                        { "text": "<a href='../pages/author.htm?id=522'>中野孝次</a>" },
+                        { "text": "<a href='../pages/book.htm?id=567'>ハラスのいた日々</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 8,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "1988" },
+                        { "text": "<a href='../pages/author.htm?id=300'>海老沢泰久</a>" },
+                        { "text": "<a href='../pages/book.htm?id=568'>F1 地上の夢</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 9,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "1989" },
+                        { "text": "<a href='../pages/author.htm?id=523'>入江曜子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=569'>我が名はエリザベス 満洲国皇帝の妻の生涯</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 10,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "1990" },
+                        { "text": "<a href='../pages/author.htm?id=524'>鎌田慧</a>" },
+                        { "text": "<a href='../pages/book.htm?id=570'>反骨 鈴木東民の生涯</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 11,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "1990" },
+                        { "text": "<a href='../pages/author.htm?id=525'>佐江衆一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=571'>北の海明け</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 12,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "1990" },
+                        { "text": "<a href='../pages/author.htm?id=526'>早坂暁</a>" },
+                        { "text": "<a href='../pages/book.htm?id=572'>華日記 昭和生け花戦国史</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 13,
+                    "value": [
+                        { "text": "10" },
+                        { "text": "1991" },
+                        { "text": "<a href='../pages/author.htm?id=289'>宮城谷昌光</a>" },
+                        { "text": "<a href='../pages/book.htm?id=573'>天空の舟 小説・伊尹伝</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 14,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "1992" },
+                        { "text": "<a href='../pages/author.htm?id=527'>大島昌宏</a>" },
+                        { "text": "<a href='../pages/book.htm?id=574'>九頭竜川</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 15,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "1992" },
+                        { "text": "<a href='../pages/author.htm?id=83'>高橋揆一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=575'>友子</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 16,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "1993" },
+                        { "text": "<a href='../pages/author.htm?id=528'>池宮彰一郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=576'>四十七人の刺客</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 17,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "1993" },
+                        { "text": "<a href='../pages/author.htm?id=529'>半藤一利</a>" },
+                        { "text": "<a href='../pages/book.htm?id=577'>漱石先生ぞな、もし</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 18,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "1993" },
+                        { "text": "<a href='../pages/author.htm?id=530'>もりたなるお</a>" },
+                        { "text": "<a href='../pages/book.htm?id=578'>山を貫く</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 19,
+                    "value": [
+                        { "text": "13" },
+                        { "text": "1994" },
+                        { "text": "<a href='../pages/author.htm?id=531'>岩橋邦枝</a>" },
+                        { "text": "<a href='../pages/book.htm?id=579'>評伝長谷川時雨</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 20,
+                    "value": [
+                        { "text": "14" },
+                        { "text": "1995" },
+                        { "text": "<a href='../pages/author.htm?id=279'>西木正明</a>" },
+                        { "text": "<a href='../pages/book.htm?id=580'>夢幻の山旅</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 21,
+                    "value": [
+                        { "text": "15" },
+                        { "text": "1996" },
+                        { "text": "<a href='../pages/author.htm?id=532'>谷甲州</a>" },
+                        { "text": "<a href='../pages/book.htm?id=581'>「白き嶺の男」「沢の音」「頂稜」</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 22,
+                    "value": [
+                        { "text": "16" },
+                        { "text": "1997" },
+                        { "text": "<a href='../pages/author.htm?id=533'>吉川潮</a>" },
+                        { "text": "<a href='../pages/book.htm?id=582'>江戸前の男 春風亭柳朝一代記</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 23,
+                    "value": [
+                        { "text": "17" },
+                        { "text": "1998" },
+                        { "text": "<a href='../pages/author.htm?id=534'>山崎光夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=583'>藪の中の家 芥川自死の謎を解く</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 24,
+                    "value": [
+                        { "text": "18" },
+                        { "text": "1999" },
+                        { "text": "<a href='../pages/author.htm?id=535'>大村彦次郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=584'>文壇栄華物語</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 25,
+                    "value": [
+                        { "text": "19" },
+                        { "text": "2000" },
+                        { "text": "<a href='../pages/author.htm?id=325'>熊谷達也</a>" },
+                        { "text": "<a href='../pages/book.htm?id=585'>漂泊の牙</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 26,
+                    "value": [
+                        { "text": "19" },
+                        { "text": "2000" },
+                        { "text": "<a href='../pages/author.htm?id=536'>酒見賢一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=586'>周公旦</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 27,
+                    "value": [
+                        { "text": "20" },
+                        { "text": "2001" },
+                        { "text": "<a href='../pages/author.htm?id=537'>杉山正樹</a>" },
+                        { "text": "<a href='../pages/book.htm?id=587'>寺山修司・遊戯の人</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 28,
+                    "value": [
+                        { "text": "21" },
+                        { "text": "2002" },
+                        { "text": "<a href='../pages/author.htm?id=338'>佐々木譲</a>" },
+                        { "text": "<a href='../pages/book.htm?id=588'>武揚伝</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 29,
+                    "value": [
+                        { "text": "22" },
+                        { "text": "2003" },
+                        { "text": "<a href='../pages/author.htm?id=538'>津野海太郎</a>" },
+                        { "text": "<a href='../pages/book.htm?id=589'>滑稽な巨人 坪内逍遙の夢</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 30,
+                    "value": [
+                        { "text": "23" },
+                        { "text": "2004" },
+                        { "text": "<a href='../pages/author.htm?id=539'>東郷隆</a>" },
+                        { "text": "<a href='../pages/book.htm?id=590'>狙うて候 銃豪村田経芳の生涯</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 31,
+                    "value": [
+                        { "text": "24" },
+                        { "text": "2005" },
+                        { "text": "<a href='../pages/author.htm?id=299'>中村彰彦</a>" },
+                        { "text": "<a href='../pages/book.htm?id=591'>落花は枝に還らずとも 会津藩士・秋月悌次郎</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 32,
+                    "value": [
+                        { "text": "25" },
+                        { "text": "2006" },
+                        { "text": "<a href='../pages/author.htm?id=540'>真保裕一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=592'>灰色の北壁</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 33,
+                    "value": [
+                        { "text": "26" },
+                        { "text": "2007" },
+                        { "text": "<a href='../pages/author.htm?id=541'>諸田玲子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=593'>奸婦にあらず</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 34,
+                    "value": [
+                        { "text": "27" },
+                        { "text": "2008" },
+                        { "text": "<a href='../pages/author.htm?id=542'>見延典子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=594'>頼山陽</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 35,
+                    "value": [
+                        { "text": "28" },
+                        { "text": "2009" },
+                        { "text": "<a href='../pages/author.htm?id=543'>植松三十里</a>" },
+                        { "text": "<a href='../pages/book.htm?id=595'>群青 日本海軍の礎を築いた男</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 36,
+                    "value": [
+                        { "text": "29" },
+                        { "text": "2010" },
+                        { "text": "<a href='../pages/author.htm?id=491'>帚木蓬生</a>" },
+                        { "text": "<a href='../pages/book.htm?id=596'>水神</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 37,
+                    "value": [
+                        { "text": "29" },
+                        { "text": "2010" },
+                        { "text": "<a href='../pages/author.htm?id=544'>松本侑子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=597'>恋の蛍 山崎富栄と太宰治</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 38,
+                    "value": [
+                        { "text": "30" },
+                        { "text": "2011" },
+                        { "text": "<a href='../pages/author.htm?id=545'>竹田真砂子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=598'>あとより恋の責めくれば 御家人南畝先生</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 39,
+                    "value": [
+                        { "text": "31" },
+                        { "text": "2012" },
+                        { "text": "<a href='../pages/author.htm?id=478'>角幡唯介</a>" },
+                        { "text": "<a href='../pages/book.htm?id=599'>雪男は向こうからやって来た</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 40,
+                    "value": [
+                        { "text": "32" },
+                        { "text": "2013" },
+                        { "text": "<a href='../pages/author.htm?id=499'>澤田瞳子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=600'>満つる月の如し 仏師・定朝</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 41,
+                    "value": [
+                        { "text": "33" },
+                        { "text": "2014" },
+                        { "text": "<a href='../pages/author.htm?id=516'>川内有緒</a>" },
+                        { "text": "<a href='../pages/book.htm?id=601'>バウルを探して 地球の片隅に伝わる秘密の歌</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 42,
+                    "value": [
+                        { "text": "33" },
+                        { "text": "2014" },
+                        { "text": "<a href='../pages/author.htm?id=546'>幸田真音</a>" },
+                        { "text": "<a href='../pages/book.htm?id=602'>天佑なり 高橋是清・百年前の日本国債</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 43,
+                    "value": [
+                        { "text": "34" },
+                        { "text": "2015" },
+                        { "text": "<a href='../pages/author.htm?id=547'>尾崎真理子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=603'>ひみつの王国 評伝 石井桃子</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 44,
+                    "value": [
+                        { "text": "35" },
+                        { "text": "2016" },
+                        { "text": "<a href='../pages/author.htm?id=548'>長谷川康夫</a>" },
+                        { "text": "<a href='../pages/book.htm?id=604'>つかこうへい正伝 1968-1982</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 45,
+                    "value": [
+                        { "text": "36" },
+                        { "text": "2017" },
+                        { "text": "<a href='../pages/author.htm?id=549'>原田マハ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=605'>リーチ先生</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 46,
+                    "value": [
+                        { "text": "37" },
+                        { "text": "2018" },
+                        { "text": "<a href='../pages/author.htm?id=550'>奥山景布子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=606'>葵の残葉</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 47,
+                    "value": [
+                        { "text": "38" },
+                        { "text": "2019" },
+                        { "text": "<a href='../pages/author.htm?id=551'>伊与原新</a>" },
+                        { "text": "<a href='../pages/book.htm?id=607'>月まで三キロ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 48,
+                    "value": [
+                        { "text": "39" },
+                        { "text": "2020" },
+                        { "text": "<a href='../pages/author.htm?id=552'>河﨑秋子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=608'>土に贖う</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 49,
+                    "value": [
+                        { "text": "40" },
+                        { "text": "2021" },
+                        { "text": "<a href='../pages/author.htm?id=553'>永井紗耶子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=609'>商う狼 江戸商人 杉本茂十郎</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 50,
+                    "value": [
+                        { "text": "41" },
+                        { "text": "2022" },
+                        { "text": "<a href='../pages/author.htm?id=554'>玉岡かおる</a>" },
+                        { "text": "<a href='../pages/book.htm?id=610'>帆神 北前船を馳せた男・工楽松右衛門</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 51,
+                    "value": [
+                        { "text": "42" },
+                        { "text": "2023" },
+                        { "text": "<a href='../pages/author.htm?id=555'>梶よう子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=611'>広重ぶるう</a>" }
+                    ]
+                }
                     ]
     }
 }

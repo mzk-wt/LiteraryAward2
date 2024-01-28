@@ -1,0 +1,26 @@
+{
+    "id": "529",
+    "name": "半藤一利",
+    "kana": "はんどうかずとし",
+    "imgUrl": "None",
+    "bornDate": "1930年5月21日",
+    "deadDate": "2021年1月12日",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本のジャーナリスト、戦史研究家、作家。近現代史、特に昭和史に関し人物論・史論を、対談・座談も含め多く刊行している。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%8D%8A%E8%97%A4%E4%B8%80%E5%88%A9",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=577'>漱石先生ぞな、もし</a>" },
+                        { "text": "第12回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

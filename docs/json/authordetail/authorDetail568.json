@@ -1,0 +1,26 @@
+{
+    "id": "568",
+    "name": "行成薫",
+    "kana": "ゆきなりかおる",
+    "imgUrl": "None",
+    "bornDate": "1979年8月10日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%A1%8C%E6%88%90%E8%96%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=624'>名も無き世界のエンドロール</a>" },
+                        { "text": "第25回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

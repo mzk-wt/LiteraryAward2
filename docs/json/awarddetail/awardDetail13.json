@@ -15,6 +15,132 @@
             "回", "受賞年", "受賞者", "受賞作"
         ],
         "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "14" },
+                        { "text": "2022" },
+                        { "text": "<a href='../pages/author.htm?id=620'>森明日香</a>" },
+                        { "text": "<a href='../pages/book.htm?id=690'>写楽女</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 1,
+                    "value": [
+                        { "text": "13" },
+                        { "text": "2021" },
+                        { "text": "<a href='../pages/author.htm?id=621'>稲田幸久</a>" },
+                        { "text": "<a href='../pages/book.htm?id=691'>駆ける　少年騎馬遊撃隊</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 2,
+                    "value": [
+                        { "text": "12" },
+                        { "text": "2020" },
+                        { "text": "<a href='../pages/author.htm?id=622'>渋谷雅一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=692'>質草女房</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 3,
+                    "value": [
+                        { "text": "11" },
+                        { "text": "2019" },
+                        { "text": "<a href='../pages/author.htm?id=623'>柿本みづほ</a>" },
+                        { "text": "<a href='../pages/book.htm?id=693'>ブラックシープ・キーパー</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 4,
+                    "value": [
+                        { "text": "10" },
+                        { "text": "2018" },
+                        { "text": "<a href='../pages/author.htm?id=496'>今村翔吾</a>" },
+                        { "text": "<a href='../pages/book.htm?id=694'>童の神</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 5,
+                    "value": [
+                        { "text": "9" },
+                        { "text": "2017" },
+                        { "text": "<a href='../pages/author.htm?id=624'>佐々木功</a>" },
+                        { "text": "<a href='../pages/book.htm?id=695'>乱世をゆけ</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 6,
+                    "value": [
+                        { "text": "8" },
+                        { "text": "2016" },
+                        { "text": "<a href='../pages/author.htm?id=625'>橘沙羅</a>" },
+                        { "text": "<a href='../pages/book.htm?id=696'>横濱つんてんらいら</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 7,
+                    "value": [
+                        { "text": "7" },
+                        { "text": "2015" },
+                        { "text": "<a href='../pages/author.htm?id=626'>櫻部由美子</a>" },
+                        { "text": "<a href='../pages/book.htm?id=697'>シンデレラの告白</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 8,
+                    "value": [
+                        { "text": "6" },
+                        { "text": "2014" },
+                        { "text": "<a href='../pages/author.htm?id=627'>鳴神響一</a>" },
+                        { "text": "<a href='../pages/book.htm?id=698'>私が愛したサムライの娘</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 9,
+                    "value": [
+                        { "text": "5" },
+                        { "text": "2013" },
+                        { "text": "<a href='../pages/author.htm?id=628'>池田久輝</a>" },
+                        { "text": "<a href='../pages/book.htm?id=699'>晩夏光</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 10,
+                    "value": [
+                        { "text": "4" },
+                        { "text": "2012" },
+                        { "text": "<a href='../pages/author.htm?id=629'>知野みさき</a>" },
+                        { "text": "<a href='../pages/book.htm?id=700'>妖国の剣士</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 11,
+                    "value": [
+                        { "text": "3" },
+                        { "text": "2011" },
+                        { "text": "<a href='../pages/author.htm?id=630'>又井健太</a>" },
+                        { "text": "<a href='../pages/book.htm?id=701'>新小岩パラダイス</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 12,
+                    "value": [
+                        { "text": "2" },
+                        { "text": "2000" },
+                        { "text": "<a href='../pages/author.htm?id=631'>長谷川卓</a>" },
+                        { "text": "<a href='../pages/book.htm?id=702'>血路　南稜七ツ家秘録</a>" }
+                    ]
+                }
+                            ,                {
+                    "key": 13,
+                    "value": [
+                        { "text": "1" },
+                        { "text": "1999" },
+                        { "text": "<a href='../pages/author.htm?id=632'>辻昌利</a>" },
+                        { "text": "<a href='../pages/book.htm?id=703'>ひらめきの風　黎明篇</a>" }
+                    ]
+                }
                     ]
     }
 }

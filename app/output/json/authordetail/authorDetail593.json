@@ -1,0 +1,26 @@
+{
+    "id": "593",
+    "name": "草薙渉",
+    "kana": "くさなぎわたる",
+    "imgUrl": "None",
+    "bornDate": "1947年4月3日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の作家。和歌山県生まれ。日本大学経済学部卒業。1989年「草小路鷹麿の東方見聞録」で小説すばる新人賞受賞。以後作家生活に入る。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E8%8D%89%E8%96%99%E6%B8%89",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=657'>草小路鷹麿の東方見聞録</a>" },
+                        { "text": "第2回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

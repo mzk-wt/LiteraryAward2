@@ -1,0 +1,26 @@
+{
+    "id": "587",
+    "name": "武谷牧子",
+    "kana": "たけやまきこ",
+    "imgUrl": "None",
+    "bornDate": "1953年2月17日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。鹿児島県生まれ。1975年、慶應義塾大学文学部英文科を卒業する。1995年、「英文科AトゥZ」で第8回小説すばる新人賞を受賞する（同時受賞は、早乙女朋子「バーバーの肖像」）。2006年、『テムズのあぶく』で第1回日経小説大賞を受賞する。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E6%AD%A6%E8%B0%B7%E7%89%A7%E5%AD%90",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=647'>英文科ＡトゥＺ</a>" },
+                        { "text": "第8回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "534",
+    "name": "山崎光夫",
+    "kana": "やまざきみつお",
+    "imgUrl": "None",
+    "bornDate": "1947年3月20日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の作家。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E5%85%89%E5%A4%AB",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=583'>藪の中の家 芥川自死の謎を解く</a>" },
+                        { "text": "第17回 <a href='../pages/award.htm?id=10'>新田次郎文学賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

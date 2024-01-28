@@ -1,0 +1,26 @@
+{
+    "id": "512",
+    "name": "小川哲",
+    "kana": "おがわさとし",
+    "imgUrl": "None",
+    "bornDate": "1986年12月25日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本のSF作家。千葉県千葉市出身。東京都在住。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E5%93%B2",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=549'>地図と拳</a>" },
+                        { "text": "第168回 <a href='../pages/award.htm?id=2'>直木三十五賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}

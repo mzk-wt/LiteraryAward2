@@ -1,0 +1,26 @@
+{
+    "id": "579",
+    "name": "関口尚",
+    "kana": "せきぐちひさし",
+    "imgUrl": "None",
+    "bornDate": "1972年9月19日",
+    "deadDate": "",
+    "countryId": "108",
+    "countryName": "日本",
+    "overview": "日本の小説家。栃木県下都賀郡岩舟町（現・栃木市）生まれ。岩手大学卒業、茨城大学大学院人文科学研究科修了。2002年、『プリズムの夏』で小説すばる新人賞を受賞してデビュー。",
+    "wikipediaUrl": "http://ja.wikipedia.org/wiki/%E9%96%A2%E5%8F%A3%E5%B0%9A",
+    "awardWinningWorks": {
+        "listtitle": [
+            "タイトル", "受賞" 
+        ],
+        "listitem": [
+                                            {
+                    "key": 0,
+                    "value": [
+                        { "text": "<a href='../pages/book.htm?id=637'>プリズムの夏</a>" },
+                        { "text": "第15回 <a href='../pages/award.htm?id=11'>小説すばる新人賞</a>" }
+                    ]
+                }
+                    ]
+    }
+}
