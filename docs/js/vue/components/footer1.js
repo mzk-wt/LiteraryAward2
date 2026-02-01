@@ -7,6 +7,13 @@
         <footer class="footer">
             <div class="content has-text-centered">
                 <p>
+                    <a href="https://store.line.me/stickershop/author/5892638/ja" target="_blank">
+                        <img :src="rootpath + 'img/neko_borg_banner_main.jpg'" style="width:512px;" />
+                    </a>
+                </p>
+            </div>
+            <div class="content has-text-centered">
+                <p>
                     &copy; 2020 LADB
                     &nbsp;&nbsp;
                     <a href="https://twitter.com/LiteraryAwardDB" target="_blank">
